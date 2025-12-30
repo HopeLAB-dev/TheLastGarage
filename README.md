@@ -16,7 +16,7 @@
 | Name | Role | GitHub |
 |---|---|---|
 | **Emir Bera Soğuk** | Lead Developer | [@emirberasoguk](https://github.com/emirberasoguk) |
-| **Emre Acar** | Lead Developer | [@emreacar](https://github.com/emreacr) |
+| **Emre Acar** | Lead Developer | [@emreacr](https://github.com/emreacr) |
 
 ---
 
