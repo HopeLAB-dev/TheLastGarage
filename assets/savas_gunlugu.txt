@@ -1,3 +1,33 @@
-[14:46:06] ======================================
-[14:46:06]         SAVAŞ GÜNLÜĞÜ BAŞLADI
-[14:46:06] ======================================
+[21:43:25] ======================================
+[21:43:25]         SAVAŞ GÜNLÜĞÜ BAŞLADI
+[21:43:25] ======================================
+[21:43:27] Dalga 1 Başladı. (Tip: Karışık, Sayı: 4)
+[21:43:27] Düşman 'MotorluCapulcu-ID113' (Can: 50/50, Zırh: 0) haritaya girdi.
+[21:43:29] Düşman 'MotorluCapulcu-ID114' (Can: 50/50, Zırh: 0) haritaya girdi.
+[21:43:31] Düşman 'ZirhliKamyon-ID115' (Can: 75/75, Zırh: 86) haritaya girdi.
+[21:43:32] Düşman 'GozcuUcagi-ID116' (Can: 50/50, Zırh: 0) haritaya girdi.
+[21:43:35] 'GozcuUcagi-ID116' üsse ulaştı. Oyuncu Canı: 95 (-5)
+[21:43:35] 'MotorluCapulcu-ID113' üsse ulaştı. Oyuncu Canı: 90 (-5)
+[21:43:35] 'MotorluCapulcu-ID114' üsse ulaştı. Oyuncu Canı: 85 (-5)
+[21:43:38] 'ZirhliKamyon-ID115' üsse ulaştı. Oyuncu Canı: 75 (-10)
+[21:43:38] Dalga 1 Bitti.
+[21:43:38] Dalga 2 Başladı. (Tip: Karışık, Sayı: 8)
+[21:43:38] Düşman 'MotorluCapulcu-ID117' (Can: 50/50, Zırh: 0) haritaya girdi.
+[21:43:40] Düşman 'ZirhliKamyon-ID118' (Can: 75/75, Zırh: 90) haritaya girdi.
+[21:43:40] 'MotorluCapulcu-ID117' üsse ulaştı. Oyuncu Canı: 70 (-5)
+[21:43:41] Düşman 'ZirhliKamyon-ID119' (Can: 75/75, Zırh: 64) haritaya girdi.
+[21:43:42] Düşman 'ZirhliKamyon-ID120' (Can: 75/75, Zırh: 62) haritaya girdi.
+[21:43:43] Düşman 'ZirhliKamyon-ID121' (Can: 75/75, Zırh: 80) haritaya girdi.
+[21:43:44] 'ZirhliKamyon-ID118' üsse ulaştı. Oyuncu Canı: 60 (-10)
+[21:43:44] Düşman 'ZirhliKamyon-ID122' (Can: 75/75, Zırh: 61) haritaya girdi.
+[21:43:45] 'ZirhliKamyon-ID119' üsse ulaştı. Oyuncu Canı: 50 (-10)
+[21:43:46] Düşman 'ZirhliKamyon-ID123' (Can: 75/75, Zırh: 64) haritaya girdi.
+[21:43:47] 'ZirhliKamyon-ID120' üsse ulaştı. Oyuncu Canı: 40 (-10)
+[21:43:47] Düşman 'GozcuUcagi-ID124' (Can: 50/50, Zırh: 0) haritaya girdi.
+[21:43:48] Düşman 'GozcuUcagi-ID125' (Can: 50/50, Zırh: 0) haritaya girdi.
+[21:44:03] 'ZirhliKamyon-ID121' üsse ulaştı. Oyuncu Canı: 30 (-10)
+[21:44:11] 'GozcuUcagi-ID124' üsse ulaştı. Oyuncu Canı: 25 (-5)
+[21:44:18] 'GozcuUcagi-ID125' üsse ulaştı. Oyuncu Canı: 20 (-5)
+[21:44:19] 'ZirhliKamyon-ID122' üsse ulaştı. Oyuncu Canı: 10 (-10)
+[21:44:22] 'ZirhliKamyon-ID123' üsse ulaştı. Oyuncu Canı: 0 (-10)
+[21:44:22] Dalga 2 Bitti.
