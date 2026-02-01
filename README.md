@@ -12,6 +12,9 @@
 
 > **"Protect the last haven of humanity. Tighten the bolts, start the engines, and begin the defense!"**
 
+![Gameplay Demo](assets/gameplay.gif)
+*If the GIF doesn't load, please check the 'assets' folder.*
+
 **The Last Garage** is a strategic Tower Defense game set in a post-apocalyptic world. Players must use limited scrap resources to build defensive towers and protect the garage against relentless mechanical enemies.
 
 ### 🚀 Download & Play (No Installation Required)
@@ -78,6 +81,18 @@ Oyunumuz **kendi içinde Java motoruyla (Bundled JRE)** birlikte gelir. Yani bil
 |---|---|---|
 | **Emir Bera Soğuk** | Lead Developer | [@emirberasoguk](https://github.com/emirberasoguk) |
 | **Emre Acar** | Lead Developer | [@emreacr](https://github.com/emreacr) |
+
+---
+
+## 🎨 Credits & Attributions
+
+This project uses assets from various sources. Special thanks to:
+
+*   **Graphics:** [Asset Creator Name/Link] (e.g., Kenny Assets, OpenGameArt)
+*   **Audio:** [Audio Creator Name/Link]
+*   **Libraries:** LibGDX Framework
+
+*(Please update this section with the actual sources of your assets to respect licenses!)*
 
 ---
 *Developed for Kocaeli University - Programming Laboratory II Project.*
