@@ -1,5 +1,7 @@
 # The Last Garage 🛡️🚛
 
+[![Build LibGDX Project](https://github.com/HopeLAB-dev/TheLastGarage/actions/workflows/gradle.yml/badge.svg)](https://github.com/HopeLAB-dev/TheLastGarage/actions/workflows/gradle.yml)
+[![CodeQL](https://github.com/HopeLAB-dev/TheLastGarage/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/HopeLAB-dev/TheLastGarage/actions/workflows/github-code-scanning/codeql)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Linux%20|%20MacOS-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Playable-brightgreen.svg)
