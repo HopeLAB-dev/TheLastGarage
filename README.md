@@ -24,11 +24,13 @@ Our game comes with a **Bundled JRE**, meaning you can play it even if you don't
 👉 **[⬇️ Download Latest Version (GitHub Releases)](https://github.com/emirberasoguk/The-Last-Garage/releases)**
 
 #### 🎮 How to Run?
-*   **Windows:** Extract `TheLastGarage-Windows.zip` and run **`Prolab2.exe`**.
-*   **Linux:** Extract `TheLastGarage-Linux.zip` and run **`Prolab2`**. (Use `chmod +x Prolab2` if needed).
-*   **MacOS:** Extract `TheLastGarage-MacOS.zip` and run **`Prolab2.app`**.
+
+* **Windows:** Extract `TheLastGarage-Windows.zip` and run **`Prolab2.exe`**.
+* **Linux:** Extract `TheLastGarage-Linux.zip` and run **`Prolab2`**. (Use `chmod +x Prolab2` if needed).
+* **MacOS:** Extract `TheLastGarage-MacOS.zip` and run **`Prolab2.app`**.
 
 ### ✨ Key Features
+
 * **Nail Launcher:** High damage and slows down enemies.
 * **Wrench Thrower:** Balanced fire rate and range.
 * **Oil Spiller:** Deals Area of Effect (AoE) damage to ground units.
@@ -49,9 +51,10 @@ Oyunumuz **kendi içinde Java motoruyla (Bundled JRE)** birlikte gelir. Yani bil
 👉 **[⬇️ Son Sürümü İndir (GitHub Releases)](https://github.com/emirberasoguk/The-Last-Garage/releases)**
 
 #### 🎮 Nasıl Çalıştırılır?
-*   **Windows:** `TheLastGarage-Windows.zip` dosyasını çıkartın ve **`Prolab2.exe`** dosyasını çalıştırın.
-*   **Linux:** `TheLastGarage-Linux.zip` dosyasını çıkartın ve **`Prolab2`** dosyasını çalıştırın.
-*   **MacOS:** `TheLastGarage-MacOS.zip` dosyasını çıkartın ve **`Prolab2.app`** uygulamasını başlatın.
+
+* **Windows:** `TheLastGarage-Windows.zip` dosyasını çıkartın ve **`Prolab2.exe`** dosyasını çalıştırın.
+* **Linux:** `TheLastGarage-Linux.zip` dosyasını çıkartın ve **`Prolab2`** dosyasını çalıştırın.
+* **MacOS:** `TheLastGarage-MacOS.zip` dosyasını çıkartın ve **`Prolab2.app`** uygulamasını başlatın.
 
 ---
 
@@ -88,11 +91,8 @@ Oyunumuz **kendi içinde Java motoruyla (Bundled JRE)** birlikte gelir. Yani bil
 
 This project uses assets from various sources. Special thanks to:
 
-*   **Graphics:** [Asset Creator Name/Link] (e.g., Kenny Assets, OpenGameArt)
-*   **Audio:** [Audio Creator Name/Link]
-*   **Libraries:** LibGDX Framework
-
-*(Please update this section with the actual sources of your assets to respect licenses!)*
+* **Graphics:** [Gemini Nano Banana Pro]
+* **Libraries:** LibGDX Framework
 
 ---
 *Developed for Kocaeli University - Programming Laboratory II Project.*
