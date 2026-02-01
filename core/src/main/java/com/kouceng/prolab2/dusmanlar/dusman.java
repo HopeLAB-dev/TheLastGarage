@@ -40,6 +40,7 @@ public abstract class dusman {
     private static int nextID = 100;
     public String enemyID;
     protected long hitFlashEndTime = 0;
+    protected boolean isBoss = false;
 
     public dusman(int hp, float speed, double armor, int reward, boolean isFlying, int damage) {
 
@@ -62,6 +63,18 @@ public abstract class dusman {
             hpPixel = new Texture(p);
             p.dispose();
         }
+    }
+
+    public void makeBoss() {
+        this.isBoss = true;
+        this.hp *= 3; // 3 kat can
+        this.maxHp = this.hp;
+        this.damage *= 2; // 2 kat hasar
+        this.reward *= 5; // 5 kat ödül
+        
+        // Boyutu %50 büyüt
+        this.width *= 1.5f;
+        this.height *= 1.5f;
     }
 
     protected void setTexture(Texture tex) {
@@ -137,6 +150,9 @@ public abstract class dusman {
         }
         else if (isSlowed()) {
             batch.setColor(0.6f, 0.6f, 1f, 1f); // mavi slow efekti
+        }
+        else if (isBoss) {
+            batch.setColor(1f, 0.5f, 0.5f, 1f); // Boss rengi (hafif kırmızı)
         }
         else {
             batch.setColor(Color.WHITE);

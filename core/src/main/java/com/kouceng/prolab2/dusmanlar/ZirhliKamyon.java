@@ -7,7 +7,7 @@ import java.util.Random;
 public class ZirhliKamyon extends dusman {
 
     public ZirhliKamyon() {
-        super(75, 25, 0, 20, false, 10);
+        super(75, 25, 0, 35, false, 10);
 
         // Rastgele zırh
         Random rand = new Random();

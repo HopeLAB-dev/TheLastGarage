@@ -62,6 +62,7 @@ public class GameScreen implements Screen {
     private int scrap = 200;
     private int garageHp = 100;
     private int wave = 0;
+    private int totalEnemiesKilled = 0; // Istatistik
 
     private boolean isGameOver = false;
     private boolean isPaused = false;
@@ -81,6 +82,18 @@ public class GameScreen implements Screen {
     private String selectedTower = null;
     private Vector2 ghostSnap = null;
     private float ghostRange = 120;
+    
+    // Tooltip icin
+    private String tooltipText = null;
+    
+    // Tutorial (Tanitim) Penceresi icin
+    private boolean isTutorialOpen = false;
+    private String tutTitle = "";
+    private String tutBody = "";
+    private Texture tutImg = null;
+    
+    // Tutorial gorselleri (Cache)
+    private Texture texMotorcu, texKamyon, texUcak;
 
 
     //constructor
@@ -121,6 +134,11 @@ public class GameScreen implements Screen {
         texBtnCiviDisabled = new Texture("civi_pasif.png");
         texBtnAnahtarDisabled = new Texture("anahtar_pasif.png");
         texBtnYagDisabled = new Texture("yag_pasif.png");
+        
+        // Tutorial Textures
+        texMotorcu = new Texture("motorlu_capulcu.png");
+        texKamyon = new Texture("zirhli_kamyon.png");
+        texUcak = new Texture("gozcu_ucagi.png");
 
         uiStage = new Stage(new ScreenViewport());
         Gdx.input.setInputProcessor(uiStage);
@@ -135,13 +153,13 @@ public class GameScreen implements Screen {
     private void initButtons() {
 
         btnCivi = new ImageButton(new TextureRegionDrawable(new TextureRegion(texBtnCivi)));
-        setupButton(btnCivi, "Civi", 70, 360, 15);
+        setupButton(btnCivi, "Civi", 70, 360, 15, "Civi Ag Atar\nHasar: Orta\nHiz: Orta\nOzellik: Tek Hedef");
 
         btnAnahtar = new ImageButton(new TextureRegionDrawable(new TextureRegion(texBtnAnahtar)));
-        setupButton(btnAnahtar, "Anahtar", 50, 540, 15);
+        setupButton(btnAnahtar, "Anahtar", 50, 540, 15, "Anahtar Makinesi\nHasar: Dusuk\nHiz: Cok Hizli\nOzellik: Seri Atis");
 
         btnYag = new ImageButton(new TextureRegionDrawable(new TextureRegion(texBtnYag)));
-        setupButton(btnYag, "Yag", 75, 720, 15);
+        setupButton(btnYag, "Yag", 75, 720, 15, "Yag Sizdirici\nHasar: Yok\nHiz: Yavas\nOzellik: Yavaslatma (Alan)");
 
         uiStage.addActor(btnCivi);
         uiStage.addActor(btnAnahtar);
@@ -180,7 +198,7 @@ public class GameScreen implements Screen {
         uiStage.addActor(btnWaveStart);
     }
 
-    private void setupButton(ImageButton btn, String type, int cost, float x, float y) {
+    private void setupButton(ImageButton btn, String type, int cost, float x, float y, final String info) {
         btn.setSize(220, 130);
         btn.setPosition(x, y);
         btn.setOrigin(Align.center);
@@ -190,14 +208,16 @@ public class GameScreen implements Screen {
 
             @Override
             public void enter(InputEvent event, float xx, float yy, int pointer, Actor fromActor) {
-                if (pointer == -1 && scrap >= cost) {
-                    btn.setScale(1.15f);
+                if (pointer == -1) {
+                     tooltipText = info; // Tooltip set et
+                     if (scrap >= cost) btn.setScale(1.15f);
                 }
             }
 
             @Override
             public void exit(InputEvent event, float xx, float yy, int pointer, Actor toActor) {
                 if (pointer == -1) {
+                    tooltipText = null; // Tooltip temizle
                     btn.setScale(1f);
                 }
             }
@@ -249,6 +269,22 @@ public class GameScreen implements Screen {
         // girdiler
         handleInput();
 
+        // Eger tutorial aciksa oyunu durdur ve tutorial ciz
+        if (isTutorialOpen) {
+            Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
+            
+            // Arka plani cizmeye devam et ama update etme
+            game.batch.setProjectionMatrix(camera.combined);
+            game.batch.begin();
+            game.batch.draw(mapTexture, 0, 0, 1280, 720);
+            for (kule t : towers) t.render(game.batch);
+            for (dusman e : enemies) e.render(game.batch);
+            game.batch.end();
+            
+            drawTutorial();
+            return;
+        }
+
         updateButtonState();
 
         // oyun update
@@ -288,6 +324,86 @@ public class GameScreen implements Screen {
         if (isGameOver) {
             drawEndScreen();
             return;
+        }
+    }
+    
+    private void showTutorial(String title, String body, Texture img) {
+        this.tutTitle = title;
+        this.tutBody = body;
+        this.tutImg = img;
+        this.isTutorialOpen = true;
+    }
+
+    private void drawTutorial() {
+        // Karartma (Daha koyu siyah)
+        Gdx.gl.glEnable(GL20.GL_BLEND);
+        shapeRenderer.setProjectionMatrix(camera.combined);
+        shapeRenderer.begin(ShapeRenderer.ShapeType.Filled);
+        shapeRenderer.setColor(0, 0, 0, 0.92f);
+        shapeRenderer.rect(0, 0, 1280, 720);
+        
+        // Pencere Cercevesi
+        float w = 600;
+        float h = 400;
+        float x = (1280 - w)/2;
+        float y = (720 - h)/2;
+        
+        // Dis Cerceve (Metalik Kirmizi/Gri)
+        shapeRenderer.setColor(0.5f, 0.1f, 0.1f, 1f);
+        shapeRenderer.rect(x-4, y-4, w+8, h+8);
+        
+        // Ic Arka Plan (Cok Koyu Gri)
+        shapeRenderer.setColor(0.1f, 0.1f, 0.1f, 1f);
+        shapeRenderer.rect(x, y, w, h);
+        
+        // Buton (Devam Et) - Yesil
+        float btnW = 200;
+        float btnH = 60;
+        float btnX = x + (w - btnW)/2;
+        float btnY = y + 30;
+        
+        shapeRenderer.setColor(0.1f, 0.6f, 0.1f, 1f);
+        shapeRenderer.rect(btnX, btnY, btnW, btnH);
+        
+        // Buton Golgesi (3D efekt icin)
+        shapeRenderer.setColor(0, 0.4f, 0, 1f);
+        shapeRenderer.rect(btnX, btnY, btnW, 5); // Alt golge
+        
+        shapeRenderer.end();
+        Gdx.gl.glDisable(GL20.GL_BLEND);
+        
+        game.batch.begin();
+        
+        // Resim
+        if (tutImg != null) {
+            game.batch.draw(tutImg, x + (w-150)/2, y + h - 180, 150, 150);
+        }
+        
+        // Yazi - Baslik (Kirmizi)
+        game.font.getData().setScale(1.5f);
+        game.font.setColor(Color.RED);
+        float titleW = new com.badlogic.gdx.graphics.g2d.GlyphLayout(game.font, tutTitle).width;
+        game.font.draw(game.batch, tutTitle, x + (w - titleW)/2, y + h - 20);
+        
+        // Yazi - Icerik (Beyaz)
+        game.font.getData().setScale(1f);
+        game.font.setColor(Color.WHITE);
+        game.font.draw(game.batch, tutBody, x + 30, y + h - 200, w - 60, Align.center, true);
+        
+        // Buton Yazi (Beyaz)
+        game.font.setColor(Color.WHITE);
+        game.font.draw(game.batch, "ANLASILDI", btnX + 50, btnY + 42);
+        
+        game.batch.end();
+        
+        // Tiklama Kontrolu
+        if (Gdx.input.isButtonJustPressed(Input.Buttons.LEFT)) {
+            Vector3 m = new Vector3(Gdx.input.getX(), Gdx.input.getY(), 0);
+            camera.unproject(m);
+            
+            if (m.x > btnX && m.x < btnX + btnW && m.y > btnY && m.y < btnY + btnH) {
+                isTutorialOpen = false;
+            }
         }
     }
 
@@ -403,13 +519,6 @@ public class GameScreen implements Screen {
             isGameOver = true;
             return;
         }
-
-        //kazanma kosulu
-        if (!isWaveActive && spawnQueue.size == 0 && enemies.size == 0 && wave == 2) {
-            if (!isGameOver) {
-                isGameOver = true;
-            }
-        }
     }
 
 
@@ -516,6 +625,7 @@ public class GameScreen implements Screen {
 
                     if (e.isDead()) {
                         scrap += e.getReward();
+                        totalEnemiesKilled++; // Sayac artir
 
                         CombatLog.death(
                             e.getClass().getSimpleName() + "-" + e.getID(),
@@ -603,7 +713,7 @@ public class GameScreen implements Screen {
         Gdx.gl.glEnable(GL20.GL_BLEND);
         shapeRenderer.setProjectionMatrix(camera.combined);
         shapeRenderer.begin(ShapeRenderer.ShapeType.Filled);
-        shapeRenderer.setColor(0, 0, 0, 0.75f);
+        shapeRenderer.setColor(0, 0, 0, 0.85f);
         shapeRenderer.rect(0, 0, 1280, 720);
         shapeRenderer.end();
         Gdx.gl.glDisable(GL20.GL_BLEND);
@@ -616,16 +726,25 @@ public class GameScreen implements Screen {
         float rw = resultTex.getWidth();
         float rh = resultTex.getHeight();
         float rx = (1280 - rw) / 2f;
-        float ry = (720 - rh) / 2f + 80;
+        float ry = (720 - rh) / 2f + 100;
 
         game.batch.draw(resultTex, rx, ry);
+        
+        // ISTATISTIKLER
+        game.font.setColor(Color.YELLOW);
+        game.font.getData().setScale(1.5f);
+        game.font.draw(game.batch, "Gecilen Dalga: " + wave, 1280/2f - 100, ry - 50, 200, Align.center, false);
+        
+        game.font.setColor(Color.CYAN);
+        game.font.draw(game.batch, "Oldurulen Dusman: " + totalEnemiesKilled, 1280/2f - 150, ry - 100, 300, Align.center, false);
+        game.font.getData().setScale(1f);
 
         //anamenu buton
         float btnW = 300;
         float btnH = 110;
 
         float btnX = (1280 - btnW) / 2f;
-        float btnY = ry - 100;
+        float btnY = ry - 250; // Biraz daha asagi aldim
 
         //mouse hover
         Vector3 mouse = new Vector3(Gdx.input.getX(), Gdx.input.getY(), 0);
@@ -684,7 +803,34 @@ public class GameScreen implements Screen {
         if (selectedTower != null)
             game.font.draw(game.batch, "Secili: " + selectedTower, 1000, 670);
 
+        if (tooltipText != null) {
+            drawTooltip(game.batch, tooltipText);
+        }
+
         game.batch.end();
+    }
+    
+    private void drawTooltip(com.badlogic.gdx.graphics.g2d.SpriteBatch batch, String text) {
+        float x = Gdx.input.getX() + 15;
+        float y = Gdx.graphics.getHeight() - Gdx.input.getY() - 15;
+        
+        // Basit siyah arka plan (fontun olcusunu almadan sabit yapiyoruz simdilik)
+        // Daha karmasik yapi icin GlyphLayout gerekir ama bu is gorur
+        batch.end();
+        
+        Gdx.gl.glEnable(GL20.GL_BLEND);
+        shapeRenderer.setProjectionMatrix(camera.combined);
+        shapeRenderer.begin(ShapeRenderer.ShapeType.Filled);
+        shapeRenderer.setColor(0, 0, 0, 0.8f);
+        shapeRenderer.rect(x - 5, y - 90, 220, 100); // Tahmini kutu boyutu
+        shapeRenderer.end();
+        Gdx.gl.glDisable(GL20.GL_BLEND);
+        
+        batch.begin();
+        game.font.setColor(Color.WHITE);
+        game.font.getData().setScale(0.8f);
+        game.font.draw(batch, text, x, y);
+        game.font.getData().setScale(1f);
     }
 
 
@@ -692,6 +838,7 @@ public class GameScreen implements Screen {
         scrap = 200;
         garageHp = 100;
         wave = 0;
+        totalEnemiesKilled = 0;
         isWaveActive = false;
         isGameOver = false;
 
@@ -713,29 +860,85 @@ public class GameScreen implements Screen {
         wave++;
         spawnQueue.clear();
 
-        //Dalga logu
-        CombatLog.waveStart(wave, "Karışık", wave == 1 ? 4 : 8);
+        CombatLog.waveStart(wave, "Dalga " + wave, 0);
 
+        // 1. Tanitim: Motorcu
         if (wave == 1) {
-            spawnQueue.add(new MotorluCapulcu());
-            spawnQueue.add(new MotorluCapulcu());
-            spawnQueue.add(new ZirhliKamyon());
-            spawnQueue.add(new GozcuUcagi());
+            showTutorial("YENI DUSMAN: MOTORCU", 
+                "Hizli ve sayica coklar.\nEn temel birim.\nZirhlari yok, Civi Agi ile yavaslatilabilirler.", 
+                texMotorcu);
+            spawnMultiple(new MotorluCapulcu(), 3);
         }
+        // 3. Tanitim: Kamyon
+        else if (wave == 3) {
+            showTutorial("YENI DUSMAN: ZIRHLI KAMYON", 
+                "Yavas ama cok dayanikli.\nZirhi sayesinde hafif saldirilardan az etkilenir.\nYuksek hasarli kuleler kur!", 
+                texKamyon);
+            spawnQueue.add(new ZirhliKamyon());
+            spawnMultiple(new MotorluCapulcu(), 2);
+        }
+        // 7. Tanitim: Ucak
+        else if (wave == 7) {
+            showTutorial("YENI DUSMAN: GOZCU UCAGI", 
+                "Havadan gelir ve yolu takip eder.\nYag Sizdirici ve Mayinlar ona islemez!\nHava savunmasi sart.", 
+                texUcak);
+            spawnQueue.add(new GozcuUcagi());
+            spawnMultiple(new MotorluCapulcu(), 3);
+        }
+        // Her 5. Dalga: BOSS
+        else if (wave % 5 == 0) {
+            dusman boss;
+            // 5. dalgada motorcu boss, sonrakilerde kamyon boss
+            if (wave == 5) boss = new MotorluCapulcu();
+            else boss = new ZirhliKamyon();
 
-        if (wave == 2) {
-            spawnQueue.add(new MotorluCapulcu());
-            spawnQueue.add(new ZirhliKamyon());
-            spawnQueue.add(new ZirhliKamyon());
-            spawnQueue.add(new ZirhliKamyon());
-            spawnQueue.add(new ZirhliKamyon());
-            spawnQueue.add(new ZirhliKamyon());
-            spawnQueue.add(new ZirhliKamyon());
-            spawnQueue.add(new GozcuUcagi());
-            spawnQueue.add(new GozcuUcagi());
+            boss.makeBoss();
+            spawnQueue.add(boss);
+            
+            // Boss yanina koruma (Butce: dalga*10)
+            fillWaveWithEnemies(wave * 10);
+        }
+        // NORMAL DALGALAR (2, 4, 6, 8...)
+        else {
+            // Normal dalga butcesi
+            int budget = wave * 15 + 20;
+            fillWaveWithEnemies(budget);
         }
 
         isWaveActive = true;
+    }
+
+    // Butceye gore o an acilmis dusmanlardan rastgele ekler
+    private void fillWaveWithEnemies(int budget) {
+        java.util.Random rand = new java.util.Random();
+        
+        while(budget > 0) {
+            // Hangi dusmanlar acik?
+            boolean kamyonAcik = (wave >= 3);
+            boolean ucakAcik = (wave >= 7);
+            
+            int r = rand.nextInt(100);
+            
+            // Secim mantigi (Pahali birimler daha az gelir)
+            if (ucakAcik && r < 20) { // %20 Ucak (Varsa)
+                 spawnQueue.add(new GozcuUcagi());
+                 budget -= 15;
+            } else if (kamyonAcik && r < 55) { // %35 Kamyon
+                 spawnQueue.add(new ZirhliKamyon());
+                 budget -= 20;
+            } else { // Geri kalan Motorcu
+                 spawnQueue.add(new MotorluCapulcu());
+                 budget -= 10;
+            }
+        }
+    }
+    
+    private void spawnMultiple(dusman sample, int count) {
+        for(int i=0; i<count; i++) {
+            if (sample instanceof MotorluCapulcu) spawnQueue.add(new MotorluCapulcu());
+            else if (sample instanceof ZirhliKamyon) spawnQueue.add(new ZirhliKamyon());
+            else if (sample instanceof GozcuUcagi) spawnQueue.add(new GozcuUcagi());
+        }
     }
 
 
@@ -756,6 +959,10 @@ public class GameScreen implements Screen {
         texBtnAnahtar.dispose();
         texBtnYag.dispose();
         texMenuBtn.dispose();
+        
+        if(texMotorcu!=null) texMotorcu.dispose();
+        if(texKamyon!=null) texKamyon.dispose();
+        if(texUcak!=null) texUcak.dispose();
     }
 
     @Override public void show() {}

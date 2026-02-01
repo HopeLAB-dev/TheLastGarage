@@ -1,33 +1,2173 @@
-[21:43:25] ======================================
-[21:43:25]         SAVAŞ GÜNLÜĞÜ BAŞLADI
-[21:43:25] ======================================
-[21:43:27] Dalga 1 Başladı. (Tip: Karışık, Sayı: 4)
-[21:43:27] Düşman 'MotorluCapulcu-ID113' (Can: 50/50, Zırh: 0) haritaya girdi.
-[21:43:29] Düşman 'MotorluCapulcu-ID114' (Can: 50/50, Zırh: 0) haritaya girdi.
-[21:43:31] Düşman 'ZirhliKamyon-ID115' (Can: 75/75, Zırh: 86) haritaya girdi.
-[21:43:32] Düşman 'GozcuUcagi-ID116' (Can: 50/50, Zırh: 0) haritaya girdi.
-[21:43:35] 'GozcuUcagi-ID116' üsse ulaştı. Oyuncu Canı: 95 (-5)
-[21:43:35] 'MotorluCapulcu-ID113' üsse ulaştı. Oyuncu Canı: 90 (-5)
-[21:43:35] 'MotorluCapulcu-ID114' üsse ulaştı. Oyuncu Canı: 85 (-5)
-[21:43:38] 'ZirhliKamyon-ID115' üsse ulaştı. Oyuncu Canı: 75 (-10)
-[21:43:38] Dalga 1 Bitti.
-[21:43:38] Dalga 2 Başladı. (Tip: Karışık, Sayı: 8)
-[21:43:38] Düşman 'MotorluCapulcu-ID117' (Can: 50/50, Zırh: 0) haritaya girdi.
-[21:43:40] Düşman 'ZirhliKamyon-ID118' (Can: 75/75, Zırh: 90) haritaya girdi.
-[21:43:40] 'MotorluCapulcu-ID117' üsse ulaştı. Oyuncu Canı: 70 (-5)
-[21:43:41] Düşman 'ZirhliKamyon-ID119' (Can: 75/75, Zırh: 64) haritaya girdi.
-[21:43:42] Düşman 'ZirhliKamyon-ID120' (Can: 75/75, Zırh: 62) haritaya girdi.
-[21:43:43] Düşman 'ZirhliKamyon-ID121' (Can: 75/75, Zırh: 80) haritaya girdi.
-[21:43:44] 'ZirhliKamyon-ID118' üsse ulaştı. Oyuncu Canı: 60 (-10)
-[21:43:44] Düşman 'ZirhliKamyon-ID122' (Can: 75/75, Zırh: 61) haritaya girdi.
-[21:43:45] 'ZirhliKamyon-ID119' üsse ulaştı. Oyuncu Canı: 50 (-10)
-[21:43:46] Düşman 'ZirhliKamyon-ID123' (Can: 75/75, Zırh: 64) haritaya girdi.
-[21:43:47] 'ZirhliKamyon-ID120' üsse ulaştı. Oyuncu Canı: 40 (-10)
-[21:43:47] Düşman 'GozcuUcagi-ID124' (Can: 50/50, Zırh: 0) haritaya girdi.
-[21:43:48] Düşman 'GozcuUcagi-ID125' (Can: 50/50, Zırh: 0) haritaya girdi.
-[21:44:03] 'ZirhliKamyon-ID121' üsse ulaştı. Oyuncu Canı: 30 (-10)
-[21:44:11] 'GozcuUcagi-ID124' üsse ulaştı. Oyuncu Canı: 25 (-5)
-[21:44:18] 'GozcuUcagi-ID125' üsse ulaştı. Oyuncu Canı: 20 (-5)
-[21:44:19] 'ZirhliKamyon-ID122' üsse ulaştı. Oyuncu Canı: 10 (-10)
-[21:44:22] 'ZirhliKamyon-ID123' üsse ulaştı. Oyuncu Canı: 0 (-10)
-[21:44:22] Dalga 2 Bitti.
+[19:47:14] ======================================
+[19:47:14]         SAVAŞ GÜNLÜĞÜ BAŞLADI
+[19:47:14] ======================================
+[19:47:42] Dalga 0 Başladı. (Tip: CiviAgAtar, Sayı: 1)
+[19:47:48] Dalga 0 Başladı. (Tip: AnahtarMakinesi, Sayı: 1)
+[19:47:50] Dalga 0 Başladı. (Tip: YagSizdirici, Sayı: 1)
+[19:47:52] Dalga 1 Başladı. (Tip: Dalga 1, Sayı: 0)
+[19:48:22] Düşman 'MotorluCapulcu-ID101' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:48:24] Düşman 'MotorluCapulcu-ID102' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:48:25] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID101' hedef aldı (öncelik: üss’e en yakın).
+[19:48:25] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID101' hedef aldı (öncelik: üss’e en yakın).
+[19:48:26] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:26] Kalan Can: 40/50.
+[19:48:26] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID101'.
+[19:48:26] — 'MotorluCapulcu-ID101' Net Hasar 20.
+[19:48:26] — 'MotorluCapulcu-ID102' Net Hasar 20.
+[19:48:26] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:48:26] Kalan Can: 20/50.
+[19:48:26] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID101' hedef aldı (öncelik: üss’e en yakın).
+[19:48:27] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:27] Kalan Can: 10/50.
+[19:48:27] Düşman 'MotorluCapulcu-ID103' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:48:27] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID101' hedef aldı (öncelik: üss’e en yakın).
+[19:48:28] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:28] Kalan Can: 0/50.
+[19:48:28] 'MotorluCapulcu-ID101' öldü. Ödül +15. Toplam Para: 20.
+[19:48:28] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID102' hedef aldı (öncelik: üss’e en yakın).
+[19:48:28] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID102' hedef aldı (öncelik: üss’e en yakın).
+[19:48:29] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:29] Kalan Can: 20/50.
+[19:48:29] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID102'.
+[19:48:29] — 'MotorluCapulcu-ID102' Net Hasar 20.
+[19:48:29] — 'MotorluCapulcu-ID103' Net Hasar 20.
+[19:48:29] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:48:29] Kalan Can: 0/50.
+[19:48:29] 'MotorluCapulcu-ID102' öldü. Ödül +15. Toplam Para: 35.
+[19:48:30] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID103' hedef aldı (öncelik: üss’e en yakın).
+[19:48:31] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:31] Kalan Can: 20/50.
+[19:48:31] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID103' hedef aldı (öncelik: üss’e en yakın).
+[19:48:31] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID103' hedef aldı (öncelik: üss’e en yakın).
+[19:48:32] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:32] Kalan Can: 10/50.
+[19:48:32] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID103'.
+[19:48:32] — 'MotorluCapulcu-ID103' Net Hasar 20.
+[19:48:32] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:48:32] Kalan Can: -10/50.
+[19:48:32] 'MotorluCapulcu-ID103' öldü. Ödül +15. Toplam Para: 50.
+[19:48:32] Dalga 1 Bitti.
+[19:48:34] Dalga 2 Başladı. (Tip: Dalga 2, Sayı: 0)
+[19:48:34] Düşman 'MotorluCapulcu-ID104' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:48:36] Düşman 'MotorluCapulcu-ID105' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:48:37] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID104' hedef aldı (öncelik: üss’e en yakın).
+[19:48:37] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID104' hedef aldı (öncelik: üss’e en yakın).
+[19:48:37] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:37] Kalan Can: 40/50.
+[19:48:37] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID104'.
+[19:48:37] — 'MotorluCapulcu-ID104' Net Hasar 20.
+[19:48:37] — 'MotorluCapulcu-ID105' Net Hasar 20.
+[19:48:37] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:48:37] Kalan Can: 20/50.
+[19:48:38] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID104' hedef aldı (öncelik: üss’e en yakın).
+[19:48:38] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:38] Kalan Can: 10/50.
+[19:48:38] Düşman 'MotorluCapulcu-ID106' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:48:39] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID104' hedef aldı (öncelik: üss’e en yakın).
+[19:48:39] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:39] Kalan Can: 0/50.
+[19:48:39] 'MotorluCapulcu-ID104' öldü. Ödül +15. Toplam Para: 65.
+[19:48:40] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID105' hedef aldı (öncelik: üss’e en yakın).
+[19:48:40] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID105' hedef aldı (öncelik: üss’e en yakın).
+[19:48:40] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:40] Kalan Can: 20/50.
+[19:48:40] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID105'.
+[19:48:40] — 'MotorluCapulcu-ID105' Net Hasar 20.
+[19:48:40] — 'MotorluCapulcu-ID106' Net Hasar 20.
+[19:48:40] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:48:40] Kalan Can: 0/50.
+[19:48:40] 'MotorluCapulcu-ID105' öldü. Ödül +15. Toplam Para: 80.
+[19:48:41] Düşman 'MotorluCapulcu-ID107' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:48:42] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID106' hedef aldı (öncelik: üss’e en yakın).
+[19:48:42] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:42] Kalan Can: 20/50.
+[19:48:43] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID106' hedef aldı (öncelik: üss’e en yakın).
+[19:48:43] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID106' hedef aldı (öncelik: üss’e en yakın).
+[19:48:43] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:43] Kalan Can: 10/50.
+[19:48:43] Düşman 'MotorluCapulcu-ID108' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:48:43] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID106'.
+[19:48:43] — 'MotorluCapulcu-ID106' Net Hasar 20.
+[19:48:43] — 'MotorluCapulcu-ID107' Net Hasar 20.
+[19:48:43] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:48:43] Kalan Can: -10/50.
+[19:48:43] 'MotorluCapulcu-ID106' öldü. Ödül +15. Toplam Para: 95.
+[19:48:44] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID107' hedef aldı (öncelik: üss’e en yakın).
+[19:48:45] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:45] Kalan Can: 20/50.
+[19:48:45] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID107' hedef aldı (öncelik: üss’e en yakın).
+[19:48:46] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:46] Kalan Can: 10/50.
+[19:48:46] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID107' hedef aldı (öncelik: üss’e en yakın).
+[19:48:46] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID107' hedef aldı (öncelik: üss’e en yakın).
+[19:48:46] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID107'.
+[19:48:46] — 'MotorluCapulcu-ID107' Net Hasar 20.
+[19:48:46] — 'MotorluCapulcu-ID108' Net Hasar 20.
+[19:48:46] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:48:46] Kalan Can: -10/50.
+[19:48:46] 'MotorluCapulcu-ID107' öldü. Ödül +15. Toplam Para: 110.
+[19:48:47] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID108' hedef aldı (öncelik: üss’e en yakın).
+[19:48:48] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:48] Kalan Can: 20/50.
+[19:48:48] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID108' hedef aldı (öncelik: üss’e en yakın).
+[19:48:49] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:48:49] Kalan Can: 10/50.
+[19:48:49] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID108' hedef aldı (öncelik: üss’e en yakın).
+[19:48:49] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID108' hedef aldı (öncelik: üss’e en yakın).
+[19:48:49] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID108'.
+[19:48:49] — 'MotorluCapulcu-ID108' Net Hasar 20.
+[19:48:49] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:48:49] Kalan Can: -10/50.
+[19:48:49] 'MotorluCapulcu-ID108' öldü. Ödül +15. Toplam Para: 125.
+[19:48:49] Dalga 2 Bitti.
+[19:48:55] Dalga 3 Başladı. (Tip: Dalga 3, Sayı: 0)
+[19:49:05] Düşman 'ZirhliKamyon-ID109' (Can: 75/75, Zırh: 50) haritaya girdi.
+[19:49:08] Düşman 'MotorluCapulcu-ID111' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:49:09] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID109' hedef aldı (öncelik: üss’e en yakın).
+[19:49:09] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID109' hedef aldı (öncelik: üss’e en yakın).
+[19:49:10] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:49:10] Kalan Can: 69/75.
+[19:49:10] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID109'.
+[19:49:10] — 'ZirhliKamyon-ID109' Net Hasar 13.
+[19:49:10] — 'MotorluCapulcu-ID111' Net Hasar 20.
+[19:49:10] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %33 → Engellenen 7; Net Hasar 13.
+[19:49:10] Kalan Can: 56/75.
+[19:49:10] Düşman 'MotorluCapulcu-ID112' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:49:10] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID111' hedef aldı (öncelik: üss’e en yakın).
+[19:49:10] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:49:10] Kalan Can: 20/50.
+[19:49:11] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID109' hedef aldı (öncelik: üss’e en yakın).
+[19:49:11] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID111' hedef aldı (öncelik: üss’e en yakın).
+[19:49:11] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:49:11] Kalan Can: 50/75.
+[19:49:12] 'MotorluCapulcu-ID111' yavaşlatıldı (%50, 3 sn).
+[19:49:12] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:49:12] Kalan Can: 5/50.
+[19:49:12] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID111' hedef aldı (öncelik: üss’e en yakın).
+[19:49:12] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID112' hedef aldı (öncelik: üss’e en yakın).
+[19:49:12] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID111'.
+[19:49:12] — 'ZirhliKamyon-ID109' Net Hasar 13.
+[19:49:12] — 'MotorluCapulcu-ID111' Net Hasar 20.
+[19:49:12] — 'MotorluCapulcu-ID112' Net Hasar 20.
+[19:49:12] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:49:12] Kalan Can: -15/50.
+[19:49:12] 'MotorluCapulcu-ID111' öldü. Ödül +15. Toplam Para: 140.
+[19:49:13] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:49:13] Kalan Can: 20/50.
+[19:49:13] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID112' hedef aldı (öncelik: üss’e en yakın).
+[19:49:14] 'MotorluCapulcu-ID112' yavaşlatıldı (%50, 3 sn).
+[19:49:14] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:49:14] Kalan Can: 5/50.
+[19:49:15] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID109' hedef aldı (öncelik: üss’e en yakın).
+[19:49:15] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID112' hedef aldı (öncelik: üss’e en yakın).
+[19:49:16] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID109'.
+[19:49:16] — 'ZirhliKamyon-ID109' Net Hasar 13.
+[19:49:16] — 'MotorluCapulcu-ID112' Net Hasar 20.
+[19:49:16] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %33 → Engellenen 7; Net Hasar 13.
+[19:49:16] Kalan Can: 24/75.
+[19:49:17] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID112' hedef aldı (öncelik: üss’e en yakın).
+[19:49:18] Dalga 3 Başladı. (Tip: YagSizdirici, Sayı: 1)
+[19:49:18] Kule 'YagSizdirici-ID004', 'MotorluCapulcu-ID112' hedef aldı (öncelik: üss’e en yakın).
+[19:49:19] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID109' hedef aldı (öncelik: üss’e en yakın).
+[19:49:20] 'ZirhliKamyon-ID109' yavaşlatıldı (%50, 3 sn).
+[19:49:20] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %33 → Engellenen 5; Net Hasar 10.
+[19:49:20] Kalan Can: 14/75.
+[19:49:21] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID109' hedef aldı (öncelik: üss’e en yakın).
+[19:49:21] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID109'.
+[19:49:21] — 'ZirhliKamyon-ID109' Net Hasar 13.
+[19:49:21] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %33 → Engellenen 7; Net Hasar 13.
+[19:49:21] Kalan Can: 1/75.
+[19:49:24] 'MotorluCapulcu-ID112' üsse ulaştı. Oyuncu Canı: 95 (-5)
+[19:49:24] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID109' hedef aldı (öncelik: üss’e en yakın).
+[19:49:24] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID109'.
+[19:49:24] — 'ZirhliKamyon-ID109' Net Hasar 13.
+[19:49:24] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %33 → Engellenen 7; Net Hasar 13.
+[19:49:24] Kalan Can: -12/75.
+[19:49:24] 'ZirhliKamyon-ID109' öldü. Ödül +35. Toplam Para: 100.
+[19:49:24] Dalga 3 Bitti.
+[19:49:26] Dalga 3 Başladı. (Tip: AnahtarMakinesi, Sayı: 1)
+[19:49:28] Dalga 3 Başladı. (Tip: AnahtarMakinesi, Sayı: 1)
+[19:49:34] Dalga 4 Başladı. (Tip: Dalga 4, Sayı: 0)
+[19:49:34] Düşman 'MotorluCapulcu-ID113' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:49:35] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID113' hedef aldı (öncelik: üss’e en yakın).
+[19:49:35] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID113' hedef aldı (öncelik: üss’e en yakın).
+[19:49:35] Düşman 'MotorluCapulcu-ID114' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:49:35] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:49:35] Kalan Can: 40/50.
+[19:49:36] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID113'.
+[19:49:36] — 'MotorluCapulcu-ID113' Net Hasar 20.
+[19:49:36] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:49:36] Kalan Can: 20/50.
+[19:49:36] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID113' hedef aldı (öncelik: üss’e en yakın).
+[19:49:36] Düşman 'MotorluCapulcu-ID115' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:49:37] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:49:37] Kalan Can: 10/50.
+[19:49:37] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID113' hedef aldı (öncelik: üss’e en yakın).
+[19:49:37] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID114' hedef aldı (öncelik: üss’e en yakın).
+[19:49:37] 'MotorluCapulcu-ID113' yavaşlatıldı (%50, 3 sn).
+[19:49:37] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:49:37] Kalan Can: -5/50.
+[19:49:37] 'MotorluCapulcu-ID113' öldü. Ödül +15. Toplam Para: 15.
+[19:49:37] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:49:37] Kalan Can: 40/50.
+[19:49:38] Düşman 'MotorluCapulcu-ID116' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:49:38] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID114' hedef aldı (öncelik: üss’e en yakın).
+[19:49:38] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID115' hedef aldı (öncelik: üss’e en yakın).
+[19:49:38] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:49:38] Kalan Can: 40/50.
+[19:49:38] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID114'.
+[19:49:38] — 'MotorluCapulcu-ID114' Net Hasar 20.
+[19:49:38] — 'MotorluCapulcu-ID115' Net Hasar 20.
+[19:49:38] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:49:38] Kalan Can: 20/50.
+[19:49:39] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID114' hedef aldı (öncelik: üss’e en yakın).
+[19:49:39] Düşman 'MotorluCapulcu-ID117' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:49:39] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID116' hedef aldı (öncelik: üss’e en yakın).
+[19:49:39] 'MotorluCapulcu-ID114' yavaşlatıldı (%50, 3 sn).
+[19:49:39] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:49:39] Kalan Can: 5/50.
+[19:49:39] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID114' hedef aldı (öncelik: üss’e en yakın).
+[19:49:39] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:49:39] Kalan Can: 40/50.
+[19:49:40] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:49:40] Kalan Can: -5/50.
+[19:49:40] 'MotorluCapulcu-ID114' öldü. Ödül +15. Toplam Para: 30.
+[19:49:40] Düşman 'ZirhliKamyon-ID118' (Can: 75/75, Zırh: 64) haritaya girdi.
+[19:49:40] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID116' hedef aldı (öncelik: üss’e en yakın).
+[19:49:41] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID115' hedef aldı (öncelik: üss’e en yakın).
+[19:49:41] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:49:41] Kalan Can: 30/50.
+[19:49:41] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID115' hedef aldı (öncelik: üss’e en yakın).
+[19:49:41] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:49:41] Kalan Can: 10/50.
+[19:49:41] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID116' hedef aldı (öncelik: üss’e en yakın).
+[19:49:41] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID117' hedef aldı (öncelik: üss’e en yakın).
+[19:49:41] 'MotorluCapulcu-ID115' yavaşlatıldı (%50, 3 sn).
+[19:49:41] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:49:41] Kalan Can: -5/50.
+[19:49:41] 'MotorluCapulcu-ID115' öldü. Ödül +15. Toplam Para: 45.
+[19:49:41] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID116'.
+[19:49:41] — 'MotorluCapulcu-ID116' Net Hasar 20.
+[19:49:41] — 'MotorluCapulcu-ID117' Net Hasar 20.
+[19:49:41] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:49:41] Kalan Can: 10/50.
+[19:49:42] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:49:42] Kalan Can: 20/50.
+[19:49:42] Düşman 'ZirhliKamyon-ID119' (Can: 75/75, Zırh: 95) haritaya girdi.
+[19:49:42] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID116' hedef aldı (öncelik: üss’e en yakın).
+[19:49:42] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:49:42] Kalan Can: 0/50.
+[19:49:42] 'MotorluCapulcu-ID116' öldü. Ödül +15. Toplam Para: 60.
+[19:49:42] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID118' hedef aldı (öncelik: üss’e en yakın).
+[19:49:43] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %39 → Engellenen 4; Net Hasar 6.
+[19:49:43] Kalan Can: 69/75.
+[19:49:43] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID117' hedef aldı (öncelik: üss’e en yakın).
+[19:49:43] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID117' hedef aldı (öncelik: üss’e en yakın).
+[19:49:43] 'MotorluCapulcu-ID117' yavaşlatıldı (%50, 3 sn).
+[19:49:43] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:49:43] Kalan Can: 5/50.
+[19:49:43] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:49:43] Kalan Can: -5/50.
+[19:49:43] 'MotorluCapulcu-ID117' öldü. Ödül +15. Toplam Para: 75.
+[19:49:43] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID118' hedef aldı (öncelik: üss’e en yakın).
+[19:49:44] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %39 → Engellenen 4; Net Hasar 6.
+[19:49:44] Kalan Can: 63/75.
+[19:49:44] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID118' hedef aldı (öncelik: üss’e en yakın).
+[19:49:44] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID118' hedef aldı (öncelik: üss’e en yakın).
+[19:49:44] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID118'.
+[19:49:44] — 'ZirhliKamyon-ID118' Net Hasar 12.
+[19:49:44] — 'ZirhliKamyon-ID119' Net Hasar 10.
+[19:49:44] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %39 → Engellenen 8; Net Hasar 12.
+[19:49:44] Kalan Can: 51/75.
+[19:49:45] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %39 → Engellenen 4; Net Hasar 6.
+[19:49:45] Kalan Can: 45/75.
+[19:49:45] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID119' hedef aldı (öncelik: üss’e en yakın).
+[19:49:46] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:49:46] Kalan Can: 60/75.
+[19:49:46] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID118' hedef aldı (öncelik: üss’e en yakın).
+[19:49:46] 'ZirhliKamyon-ID118' yavaşlatıldı (%50, 3 sn).
+[19:49:46] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %39 → Engellenen 6; Net Hasar 9.
+[19:49:46] Kalan Can: 36/75.
+[19:49:46] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID119' hedef aldı (öncelik: üss’e en yakın).
+[19:49:47] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:49:47] Kalan Can: 55/75.
+[19:49:47] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID118' hedef aldı (öncelik: üss’e en yakın).
+[19:49:47] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID118'.
+[19:49:47] — 'ZirhliKamyon-ID118' Net Hasar 12.
+[19:49:47] — 'ZirhliKamyon-ID119' Net Hasar 10.
+[19:49:47] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %39 → Engellenen 8; Net Hasar 12.
+[19:49:47] Kalan Can: 24/75.
+[19:49:48] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID118' hedef aldı (öncelik: üss’e en yakın).
+[19:49:48] 'ZirhliKamyon-ID118' yavaşlatıldı (%50, 3 sn).
+[19:49:48] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %39 → Engellenen 6; Net Hasar 9.
+[19:49:48] Kalan Can: 15/75.
+[19:49:50] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID119' hedef aldı (öncelik: üss’e en yakın).
+[19:49:50] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID119' hedef aldı (öncelik: üss’e en yakın).
+[19:49:50] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID119' hedef aldı (öncelik: üss’e en yakın).
+[19:49:50] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:49:50] Kalan Can: 40/75.
+[19:49:50] 'ZirhliKamyon-ID119' yavaşlatıldı (%50, 3 sn).
+[19:49:50] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %48 → Engellenen 8; Net Hasar 7.
+[19:49:50] Kalan Can: 33/75.
+[19:49:51] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID119'.
+[19:49:51] — 'ZirhliKamyon-ID118' Net Hasar 12.
+[19:49:51] — 'ZirhliKamyon-ID119' Net Hasar 10.
+[19:49:51] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %48 → Engellenen 10; Net Hasar 10.
+[19:49:51] Kalan Can: 23/75.
+[19:49:51] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID119' hedef aldı (öncelik: üss’e en yakın).
+[19:49:51] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:49:51] Kalan Can: 18/75.
+[19:49:52] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID119' hedef aldı (öncelik: üss’e en yakın).
+[19:49:52] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID119' hedef aldı (öncelik: üss’e en yakın).
+[19:49:52] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:49:52] Kalan Can: 13/75.
+[19:49:52] 'ZirhliKamyon-ID119' yavaşlatıldı (%50, 3 sn).
+[19:49:52] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %48 → Engellenen 8; Net Hasar 7.
+[19:49:52] Kalan Can: 6/75.
+[19:49:53] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID118' hedef aldı (öncelik: üss’e en yakın).
+[19:49:53] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID118' hedef aldı (öncelik: üss’e en yakın).
+[19:49:53] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %39 → Engellenen 4; Net Hasar 6.
+[19:49:53] Kalan Can: -3/75.
+[19:49:53] 'ZirhliKamyon-ID118' öldü. Ödül +35. Toplam Para: 110.
+[19:49:54] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID119' hedef aldı (öncelik: üss’e en yakın).
+[19:49:54] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID119' hedef aldı (öncelik: üss’e en yakın).
+[19:49:54] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:49:54] Kalan Can: 1/75.
+[19:49:54] 'ZirhliKamyon-ID119' yavaşlatıldı (%50, 3 sn).
+[19:49:54] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %48 → Engellenen 8; Net Hasar 7.
+[19:49:54] Kalan Can: -6/75.
+[19:49:54] 'ZirhliKamyon-ID119' öldü. Ödül +35. Toplam Para: 145.
+[19:49:54] Dalga 4 Bitti.
+[19:49:55] Dalga 5 Başladı. (Tip: Dalga 5, Sayı: 0)
+[19:49:55] Düşman 'MotorluCapulcu-ID120' (Can: 150/150, Zırh: 0) haritaya girdi.
+[19:49:56] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID120' hedef aldı (öncelik: üss’e en yakın).
+[19:49:57] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID120' hedef aldı (öncelik: üss’e en yakın).
+[19:49:57] Düşman 'ZirhliKamyon-ID121' (Can: 75/75, Zırh: 78) haritaya girdi.
+[19:49:57] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:49:57] Kalan Can: 140/150.
+[19:49:57] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID120'.
+[19:49:57] — 'MotorluCapulcu-ID120' Net Hasar 20.
+[19:49:57] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:49:57] Kalan Can: 120/150.
+[19:49:58] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID120' hedef aldı (öncelik: üss’e en yakın).
+[19:49:58] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:49:58] Kalan Can: 110/150.
+[19:49:58] Düşman 'ZirhliKamyon-ID122' (Can: 75/75, Zırh: 96) haritaya girdi.
+[19:49:58] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID120' hedef aldı (öncelik: üss’e en yakın).
+[19:49:59] 'MotorluCapulcu-ID120' yavaşlatıldı (%50, 3 sn).
+[19:49:59] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:49:59] Kalan Can: 95/150.
+[19:49:59] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:49:59] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %43 → Engellenen 5; Net Hasar 5.
+[19:49:59] Kalan Can: 70/75.
+[19:50:00] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID120' hedef aldı (öncelik: üss’e en yakın).
+[19:50:00] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID120'.
+[19:50:00] — 'MotorluCapulcu-ID120' Net Hasar 20.
+[19:50:00] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:50:00] Kalan Can: 75/150.
+[19:50:00] Düşman 'ZirhliKamyon-ID123' (Can: 75/75, Zırh: 88) haritaya girdi.
+[19:50:00] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:00] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %43 → Engellenen 5; Net Hasar 5.
+[19:50:00] Kalan Can: 65/75.
+[19:50:00] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID120' hedef aldı (öncelik: üss’e en yakın).
+[19:50:00] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID120' hedef aldı (öncelik: üss’e en yakın).
+[19:50:01] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:50:01] Kalan Can: 65/150.
+[19:50:01] 'MotorluCapulcu-ID120' yavaşlatıldı (%50, 3 sn).
+[19:50:01] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:50:01] Kalan Can: 50/150.
+[19:50:01] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:01] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID120' hedef aldı (öncelik: üss’e en yakın).
+[19:50:01] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %43 → Engellenen 5; Net Hasar 5.
+[19:50:01] Kalan Can: 60/75.
+[19:50:02] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:50:02] Kalan Can: 40/150.
+[19:50:02] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID122' hedef aldı (öncelik: üss’e en yakın).
+[19:50:02] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:50:02] Kalan Can: 70/75.
+[19:50:02] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID120' hedef aldı (öncelik: üss’e en yakın).
+[19:50:02] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID120' hedef aldı (öncelik: üss’e en yakın).
+[19:50:03] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:03] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:50:03] Kalan Can: 30/150.
+[19:50:03] 'MotorluCapulcu-ID120' yavaşlatıldı (%50, 3 sn).
+[19:50:03] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:50:03] Kalan Can: 15/150.
+[19:50:03] Kule 'AnahtarMakinesi-ID006', 'MotorluCapulcu-ID120' hedef aldı (öncelik: üss’e en yakın).
+[19:50:03] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID121'.
+[19:50:03] — 'ZirhliKamyon-ID121' Net Hasar 11.
+[19:50:03] — 'ZirhliKamyon-ID122' Net Hasar 10.
+[19:50:03] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %43 → Engellenen 9; Net Hasar 11.
+[19:50:03] Kalan Can: 49/75.
+[19:50:03] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID122' hedef aldı (öncelik: üss’e en yakın).
+[19:50:03] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:50:03] Kalan Can: 5/150.
+[19:50:03] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:50:03] Kalan Can: 55/75.
+[19:50:04] Kule 'AnahtarMakinesi-ID006', 'MotorluCapulcu-ID120' hedef aldı (öncelik: üss’e en yakın).
+[19:50:04] Kule 'YagSizdirici-ID004', 'MotorluCapulcu-ID120' hedef aldı (öncelik: üss’e en yakın).
+[19:50:04] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID123' hedef aldı (öncelik: üss’e en yakın).
+[19:50:04] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:50:04] Kalan Can: -5/150.
+[19:50:04] 'MotorluCapulcu-ID120' öldü. Ödül +75. Toplam Para: 220.
+[19:50:04] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %46 → Engellenen 5; Net Hasar 5.
+[19:50:04] Kalan Can: 70/75.
+[19:50:04] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:05] 'ZirhliKamyon-ID121' yavaşlatıldı (%50, 3 sn).
+[19:50:05] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %43 → Engellenen 7; Net Hasar 8.
+[19:50:05] Kalan Can: 41/75.
+[19:50:05] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:05] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID123' hedef aldı (öncelik: üss’e en yakın).
+[19:50:05] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %43 → Engellenen 5; Net Hasar 5.
+[19:50:05] Kalan Can: 36/75.
+[19:50:05] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %46 → Engellenen 5; Net Hasar 5.
+[19:50:05] Kalan Can: 65/75.
+[19:50:06] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:06] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:06] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID121'.
+[19:50:06] — 'ZirhliKamyon-ID121' Net Hasar 11.
+[19:50:06] — 'ZirhliKamyon-ID122' Net Hasar 10.
+[19:50:06] — 'ZirhliKamyon-ID123' Net Hasar 10.
+[19:50:06] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %43 → Engellenen 9; Net Hasar 11.
+[19:50:06] Kalan Can: 25/75.
+[19:50:06] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %43 → Engellenen 5; Net Hasar 5.
+[19:50:06] Kalan Can: 20/75.
+[19:50:06] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:07] 'ZirhliKamyon-ID121' yavaşlatıldı (%50, 3 sn).
+[19:50:07] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %43 → Engellenen 7; Net Hasar 8.
+[19:50:07] Kalan Can: 12/75.
+[19:50:07] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:07] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %43 → Engellenen 5; Net Hasar 5.
+[19:50:07] Kalan Can: 7/75.
+[19:50:08] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:08] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %43 → Engellenen 5; Net Hasar 5.
+[19:50:08] Kalan Can: 2/75.
+[19:50:08] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID122' hedef aldı (öncelik: üss’e en yakın).
+[19:50:09] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID123' hedef aldı (öncelik: üss’e en yakın).
+[19:50:09] 'ZirhliKamyon-ID122' yavaşlatıldı (%50, 3 sn).
+[19:50:09] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %48 → Engellenen 8; Net Hasar 7.
+[19:50:09] Kalan Can: 38/75.
+[19:50:09] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID122' hedef aldı (öncelik: üss’e en yakın).
+[19:50:09] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID122' hedef aldı (öncelik: üss’e en yakın).
+[19:50:09] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID123'.
+[19:50:09] — 'ZirhliKamyon-ID121' Net Hasar 11.
+[19:50:09] — 'ZirhliKamyon-ID122' Net Hasar 10.
+[19:50:09] — 'ZirhliKamyon-ID123' Net Hasar 10.
+[19:50:09] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %46 → Engellenen 10; Net Hasar 10.
+[19:50:09] Kalan Can: 45/75.
+[19:50:09] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:50:09] Kalan Can: 23/75.
+[19:50:09] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:50:09] Kalan Can: 18/75.
+[19:50:10] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID122' hedef aldı (öncelik: üss’e en yakın).
+[19:50:10] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID122' hedef aldı (öncelik: üss’e en yakın).
+[19:50:10] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:50:10] Kalan Can: 13/75.
+[19:50:10] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:10] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:50:10] Kalan Can: 8/75.
+[19:50:11] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:11] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID123' hedef aldı (öncelik: üss’e en yakın).
+[19:50:11] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID122' hedef aldı (öncelik: üss’e en yakın).
+[19:50:11] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %46 → Engellenen 5; Net Hasar 5.
+[19:50:11] Kalan Can: 40/75.
+[19:50:11] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:50:11] Kalan Can: 3/75.
+[19:50:12] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID123' hedef aldı (öncelik: üss’e en yakın).
+[19:50:12] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID123' hedef aldı (öncelik: üss’e en yakın).
+[19:50:12] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %46 → Engellenen 5; Net Hasar 5.
+[19:50:12] Kalan Can: 35/75.
+[19:50:13] 'ZirhliKamyon-ID123' yavaşlatıldı (%50, 3 sn).
+[19:50:13] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %46 → Engellenen 8; Net Hasar 7.
+[19:50:13] Kalan Can: 28/75.
+[19:50:13] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID123' hedef aldı (öncelik: üss’e en yakın).
+[19:50:13] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %46 → Engellenen 5; Net Hasar 5.
+[19:50:13] Kalan Can: 23/75.
+[19:50:14] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID123' hedef aldı (öncelik: üss’e en yakın).
+[19:50:14] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID123' hedef aldı (öncelik: üss’e en yakın).
+[19:50:14] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID123'.
+[19:50:14] — 'ZirhliKamyon-ID121' Net Hasar 11.
+[19:50:14] — 'ZirhliKamyon-ID122' Net Hasar 10.
+[19:50:14] — 'ZirhliKamyon-ID123' Net Hasar 10.
+[19:50:14] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %46 → Engellenen 10; Net Hasar 10.
+[19:50:14] Kalan Can: 13/75.
+[19:50:15] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %46 → Engellenen 5; Net Hasar 5.
+[19:50:15] Kalan Can: 8/75.
+[19:50:15] Dalga 5 Başladı. (Tip: YagSizdirici, Sayı: 1)
+[19:50:17] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:17] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:20] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:20] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID123' hedef aldı (öncelik: üss’e en yakın).
+[19:50:20] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID123'.
+[19:50:20] — 'ZirhliKamyon-ID122' Net Hasar 10.
+[19:50:20] — 'ZirhliKamyon-ID123' Net Hasar 10.
+[19:50:20] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %46 → Engellenen 10; Net Hasar 10.
+[19:50:20] Kalan Can: -2/75.
+[19:50:20] 'ZirhliKamyon-ID123' öldü. Ödül +35. Toplam Para: 180.
+[19:50:23] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID121' hedef aldı (öncelik: üss’e en yakın).
+[19:50:24] 'ZirhliKamyon-ID121' üsse ulaştı. Oyuncu Canı: 85 (-10)
+[19:50:25] 'ZirhliKamyon-ID122' üsse ulaştı. Oyuncu Canı: 75 (-10)
+[19:50:25] Dalga 5 Bitti.
+[19:50:26] Dalga 6 Başladı. (Tip: Dalga 6, Sayı: 0)
+[19:50:26] Düşman 'ZirhliKamyon-ID124' (Can: 75/75, Zırh: 67) haritaya girdi.
+[19:50:28] Düşman 'MotorluCapulcu-ID125' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:50:28] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:28] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:29] Düşman 'MotorluCapulcu-ID126' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:50:29] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:50:29] Kalan Can: 70/75.
+[19:50:29] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID124'.
+[19:50:29] — 'ZirhliKamyon-ID124' Net Hasar 11.
+[19:50:29] — 'MotorluCapulcu-ID125' Net Hasar 20.
+[19:50:29] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %40 → Engellenen 9; Net Hasar 11.
+[19:50:29] Kalan Can: 59/75.
+[19:50:29] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:30] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:50:30] Kalan Can: 54/75.
+[19:50:30] Düşman 'MotorluCapulcu-ID127' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:50:30] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID125' hedef aldı (öncelik: üss’e en yakın).
+[19:50:31] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:50:31] Kalan Can: 20/50.
+[19:50:31] Düşman 'ZirhliKamyon-ID128' (Can: 75/75, Zırh: 51) haritaya girdi.
+[19:50:31] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID125' hedef aldı (öncelik: üss’e en yakın).
+[19:50:31] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:32] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID125'.
+[19:50:32] — 'ZirhliKamyon-ID124' Net Hasar 11.
+[19:50:32] — 'MotorluCapulcu-ID125' Net Hasar 20.
+[19:50:32] — 'MotorluCapulcu-ID126' Net Hasar 20.
+[19:50:32] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:50:32] Kalan Can: 0/50.
+[19:50:32] 'MotorluCapulcu-ID125' öldü. Ödül +15. Toplam Para: 195.
+[19:50:32] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:50:32] Kalan Can: 38/75.
+[19:50:32] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:33] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:50:33] Kalan Can: 33/75.
+[19:50:33] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:34] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID126' hedef aldı (öncelik: üss’e en yakın).
+[19:50:34] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:50:34] Kalan Can: 28/75.
+[19:50:34] 'MotorluCapulcu-ID126' yavaşlatıldı (%50, 3 sn).
+[19:50:34] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:50:34] Kalan Can: 15/50.
+[19:50:34] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID126' hedef aldı (öncelik: üss’e en yakın).
+[19:50:34] Düşman 'ZirhliKamyon-ID129' (Can: 75/75, Zırh: 87) haritaya girdi.
+[19:50:34] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID127' hedef aldı (öncelik: üss’e en yakın).
+[19:50:35] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID126'.
+[19:50:35] — 'ZirhliKamyon-ID124' Net Hasar 11.
+[19:50:35] — 'MotorluCapulcu-ID126' Net Hasar 20.
+[19:50:35] — 'MotorluCapulcu-ID127' Net Hasar 20.
+[19:50:35] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:50:35] Kalan Can: -5/50.
+[19:50:35] 'MotorluCapulcu-ID126' öldü. Ödül +15. Toplam Para: 210.
+[19:50:35] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:50:35] Kalan Can: 20/50.
+[19:50:36] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID128' hedef aldı (öncelik: üss’e en yakın).
+[19:50:36] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:36] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:50:36] Kalan Can: 69/75.
+[19:50:36] 'ZirhliKamyon-ID124' yavaşlatıldı (%50, 3 sn).
+[19:50:36] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %40 → Engellenen 7; Net Hasar 8.
+[19:50:36] Kalan Can: 9/75.
+[19:50:37] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID128' hedef aldı (öncelik: üss’e en yakın).
+[19:50:37] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:50:37] Kalan Can: 63/75.
+[19:50:37] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID127' hedef aldı (öncelik: üss’e en yakın).
+[19:50:38] Düşman 'MotorluCapulcu-ID130' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:50:38] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID128' hedef aldı (öncelik: üss’e en yakın).
+[19:50:38] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID127' hedef aldı (öncelik: üss’e en yakın).
+[19:50:38] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID127' hedef aldı (öncelik: üss’e en yakın).
+[19:50:38] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID127'.
+[19:50:38] — 'ZirhliKamyon-ID124' Net Hasar 11.
+[19:50:38] — 'MotorluCapulcu-ID127' Net Hasar 20.
+[19:50:38] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:50:38] Kalan Can: 0/50.
+[19:50:38] 'MotorluCapulcu-ID127' öldü. Ödül +15. Toplam Para: 225.
+[19:50:38] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:50:38] Kalan Can: 57/75.
+[19:50:39] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID128' hedef aldı (öncelik: üss’e en yakın).
+[19:50:39] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:50:39] Kalan Can: 51/75.
+[19:50:39] Düşman 'MotorluCapulcu-ID131' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:50:40] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID128' hedef aldı (öncelik: üss’e en yakın).
+[19:50:40] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:40] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:50:40] Kalan Can: 45/75.
+[19:50:40] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:41] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID128' hedef aldı (öncelik: üss’e en yakın).
+[19:50:41] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:41] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:50:41] Kalan Can: 39/75.
+[19:50:42] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID130' hedef aldı (öncelik: üss’e en yakın).
+[19:50:42] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:42] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:42] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:50:42] Kalan Can: 40/50.
+[19:50:43] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID130' hedef aldı (öncelik: üss’e en yakın).
+[19:50:43] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:43] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:50:43] Kalan Can: 30/50.
+[19:50:43] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID128' hedef aldı (öncelik: üss’e en yakın).
+[19:50:44] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID129' hedef aldı (öncelik: üss’e en yakın).
+[19:50:44] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID128'.
+[19:50:44] — 'ZirhliKamyon-ID128' Net Hasar 13.
+[19:50:44] — 'ZirhliKamyon-ID129' Net Hasar 10.
+[19:50:44] — 'MotorluCapulcu-ID130' Net Hasar 20.
+[19:50:44] — 'MotorluCapulcu-ID131' Net Hasar 20.
+[19:50:44] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %33 → Engellenen 7; Net Hasar 13.
+[19:50:44] Kalan Can: 26/75.
+[19:50:44] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:44] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:44] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %46 → Engellenen 5; Net Hasar 5.
+[19:50:44] Kalan Can: 60/75.
+[19:50:45] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID129' hedef aldı (öncelik: üss’e en yakın).
+[19:50:45] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:45] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %46 → Engellenen 5; Net Hasar 5.
+[19:50:45] Kalan Can: 55/75.
+[19:50:46] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:46] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:46] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:46] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID130' hedef aldı (öncelik: üss’e en yakın).
+[19:50:47] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:47] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID130' hedef aldı (öncelik: üss’e en yakın).
+[19:50:47] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:50:47] Kalan Can: 0/50.
+[19:50:47] 'MotorluCapulcu-ID130' öldü. Ödül +15. Toplam Para: 240.
+[19:50:48] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:48] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:48] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID131' hedef aldı (öncelik: üss’e en yakın).
+[19:50:48] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:48] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:50:48] Kalan Can: 20/50.
+[19:50:49] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:49] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID131' hedef aldı (öncelik: üss’e en yakın).
+[19:50:49] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:50:49] Kalan Can: 10/50.
+[19:50:49] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID129' hedef aldı (öncelik: üss’e en yakın).
+[19:50:50] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:50] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID129'.
+[19:50:50] — 'ZirhliKamyon-ID128' Net Hasar 13.
+[19:50:50] — 'ZirhliKamyon-ID129' Net Hasar 10.
+[19:50:50] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %46 → Engellenen 10; Net Hasar 10.
+[19:50:50] Kalan Can: 45/75.
+[19:50:50] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:50] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID131' hedef aldı (öncelik: üss’e en yakın).
+[19:50:50] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:50:50] Kalan Can: 0/50.
+[19:50:50] 'MotorluCapulcu-ID131' öldü. Ödül +15. Toplam Para: 255.
+[19:50:51] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:51] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID128' hedef aldı (öncelik: üss’e en yakın).
+[19:50:51] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:51] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:50:51] Kalan Can: 7/75.
+[19:50:52] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:52] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID128' hedef aldı (öncelik: üss’e en yakın).
+[19:50:52] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID128' hedef aldı (öncelik: üss’e en yakın).
+[19:50:52] 'ZirhliKamyon-ID128' yavaşlatıldı (%50, 3 sn).
+[19:50:52] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %33 → Engellenen 6; Net Hasar 9.
+[19:50:52] Kalan Can: -2/75.
+[19:50:52] 'ZirhliKamyon-ID128' öldü. Ödül +35. Toplam Para: 290.
+[19:50:52] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID129' hedef aldı (öncelik: üss’e en yakın).
+[19:50:53] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID129' hedef aldı (öncelik: üss’e en yakın).
+[19:50:53] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID129'.
+[19:50:53] — 'ZirhliKamyon-ID129' Net Hasar 10.
+[19:50:53] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %46 → Engellenen 10; Net Hasar 10.
+[19:50:53] Kalan Can: 35/75.
+[19:50:53] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %46 → Engellenen 5; Net Hasar 5.
+[19:50:53] Kalan Can: 30/75.
+[19:50:54] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID129' hedef aldı (öncelik: üss’e en yakın).
+[19:50:54] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID129' hedef aldı (öncelik: üss’e en yakın).
+[19:50:54] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:50:54] 'ZirhliKamyon-ID129' yavaşlatıldı (%50, 3 sn).
+[19:50:54] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %46 → Engellenen 7; Net Hasar 8.
+[19:50:54] Kalan Can: 22/75.
+[19:50:54] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %46 → Engellenen 5; Net Hasar 5.
+[19:50:54] Kalan Can: 17/75.
+[19:50:55] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID129' hedef aldı (öncelik: üss’e en yakın).
+[19:50:55] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %46 → Engellenen 5; Net Hasar 5.
+[19:50:55] Kalan Can: 12/75.
+[19:50:56] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID129' hedef aldı (öncelik: üss’e en yakın).
+[19:50:56] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID129' hedef aldı (öncelik: üss’e en yakın).
+[19:50:56] 'ZirhliKamyon-ID129' yavaşlatıldı (%50, 3 sn).
+[19:50:56] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %46 → Engellenen 7; Net Hasar 8.
+[19:50:56] Kalan Can: 4/75.
+[19:50:56] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %46 → Engellenen 5; Net Hasar 5.
+[19:50:56] Kalan Can: -1/75.
+[19:50:56] 'ZirhliKamyon-ID129' öldü. Ödül +35. Toplam Para: 325.
+[19:50:57] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:51:00] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:51:00] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:51:03] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:51:06] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID124' hedef aldı (öncelik: üss’e en yakın).
+[19:51:09] 'ZirhliKamyon-ID124' üsse ulaştı. Oyuncu Canı: 65 (-10)
+[19:51:09] Dalga 6 Bitti.
+[19:51:14] Dalga 7 Başladı. (Tip: Dalga 7, Sayı: 0)
+[19:51:21] Düşman 'GozcuUcagi-ID132' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:51:23] Düşman 'MotorluCapulcu-ID134' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:51:23] Kule 'AnahtarMakinesi-ID002', 'GozcuUcagi-ID132' hedef aldı (öncelik: üss’e en yakın).
+[19:51:24] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:24] Kalan Can: 40/50.
+[19:51:24] Kule 'AnahtarMakinesi-ID002', 'GozcuUcagi-ID132' hedef aldı (öncelik: üss’e en yakın).
+[19:51:25] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:25] Kalan Can: 30/50.
+[19:51:25] Düşman 'MotorluCapulcu-ID135' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:51:25] Kule 'AnahtarMakinesi-ID002', 'GozcuUcagi-ID132' hedef aldı (öncelik: üss’e en yakın).
+[19:51:26] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:26] Kalan Can: 20/50.
+[19:51:26] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID134' hedef aldı (öncelik: üss’e en yakın).
+[19:51:27] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:27] Kalan Can: 40/50.
+[19:51:27] Kule 'CiviAgAtar-ID001', 'GozcuUcagi-ID132' hedef aldı (öncelik: üss’e en yakın).
+[19:51:27] 'GozcuUcagi-ID132' yavaşlatıldı (%50, 3 sn).
+[19:51:27] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:51:27] Kalan Can: 5/50.
+[19:51:27] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID134' hedef aldı (öncelik: üss’e en yakın).
+[19:51:28] Düşman 'MotorluCapulcu-ID136' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:51:28] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:28] Kalan Can: 30/50.
+[19:51:28] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID134' hedef aldı (öncelik: üss’e en yakın).
+[19:51:29] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:29] Kalan Can: 20/50.
+[19:51:29] Kule 'CiviAgAtar-ID001', 'GozcuUcagi-ID132' hedef aldı (öncelik: üss’e en yakın).
+[19:51:29] 'GozcuUcagi-ID132' yavaşlatıldı (%50, 3 sn).
+[19:51:29] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:51:29] Kalan Can: -10/50.
+[19:51:29] 'GozcuUcagi-ID132' öldü. Ödül +25. Toplam Para: 350.
+[19:51:29] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID134' hedef aldı (öncelik: üss’e en yakın).
+[19:51:29] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID134' hedef aldı (öncelik: üss’e en yakın).
+[19:51:30] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID134'.
+[19:51:30] — 'MotorluCapulcu-ID134' Net Hasar 20.
+[19:51:30] — 'MotorluCapulcu-ID135' Net Hasar 20.
+[19:51:30] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:51:30] Kalan Can: 0/50.
+[19:51:30] 'MotorluCapulcu-ID134' öldü. Ödül +15. Toplam Para: 365.
+[19:51:30] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID135' hedef aldı (öncelik: üss’e en yakın).
+[19:51:31] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:31] Kalan Can: 20/50.
+[19:51:31] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID135' hedef aldı (öncelik: üss’e en yakın).
+[19:51:32] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:32] Kalan Can: 10/50.
+[19:51:32] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID135' hedef aldı (öncelik: üss’e en yakın).
+[19:51:32] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID135' hedef aldı (öncelik: üss’e en yakın).
+[19:51:33] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID135'.
+[19:51:33] — 'MotorluCapulcu-ID135' Net Hasar 20.
+[19:51:33] — 'MotorluCapulcu-ID136' Net Hasar 20.
+[19:51:33] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:51:33] Kalan Can: -10/50.
+[19:51:33] 'MotorluCapulcu-ID135' öldü. Ödül +15. Toplam Para: 380.
+[19:51:33] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID136' hedef aldı (öncelik: üss’e en yakın).
+[19:51:34] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:34] Kalan Can: 20/50.
+[19:51:34] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID136' hedef aldı (öncelik: üss’e en yakın).
+[19:51:35] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:35] Kalan Can: 10/50.
+[19:51:35] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID136' hedef aldı (öncelik: üss’e en yakın).
+[19:51:36] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID136'.
+[19:51:36] — 'MotorluCapulcu-ID136' Net Hasar 20.
+[19:51:36] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:51:36] Kalan Can: -10/50.
+[19:51:36] 'MotorluCapulcu-ID136' öldü. Ödül +15. Toplam Para: 395.
+[19:51:36] Dalga 7 Bitti.
+[19:51:37] Dalga 8 Başladı. (Tip: Dalga 8, Sayı: 0)
+[19:51:37] Düşman 'ZirhliKamyon-ID137' (Can: 75/75, Zırh: 66) haritaya girdi.
+[19:51:39] Düşman 'ZirhliKamyon-ID138' (Can: 75/75, Zırh: 92) haritaya girdi.
+[19:51:39] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID137' hedef aldı (öncelik: üss’e en yakın).
+[19:51:40] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID137' hedef aldı (öncelik: üss’e en yakın).
+[19:51:40] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %39 → Engellenen 4; Net Hasar 6.
+[19:51:40] Kalan Can: 69/75.
+[19:51:40] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID137'.
+[19:51:40] — 'ZirhliKamyon-ID137' Net Hasar 12.
+[19:51:40] — 'ZirhliKamyon-ID138' Net Hasar 10.
+[19:51:40] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %39 → Engellenen 8; Net Hasar 12.
+[19:51:40] Kalan Can: 57/75.
+[19:51:40] Düşman 'ZirhliKamyon-ID139' (Can: 75/75, Zırh: 57) haritaya girdi.
+[19:51:41] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID137' hedef aldı (öncelik: üss’e en yakın).
+[19:51:41] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %39 → Engellenen 4; Net Hasar 6.
+[19:51:41] Kalan Can: 51/75.
+[19:51:42] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID138' hedef aldı (öncelik: üss’e en yakın).
+[19:51:42] Düşman 'MotorluCapulcu-ID140' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:51:42] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID137' hedef aldı (öncelik: üss’e en yakın).
+[19:51:42] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %47 → Engellenen 5; Net Hasar 5.
+[19:51:42] Kalan Can: 60/75.
+[19:51:42] 'ZirhliKamyon-ID137' yavaşlatıldı (%50, 3 sn).
+[19:51:42] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %39 → Engellenen 6; Net Hasar 9.
+[19:51:42] Kalan Can: 42/75.
+[19:51:42] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID137' hedef aldı (öncelik: üss’e en yakın).
+[19:51:43] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID139' hedef aldı (öncelik: üss’e en yakın).
+[19:51:43] Düşman 'ZirhliKamyon-ID141' (Can: 75/75, Zırh: 51) haritaya girdi.
+[19:51:43] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID137'.
+[19:51:43] — 'ZirhliKamyon-ID137' Net Hasar 12.
+[19:51:43] — 'ZirhliKamyon-ID138' Net Hasar 10.
+[19:51:43] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %39 → Engellenen 8; Net Hasar 12.
+[19:51:43] Kalan Can: 30/75.
+[19:51:43] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:51:43] Kalan Can: 69/75.
+[19:51:44] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID138' hedef aldı (öncelik: üss’e en yakın).
+[19:51:44] Düşman 'GozcuUcagi-ID142' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:51:44] 'ZirhliKamyon-ID138' yavaşlatıldı (%50, 3 sn).
+[19:51:44] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %47 → Engellenen 8; Net Hasar 7.
+[19:51:44] Kalan Can: 43/75.
+[19:51:44] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID140' hedef aldı (öncelik: üss’e en yakın).
+[19:51:45] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID141' hedef aldı (öncelik: üss’e en yakın).
+[19:51:45] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:45] Kalan Can: 40/50.
+[19:51:45] Düşman 'ZirhliKamyon-ID143' (Can: 75/75, Zırh: 69) haritaya girdi.
+[19:51:45] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:51:45] Kalan Can: 69/75.
+[19:51:45] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID140' hedef aldı (öncelik: üss’e en yakın).
+[19:51:45] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID140' hedef aldı (öncelik: üss’e en yakın).
+[19:51:46] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID140' hedef aldı (öncelik: üss’e en yakın).
+[19:51:46] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:46] Kalan Can: 30/50.
+[19:51:46] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID141' hedef aldı (öncelik: üss’e en yakın).
+[19:51:46] 'MotorluCapulcu-ID140' yavaşlatıldı (%50, 3 sn).
+[19:51:46] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:51:46] Kalan Can: 15/50.
+[19:51:46] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID140'.
+[19:51:46] — 'ZirhliKamyon-ID137' Net Hasar 12.
+[19:51:46] — 'ZirhliKamyon-ID138' Net Hasar 10.
+[19:51:46] — 'ZirhliKamyon-ID139' Net Hasar 12.
+[19:51:46] — 'MotorluCapulcu-ID140' Net Hasar 20.
+[19:51:46] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:51:46] Kalan Can: -5/50.
+[19:51:46] 'MotorluCapulcu-ID140' öldü. Ödül +15. Toplam Para: 410.
+[19:51:46] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:51:46] Kalan Can: 63/75.
+[19:51:46] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID137' hedef aldı (öncelik: üss’e en yakın).
+[19:51:47] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID141' hedef aldı (öncelik: üss’e en yakın).
+[19:51:47] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %39 → Engellenen 4; Net Hasar 6.
+[19:51:47] Kalan Can: 12/75.
+[19:51:47] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:51:47] Kalan Can: 57/75.
+[19:51:47] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID137' hedef aldı (öncelik: üss’e en yakın).
+[19:51:48] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID137' hedef aldı (öncelik: üss’e en yakın).
+[19:51:48] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %39 → Engellenen 4; Net Hasar 6.
+[19:51:48] Kalan Can: 6/75.
+[19:51:48] Kule 'AnahtarMakinesi-ID002', 'GozcuUcagi-ID142' hedef aldı (öncelik: üss’e en yakın).
+[19:51:48] 'ZirhliKamyon-ID137' yavaşlatıldı (%50, 3 sn).
+[19:51:48] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %39 → Engellenen 6; Net Hasar 9.
+[19:51:48] Kalan Can: -3/75.
+[19:51:48] 'ZirhliKamyon-ID137' öldü. Ödül +35. Toplam Para: 445.
+[19:51:48] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:48] Kalan Can: 40/50.
+[19:51:48] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID138' hedef aldı (öncelik: üss’e en yakın).
+[19:51:48] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID138' hedef aldı (öncelik: üss’e en yakın).
+[19:51:49] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %47 → Engellenen 5; Net Hasar 5.
+[19:51:49] Kalan Can: 28/75.
+[19:51:49] Kule 'AnahtarMakinesi-ID002', 'GozcuUcagi-ID142' hedef aldı (öncelik: üss’e en yakın).
+[19:51:49] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID138'.
+[19:51:49] — 'ZirhliKamyon-ID138' Net Hasar 10.
+[19:51:49] — 'ZirhliKamyon-ID139' Net Hasar 12.
+[19:51:49] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %47 → Engellenen 10; Net Hasar 10.
+[19:51:49] Kalan Can: 18/75.
+[19:51:49] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:49] Kalan Can: 30/50.
+[19:51:49] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID138' hedef aldı (öncelik: üss’e en yakın).
+[19:51:50] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID138' hedef aldı (öncelik: üss’e en yakın).
+[19:51:50] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %47 → Engellenen 5; Net Hasar 5.
+[19:51:50] Kalan Can: 13/75.
+[19:51:50] Kule 'AnahtarMakinesi-ID002', 'GozcuUcagi-ID142' hedef aldı (öncelik: üss’e en yakın).
+[19:51:50] 'ZirhliKamyon-ID138' yavaşlatıldı (%50, 3 sn).
+[19:51:50] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %47 → Engellenen 8; Net Hasar 7.
+[19:51:50] Kalan Can: 6/75.
+[19:51:50] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:50] Kalan Can: 20/50.
+[19:51:50] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID138' hedef aldı (öncelik: üss’e en yakın).
+[19:51:51] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %47 → Engellenen 5; Net Hasar 5.
+[19:51:51] Kalan Can: 1/75.
+[19:51:51] Kule 'AnahtarMakinesi-ID002', 'GozcuUcagi-ID142' hedef aldı (öncelik: üss’e en yakın).
+[19:51:51] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:51] Kalan Can: 10/50.
+[19:51:51] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID138' hedef aldı (öncelik: üss’e en yakın).
+[19:51:51] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID138' hedef aldı (öncelik: üss’e en yakın).
+[19:51:52] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID138' hedef aldı (öncelik: üss’e en yakın).
+[19:51:52] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %47 → Engellenen 5; Net Hasar 5.
+[19:51:52] Kalan Can: -4/75.
+[19:51:52] 'ZirhliKamyon-ID138' öldü. Ödül +35. Toplam Para: 480.
+[19:51:52] Kule 'AnahtarMakinesi-ID002', 'GozcuUcagi-ID142' hedef aldı (öncelik: üss’e en yakın).
+[19:51:52] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:51:52] Kalan Can: 0/50.
+[19:51:52] 'GozcuUcagi-ID142' öldü. Ödül +25. Toplam Para: 505.
+[19:51:53] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID141' hedef aldı (öncelik: üss’e en yakın).
+[19:51:53] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:51:53] Kalan Can: 51/75.
+[19:51:54] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID141' hedef aldı (öncelik: üss’e en yakın).
+[19:51:54] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:51:54] Kalan Can: 45/75.
+[19:51:54] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID139' hedef aldı (öncelik: üss’e en yakın).
+[19:51:55] Düşman 'ZirhliKamyon-ID144' (Can: 75/75, Zırh: 96) haritaya girdi.
+[19:51:55] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID141' hedef aldı (öncelik: üss’e en yakın).
+[19:51:55] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID139'.
+[19:51:55] — 'ZirhliKamyon-ID139' Net Hasar 12.
+[19:51:55] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %36 → Engellenen 8; Net Hasar 12.
+[19:51:55] Kalan Can: 33/75.
+[19:51:55] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:51:55] Kalan Can: 39/75.
+[19:51:55] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID139' hedef aldı (öncelik: üss’e en yakın).
+[19:51:56] 'ZirhliKamyon-ID139' yavaşlatıldı (%50, 3 sn).
+[19:51:56] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %36 → Engellenen 6; Net Hasar 9.
+[19:51:56] Kalan Can: 24/75.
+[19:51:56] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID141' hedef aldı (öncelik: üss’e en yakın).
+[19:51:56] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID139' hedef aldı (öncelik: üss’e en yakın).
+[19:51:56] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:51:56] Kalan Can: 33/75.
+[19:51:57] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:51:57] Kalan Can: 18/75.
+[19:51:57] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID141' hedef aldı (öncelik: üss’e en yakın).
+[19:51:57] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID139' hedef aldı (öncelik: üss’e en yakın).
+[19:51:57] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:51:57] Kalan Can: 27/75.
+[19:51:57] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID139' hedef aldı (öncelik: üss’e en yakın).
+[19:51:57] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID139' hedef aldı (öncelik: üss’e en yakın).
+[19:51:57] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:51:57] Kalan Can: 12/75.
+[19:51:58] 'ZirhliKamyon-ID139' yavaşlatıldı (%50, 3 sn).
+[19:51:58] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %36 → Engellenen 6; Net Hasar 9.
+[19:51:58] Kalan Can: 3/75.
+[19:51:58] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID141' hedef aldı (öncelik: üss’e en yakın).
+[19:51:58] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID139'.
+[19:51:58] — 'ZirhliKamyon-ID139' Net Hasar 12.
+[19:51:58] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %36 → Engellenen 8; Net Hasar 12.
+[19:51:58] Kalan Can: -9/75.
+[19:51:58] 'ZirhliKamyon-ID139' öldü. Ödül +35. Toplam Para: 540.
+[19:51:58] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:51:58] Kalan Can: 21/75.
+[19:51:59] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID141' hedef aldı (öncelik: üss’e en yakın).
+[19:51:59] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %33 → Engellenen 4; Net Hasar 6.
+[19:51:59] Kalan Can: 15/75.
+[19:52:00] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID143' hedef aldı (öncelik: üss’e en yakın).
+[19:52:00] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID141' hedef aldı (öncelik: üss’e en yakın).
+[19:52:00] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:52:00] Kalan Can: 70/75.
+[19:52:00] 'ZirhliKamyon-ID141' yavaşlatıldı (%50, 3 sn).
+[19:52:00] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %33 → Engellenen 6; Net Hasar 9.
+[19:52:00] Kalan Can: 6/75.
+[19:52:00] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID141' hedef aldı (öncelik: üss’e en yakın).
+[19:52:01] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID143' hedef aldı (öncelik: üss’e en yakın).
+[19:52:01] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID141'.
+[19:52:01] — 'ZirhliKamyon-ID141' Net Hasar 13.
+[19:52:01] — 'ZirhliKamyon-ID143' Net Hasar 11.
+[19:52:01] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %33 → Engellenen 7; Net Hasar 13.
+[19:52:01] Kalan Can: -7/75.
+[19:52:01] 'ZirhliKamyon-ID141' öldü. Ödül +35. Toplam Para: 575.
+[19:52:01] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:52:01] Kalan Can: 54/75.
+[19:52:02] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID143' hedef aldı (öncelik: üss’e en yakın).
+[19:52:02] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID143' hedef aldı (öncelik: üss’e en yakın).
+[19:52:02] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:52:02] Kalan Can: 49/75.
+[19:52:03] 'ZirhliKamyon-ID143' yavaşlatıldı (%50, 3 sn).
+[19:52:03] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %40 → Engellenen 7; Net Hasar 8.
+[19:52:03] Kalan Can: 41/75.
+[19:52:03] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID144' hedef aldı (öncelik: üss’e en yakın).
+[19:52:03] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:52:03] Kalan Can: 70/75.
+[19:52:03] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID143' hedef aldı (öncelik: üss’e en yakın).
+[19:52:04] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID143'.
+[19:52:04] — 'ZirhliKamyon-ID143' Net Hasar 11.
+[19:52:04] — 'ZirhliKamyon-ID144' Net Hasar 10.
+[19:52:04] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %40 → Engellenen 9; Net Hasar 11.
+[19:52:04] Kalan Can: 30/75.
+[19:52:04] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID144' hedef aldı (öncelik: üss’e en yakın).
+[19:52:05] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID144' hedef aldı (öncelik: üss’e en yakın).
+[19:52:05] 'ZirhliKamyon-ID144' yavaşlatıldı (%50, 3 sn).
+[19:52:05] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %48 → Engellenen 8; Net Hasar 7.
+[19:52:05] Kalan Can: 53/75.
+[19:52:05] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:52:05] Kalan Can: 48/75.
+[19:52:06] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID144' hedef aldı (öncelik: üss’e en yakın).
+[19:52:06] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:52:06] Kalan Can: 43/75.
+[19:52:06] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID143' hedef aldı (öncelik: üss’e en yakın).
+[19:52:07] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID143' hedef aldı (öncelik: üss’e en yakın).
+[19:52:07] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID143' hedef aldı (öncelik: üss’e en yakın).
+[19:52:07] 'ZirhliKamyon-ID143' yavaşlatıldı (%50, 3 sn).
+[19:52:07] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %40 → Engellenen 7; Net Hasar 8.
+[19:52:07] Kalan Can: 22/75.
+[19:52:07] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:52:07] Kalan Can: 17/75.
+[19:52:07] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:52:07] Kalan Can: 12/75.
+[19:52:08] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID143' hedef aldı (öncelik: üss’e en yakın).
+[19:52:08] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID143' hedef aldı (öncelik: üss’e en yakın).
+[19:52:08] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID144' hedef aldı (öncelik: üss’e en yakın).
+[19:52:08] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:52:08] Kalan Can: 7/75.
+[19:52:08] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID143'.
+[19:52:08] — 'ZirhliKamyon-ID143' Net Hasar 11.
+[19:52:08] — 'ZirhliKamyon-ID144' Net Hasar 10.
+[19:52:08] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %40 → Engellenen 9; Net Hasar 11.
+[19:52:08] Kalan Can: -4/75.
+[19:52:08] 'ZirhliKamyon-ID143' öldü. Ödül +35. Toplam Para: 610.
+[19:52:08] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID144' hedef aldı (öncelik: üss’e en yakın).
+[19:52:08] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:52:08] Kalan Can: 28/75.
+[19:52:09] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID144' hedef aldı (öncelik: üss’e en yakın).
+[19:52:09] 'ZirhliKamyon-ID144' yavaşlatıldı (%50, 3 sn).
+[19:52:09] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %48 → Engellenen 8; Net Hasar 7.
+[19:52:09] Kalan Can: 21/75.
+[19:52:09] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:52:09] Kalan Can: 16/75.
+[19:52:10] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID144' hedef aldı (öncelik: üss’e en yakın).
+[19:52:10] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:52:10] Kalan Can: 11/75.
+[19:52:11] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID144' hedef aldı (öncelik: üss’e en yakın).
+[19:52:11] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID144'.
+[19:52:11] — 'ZirhliKamyon-ID144' Net Hasar 10.
+[19:52:11] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %48 → Engellenen 10; Net Hasar 10.
+[19:52:11] Kalan Can: 1/75.
+[19:52:13] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID144' hedef aldı (öncelik: üss’e en yakın).
+[19:52:13] Kule 'YagSizdirici-ID007' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID144'.
+[19:52:13] — 'ZirhliKamyon-ID144' Net Hasar 10.
+[19:52:13] YagSizdirici-ID007 atışı: Taban 20 → Zırhlı Engelleme %48 → Engellenen 10; Net Hasar 10.
+[19:52:13] Kalan Can: -9/75.
+[19:52:13] 'ZirhliKamyon-ID144' öldü. Ödül +35. Toplam Para: 645.
+[19:52:13] Dalga 8 Bitti.
+[19:52:15] Dalga 9 Başladı. (Tip: Dalga 9, Sayı: 0)
+[19:52:15] Düşman 'ZirhliKamyon-ID145' (Can: 75/75, Zırh: 74) haritaya girdi.
+[19:52:16] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID145' hedef aldı (öncelik: üss’e en yakın).
+[19:52:16] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID145' hedef aldı (öncelik: üss’e en yakın).
+[19:52:16] Düşman 'MotorluCapulcu-ID146' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:52:16] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %42 → Engellenen 5; Net Hasar 5.
+[19:52:16] Kalan Can: 70/75.
+[19:52:17] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID145'.
+[19:52:17] — 'ZirhliKamyon-ID145' Net Hasar 11.
+[19:52:17] — 'MotorluCapulcu-ID146' Net Hasar 20.
+[19:52:17] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %42 → Engellenen 9; Net Hasar 11.
+[19:52:17] Kalan Can: 59/75.
+[19:52:17] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID145' hedef aldı (öncelik: üss’e en yakın).
+[19:52:17] Düşman 'GozcuUcagi-ID147' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:52:18] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %42 → Engellenen 5; Net Hasar 5.
+[19:52:18] Kalan Can: 54/75.
+[19:52:18] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID146' hedef aldı (öncelik: üss’e en yakın).
+[19:52:18] Kule 'AnahtarMakinesi-ID002', 'GozcuUcagi-ID147' hedef aldı (öncelik: üss’e en yakın).
+[19:52:18] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID146' hedef aldı (öncelik: üss’e en yakın).
+[19:52:18] 'MotorluCapulcu-ID146' yavaşlatıldı (%50, 3 sn).
+[19:52:18] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:52:18] Kalan Can: 15/50.
+[19:52:19] Düşman 'ZirhliKamyon-ID148' (Can: 75/75, Zırh: 60) haritaya girdi.
+[19:52:19] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:19] Kalan Can: 5/50.
+[19:52:19] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID145' hedef aldı (öncelik: üss’e en yakın).
+[19:52:19] Kule 'AnahtarMakinesi-ID006', 'GozcuUcagi-ID147' hedef aldı (öncelik: üss’e en yakın).
+[19:52:19] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID146' hedef aldı (öncelik: üss’e en yakın).
+[19:52:20] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID145'.
+[19:52:20] — 'ZirhliKamyon-ID145' Net Hasar 11.
+[19:52:20] — 'MotorluCapulcu-ID146' Net Hasar 20.
+[19:52:20] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %42 → Engellenen 9; Net Hasar 11.
+[19:52:20] Kalan Can: 43/75.
+[19:52:20] Kule 'CiviAgAtar-ID001', 'GozcuUcagi-ID147' hedef aldı (öncelik: üss’e en yakın).
+[19:52:20] Düşman 'GozcuUcagi-ID149' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:52:20] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID148' hedef aldı (öncelik: üss’e en yakın).
+[19:52:20] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %37 → Engellenen 4; Net Hasar 6.
+[19:52:20] Kalan Can: 69/75.
+[19:52:20] Kule 'AnahtarMakinesi-ID006', 'MotorluCapulcu-ID146' hedef aldı (öncelik: üss’e en yakın).
+[19:52:20] Kule 'YagSizdirici-ID004', 'MotorluCapulcu-ID146' hedef aldı (öncelik: üss’e en yakın).
+[19:52:20] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID145' hedef aldı (öncelik: üss’e en yakın).
+[19:52:21] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %42 → Engellenen 5; Net Hasar 5.
+[19:52:21] Kalan Can: 38/75.
+[19:52:21] Kule 'AnahtarMakinesi-ID002', 'GozcuUcagi-ID149' hedef aldı (öncelik: üss’e en yakın).
+[19:52:21] Düşman 'MotorluCapulcu-ID150' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:52:21] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID145' hedef aldı (öncelik: üss’e en yakın).
+[19:52:21] Kule 'AnahtarMakinesi-ID005', 'GozcuUcagi-ID149' hedef aldı (öncelik: üss’e en yakın).
+[19:52:22] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %42 → Engellenen 5; Net Hasar 5.
+[19:52:22] Kalan Can: 33/75.
+[19:52:22] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID145' hedef aldı (öncelik: üss’e en yakın).
+[19:52:22] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID150' hedef aldı (öncelik: üss’e en yakın).
+[19:52:22] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID148' hedef aldı (öncelik: üss’e en yakın).
+[19:52:22] 'ZirhliKamyon-ID145' yavaşlatıldı (%50, 3 sn).
+[19:52:22] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %42 → Engellenen 7; Net Hasar 8.
+[19:52:22] Kalan Can: 25/75.
+[19:52:22] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:22] Kalan Can: 40/50.
+[19:52:22] Düşman 'MotorluCapulcu-ID151' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:52:22] Kule 'AnahtarMakinesi-ID006', 'GozcuUcagi-ID149' hedef aldı (öncelik: üss’e en yakın).
+[19:52:22] 'GozcuUcagi-ID147' üsse ulaştı. Oyuncu Canı: 60 (-5)
+[19:52:22] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID148'.
+[19:52:22] — 'ZirhliKamyon-ID148' Net Hasar 12.
+[19:52:22] — 'MotorluCapulcu-ID150' Net Hasar 20.
+[19:52:22] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %37 → Engellenen 8; Net Hasar 12.
+[19:52:22] Kalan Can: 57/75.
+[19:52:23] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:23] Kalan Can: 40/50.
+[19:52:23] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:23] Kalan Can: 30/50.
+[19:52:23] 'GozcuUcagi-ID147' yavaşlatıldı (%50, 3 sn).
+[19:52:23] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:52:23] Kalan Can: 15/50.
+[19:52:23] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:23] Kalan Can: 40/50.
+[19:52:23] Kule 'YagSizdirici-ID007', 'MotorluCapulcu-ID146' hedef aldı (öncelik: üss’e en yakın).
+[19:52:23] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID151' hedef aldı (öncelik: üss’e en yakın).
+[19:52:23] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:23] Kalan Can: 30/50.
+[19:52:23] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID145' hedef aldı (öncelik: üss’e en yakın).
+[19:52:23] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:23] Kalan Can: 20/50.
+[19:52:23] Düşman 'ZirhliKamyon-ID152' (Can: 75/75, Zırh: 95) haritaya girdi.
+[19:52:23] Kule 'YagSizdirici-ID004', 'MotorluCapulcu-ID146' hedef aldı (öncelik: üss’e en yakın).
+[19:52:23] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:23] Kalan Can: 40/50.
+[19:52:24] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID150' hedef aldı (öncelik: üss’e en yakın).
+[19:52:24] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %42 → Engellenen 5; Net Hasar 5.
+[19:52:24] Kalan Can: 20/75.
+[19:52:24] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID148' hedef aldı (öncelik: üss’e en yakın).
+[19:52:24] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID151' hedef aldı (öncelik: üss’e en yakın).
+[19:52:24] 'MotorluCapulcu-ID150' yavaşlatıldı (%50, 3 sn).
+[19:52:24] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:52:24] Kalan Can: 5/50.
+[19:52:24] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %37 → Engellenen 4; Net Hasar 6.
+[19:52:24] Kalan Can: 51/75.
+[19:52:25] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:25] Kalan Can: 30/50.
+[19:52:25] Düşman 'GozcuUcagi-ID153' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:52:25] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID150' hedef aldı (öncelik: üss’e en yakın).
+[19:52:25] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID151' hedef aldı (öncelik: üss’e en yakın).
+[19:52:25] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:25] Kalan Can: -5/50.
+[19:52:25] 'MotorluCapulcu-ID150' öldü. Ödül +15. Toplam Para: 660.
+[19:52:25] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID151'.
+[19:52:25] — 'ZirhliKamyon-ID148' Net Hasar 12.
+[19:52:25] — 'MotorluCapulcu-ID151' Net Hasar 20.
+[19:52:25] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:52:25] Kalan Can: 10/50.
+[19:52:25] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID152' hedef aldı (öncelik: üss’e en yakın).
+[19:52:26] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID148' hedef aldı (öncelik: üss’e en yakın).
+[19:52:26] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:52:26] Kalan Can: 70/75.
+[19:52:26] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID148' hedef aldı (öncelik: üss’e en yakın).
+[19:52:26] Kule 'YagSizdirici-ID007', 'MotorluCapulcu-ID146' hedef aldı (öncelik: üss’e en yakın).
+[19:52:26] Düşman 'ZirhliKamyon-ID154' (Can: 75/75, Zırh: 79) haritaya girdi.
+[19:52:26] 'ZirhliKamyon-ID148' yavaşlatıldı (%50, 3 sn).
+[19:52:26] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %37 → Engellenen 6; Net Hasar 9.
+[19:52:26] Kalan Can: 30/75.
+[19:52:26] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %37 → Engellenen 4; Net Hasar 6.
+[19:52:26] Kalan Can: 24/75.
+[19:52:26] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID145' hedef aldı (öncelik: üss’e en yakın).
+[19:52:26] Kule 'AnahtarMakinesi-ID002', 'GozcuUcagi-ID153' hedef aldı (öncelik: üss’e en yakın).
+[19:52:27] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:27] Kalan Can: 40/50.
+[19:52:27] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID145'.
+[19:52:27] — 'ZirhliKamyon-ID145' Net Hasar 11.
+[19:52:27] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %42 → Engellenen 9; Net Hasar 11.
+[19:52:27] Kalan Can: 9/75.
+[19:52:27] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID148' hedef aldı (öncelik: üss’e en yakın).
+[19:52:27] 'GozcuUcagi-ID149' üsse ulaştı. Oyuncu Canı: 55 (-5)
+[19:52:27] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %37 → Engellenen 4; Net Hasar 6.
+[19:52:27] Kalan Can: 18/75.
+[19:52:27] 'MotorluCapulcu-ID146' üsse ulaştı. Oyuncu Canı: 50 (-5)
+[19:52:27] Kule 'AnahtarMakinesi-ID002', 'GozcuUcagi-ID153' hedef aldı (öncelik: üss’e en yakın).
+[19:52:28] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID148' hedef aldı (öncelik: üss’e en yakın).
+[19:52:28] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID148' hedef aldı (öncelik: üss’e en yakın).
+[19:52:28] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:28] Kalan Can: 30/50.
+[19:52:28] 'ZirhliKamyon-ID148' yavaşlatıldı (%50, 3 sn).
+[19:52:28] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %37 → Engellenen 6; Net Hasar 9.
+[19:52:28] Kalan Can: 9/75.
+[19:52:28] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %37 → Engellenen 4; Net Hasar 6.
+[19:52:28] Kalan Can: 3/75.
+[19:52:28] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID148' hedef aldı (öncelik: üss’e en yakın).
+[19:52:28] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID152' hedef aldı (öncelik: üss’e en yakın).
+[19:52:29] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:52:29] Kalan Can: 65/75.
+[19:52:29] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %37 → Engellenen 4; Net Hasar 6.
+[19:52:29] Kalan Can: -3/75.
+[19:52:29] 'ZirhliKamyon-ID148' öldü. Ödül +35. Toplam Para: 695.
+[19:52:29] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID151' hedef aldı (öncelik: üss’e en yakın).
+[19:52:29] Kule 'AnahtarMakinesi-ID006', 'MotorluCapulcu-ID151' hedef aldı (öncelik: üss’e en yakın).
+[19:52:29] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID145' hedef aldı (öncelik: üss’e en yakın).
+[19:52:30] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID152' hedef aldı (öncelik: üss’e en yakın).
+[19:52:30] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:30] Kalan Can: 0/50.
+[19:52:30] 'MotorluCapulcu-ID151' öldü. Ödül +15. Toplam Para: 710.
+[19:52:30] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID145'.
+[19:52:30] — 'ZirhliKamyon-ID145' Net Hasar 11.
+[19:52:30] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %42 → Engellenen 9; Net Hasar 11.
+[19:52:30] Kalan Can: -2/75.
+[19:52:30] 'ZirhliKamyon-ID145' öldü. Ödül +35. Toplam Para: 745.
+[19:52:30] Kule 'CiviAgAtar-ID001', 'GozcuUcagi-ID153' hedef aldı (öncelik: üss’e en yakın).
+[19:52:30] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:52:30] Kalan Can: 60/75.
+[19:52:30] Kule 'AnahtarMakinesi-ID005', 'GozcuUcagi-ID153' hedef aldı (öncelik: üss’e en yakın).
+[19:52:30] 'GozcuUcagi-ID153' yavaşlatıldı (%50, 3 sn).
+[19:52:30] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:52:30] Kalan Can: 15/50.
+[19:52:30] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:30] Kalan Can: 5/50.
+[19:52:30] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID152' hedef aldı (öncelik: üss’e en yakın).
+[19:52:31] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID152' hedef aldı (öncelik: üss’e en yakın).
+[19:52:31] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID152'.
+[19:52:31] — 'ZirhliKamyon-ID152' Net Hasar 10.
+[19:52:31] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %48 → Engellenen 10; Net Hasar 10.
+[19:52:31] Kalan Can: 50/75.
+[19:52:31] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:52:31] Kalan Can: 45/75.
+[19:52:31] Kule 'AnahtarMakinesi-ID005', 'GozcuUcagi-ID153' hedef aldı (öncelik: üss’e en yakın).
+[19:52:31] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:31] Kalan Can: -5/50.
+[19:52:31] 'GozcuUcagi-ID153' öldü. Ödül +25. Toplam Para: 770.
+[19:52:32] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID154' hedef aldı (öncelik: üss’e en yakın).
+[19:52:32] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:52:32] Kalan Can: 70/75.
+[19:52:32] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID152' hedef aldı (öncelik: üss’e en yakın).
+[19:52:33] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID154' hedef aldı (öncelik: üss’e en yakın).
+[19:52:33] 'ZirhliKamyon-ID152' yavaşlatıldı (%50, 3 sn).
+[19:52:33] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %48 → Engellenen 8; Net Hasar 7.
+[19:52:33] Kalan Can: 38/75.
+[19:52:33] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:52:33] Kalan Can: 65/75.
+[19:52:33] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID152' hedef aldı (öncelik: üss’e en yakın).
+[19:52:34] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID154' hedef aldı (öncelik: üss’e en yakın).
+[19:52:34] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID152'.
+[19:52:34] — 'ZirhliKamyon-ID152' Net Hasar 10.
+[19:52:34] — 'ZirhliKamyon-ID154' Net Hasar 11.
+[19:52:34] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %48 → Engellenen 10; Net Hasar 10.
+[19:52:34] Kalan Can: 28/75.
+[19:52:34] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:52:34] Kalan Can: 49/75.
+[19:52:34] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID152' hedef aldı (öncelik: üss’e en yakın).
+[19:52:35] 'ZirhliKamyon-ID152' yavaşlatıldı (%50, 3 sn).
+[19:52:35] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %48 → Engellenen 8; Net Hasar 7.
+[19:52:35] Kalan Can: 21/75.
+[19:52:36] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID154' hedef aldı (öncelik: üss’e en yakın).
+[19:52:36] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID152' hedef aldı (öncelik: üss’e en yakın).
+[19:52:37] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID152' hedef aldı (öncelik: üss’e en yakın).
+[19:52:37] 'ZirhliKamyon-ID154' yavaşlatıldı (%50, 3 sn).
+[19:52:37] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %44 → Engellenen 7; Net Hasar 8.
+[19:52:37] Kalan Can: 41/75.
+[19:52:37] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID152'.
+[19:52:37] — 'ZirhliKamyon-ID152' Net Hasar 10.
+[19:52:37] — 'ZirhliKamyon-ID154' Net Hasar 11.
+[19:52:37] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %48 → Engellenen 10; Net Hasar 10.
+[19:52:37] Kalan Can: 11/75.
+[19:52:37] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:52:37] Kalan Can: 6/75.
+[19:52:38] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID152' hedef aldı (öncelik: üss’e en yakın).
+[19:52:38] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:52:38] Kalan Can: 1/75.
+[19:52:38] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID152' hedef aldı (öncelik: üss’e en yakın).
+[19:52:39] 'ZirhliKamyon-ID152' yavaşlatıldı (%50, 3 sn).
+[19:52:39] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %48 → Engellenen 8; Net Hasar 7.
+[19:52:39] Kalan Can: -6/75.
+[19:52:39] 'ZirhliKamyon-ID152' öldü. Ödül +35. Toplam Para: 805.
+[19:52:39] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID154' hedef aldı (öncelik: üss’e en yakın).
+[19:52:39] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:52:39] Kalan Can: 25/75.
+[19:52:40] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID154' hedef aldı (öncelik: üss’e en yakın).
+[19:52:40] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:52:40] Kalan Can: 20/75.
+[19:52:40] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID154' hedef aldı (öncelik: üss’e en yakın).
+[19:52:41] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID154' hedef aldı (öncelik: üss’e en yakın).
+[19:52:41] 'ZirhliKamyon-ID154' yavaşlatıldı (%50, 3 sn).
+[19:52:41] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %44 → Engellenen 7; Net Hasar 8.
+[19:52:41] Kalan Can: 12/75.
+[19:52:41] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:52:41] Kalan Can: 7/75.
+[19:52:42] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID154' hedef aldı (öncelik: üss’e en yakın).
+[19:52:42] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID154' hedef aldı (öncelik: üss’e en yakın).
+[19:52:42] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:52:42] Kalan Can: 2/75.
+[19:52:42] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:52:42] Kalan Can: -3/75.
+[19:52:42] 'ZirhliKamyon-ID154' öldü. Ödül +35. Toplam Para: 840.
+[19:52:42] Dalga 9 Bitti.
+[19:52:52] Dalga 10 Başladı. (Tip: Dalga 10, Sayı: 0)
+[19:52:53] Düşman 'ZirhliKamyon-ID155' (Can: 225/225, Zırh: 58) haritaya girdi.
+[19:52:54] Düşman 'MotorluCapulcu-ID156' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:52:55] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID155' hedef aldı (öncelik: üss’e en yakın).
+[19:52:55] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID155' hedef aldı (öncelik: üss’e en yakın).
+[19:52:55] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:52:55] Kalan Can: 219/225.
+[19:52:55] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID155'.
+[19:52:55] — 'ZirhliKamyon-ID155' Net Hasar 12.
+[19:52:55] — 'MotorluCapulcu-ID156' Net Hasar 20.
+[19:52:55] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %36 → Engellenen 8; Net Hasar 12.
+[19:52:55] Kalan Can: 207/225.
+[19:52:55] Düşman 'GozcuUcagi-ID157' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:52:56] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID156' hedef aldı (öncelik: üss’e en yakın).
+[19:52:56] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:56] Kalan Can: 20/50.
+[19:52:56] Düşman 'MotorluCapulcu-ID158' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:52:57] Kule 'AnahtarMakinesi-ID002', 'GozcuUcagi-ID157' hedef aldı (öncelik: üss’e en yakın).
+[19:52:57] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID156' hedef aldı (öncelik: üss’e en yakın).
+[19:52:57] 'MotorluCapulcu-ID156' yavaşlatıldı (%50, 3 sn).
+[19:52:57] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:52:57] Kalan Can: 5/50.
+[19:52:57] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:57] Kalan Can: 40/50.
+[19:52:58] Düşman 'MotorluCapulcu-ID159' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:52:58] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID158' hedef aldı (öncelik: üss’e en yakın).
+[19:52:58] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID156' hedef aldı (öncelik: üss’e en yakın).
+[19:52:58] Kule 'AnahtarMakinesi-ID005', 'GozcuUcagi-ID157' hedef aldı (öncelik: üss’e en yakın).
+[19:52:58] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:58] Kalan Can: 40/50.
+[19:52:58] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID156'.
+[19:52:58] — 'ZirhliKamyon-ID155' Net Hasar 12.
+[19:52:58] — 'MotorluCapulcu-ID156' Net Hasar 20.
+[19:52:58] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:52:58] Kalan Can: -15/50.
+[19:52:58] 'MotorluCapulcu-ID156' öldü. Ödül +15. Toplam Para: 855.
+[19:52:58] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:58] Kalan Can: 30/50.
+[19:52:59] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID158' hedef aldı (öncelik: üss’e en yakın).
+[19:52:59] Kule 'AnahtarMakinesi-ID006', 'GozcuUcagi-ID157' hedef aldı (öncelik: üss’e en yakın).
+[19:52:59] Düşman 'ZirhliKamyon-ID160' (Can: 75/75, Zırh: 94) haritaya girdi.
+[19:52:59] Kule 'CiviAgAtar-ID001', 'GozcuUcagi-ID157' hedef aldı (öncelik: üss’e en yakın).
+[19:52:59] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:59] Kalan Can: 20/50.
+[19:52:59] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:52:59] Kalan Can: 30/50.
+[19:52:59] 'GozcuUcagi-ID157' yavaşlatıldı (%50, 3 sn).
+[19:52:59] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:52:59] Kalan Can: 5/50.
+[19:53:00] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID159' hedef aldı (öncelik: üss’e en yakın).
+[19:53:00] Kule 'AnahtarMakinesi-ID006', 'GozcuUcagi-ID157' hedef aldı (öncelik: üss’e en yakın).
+[19:53:00] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:00] Kalan Can: 40/50.
+[19:53:00] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:00] Kalan Can: -5/50.
+[19:53:00] 'GozcuUcagi-ID157' öldü. Ödül +25. Toplam Para: 880.
+[19:53:00] Düşman 'ZirhliKamyon-ID161' (Can: 75/75, Zırh: 80) haritaya girdi.
+[19:53:01] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID158' hedef aldı (öncelik: üss’e en yakın).
+[19:53:01] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID158' hedef aldı (öncelik: üss’e en yakın).
+[19:53:01] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:01] Kalan Can: 20/50.
+[19:53:01] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID158' hedef aldı (öncelik: üss’e en yakın).
+[19:53:01] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID160' hedef aldı (öncelik: üss’e en yakın).
+[19:53:01] 'MotorluCapulcu-ID158' yavaşlatıldı (%50, 3 sn).
+[19:53:01] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:53:01] Kalan Can: 5/50.
+[19:53:02] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:53:02] Kalan Can: 70/75.
+[19:53:02] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID158' hedef aldı (öncelik: üss’e en yakın).
+[19:53:02] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID158'.
+[19:53:02] — 'ZirhliKamyon-ID155' Net Hasar 12.
+[19:53:02] — 'MotorluCapulcu-ID158' Net Hasar 20.
+[19:53:02] — 'MotorluCapulcu-ID159' Net Hasar 20.
+[19:53:02] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:53:02] Kalan Can: -15/50.
+[19:53:02] 'MotorluCapulcu-ID158' öldü. Ödül +15. Toplam Para: 895.
+[19:53:02] Düşman 'MotorluCapulcu-ID162' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:53:02] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID160' hedef aldı (öncelik: üss’e en yakın).
+[19:53:02] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:53:02] Kalan Can: 65/75.
+[19:53:03] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID155' hedef aldı (öncelik: üss’e en yakın).
+[19:53:03] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:53:03] Kalan Can: 177/225.
+[19:53:03] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID159' hedef aldı (öncelik: üss’e en yakın).
+[19:53:03] Kule 'AnahtarMakinesi-ID006', 'MotorluCapulcu-ID159' hedef aldı (öncelik: üss’e en yakın).
+[19:53:03] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID160' hedef aldı (öncelik: üss’e en yakın).
+[19:53:03] Düşman 'ZirhliKamyon-ID163' (Can: 75/75, Zırh: 74) haritaya girdi.
+[19:53:03] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:03] Kalan Can: 10/50.
+[19:53:03] 'MotorluCapulcu-ID159' yavaşlatıldı (%50, 3 sn).
+[19:53:03] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:53:03] Kalan Can: -5/50.
+[19:53:03] 'MotorluCapulcu-ID159' öldü. Ödül +15. Toplam Para: 910.
+[19:53:04] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:53:04] Kalan Can: 60/75.
+[19:53:04] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID155' hedef aldı (öncelik: üss’e en yakın).
+[19:53:04] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID160' hedef aldı (öncelik: üss’e en yakın).
+[19:53:04] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID155' hedef aldı (öncelik: üss’e en yakın).
+[19:53:04] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:53:04] Kalan Can: 171/225.
+[19:53:04] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID155' hedef aldı (öncelik: üss’e en yakın).
+[19:53:04] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID162' hedef aldı (öncelik: üss’e en yakın).
+[19:53:04] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID160'.
+[19:53:04] — 'ZirhliKamyon-ID160' Net Hasar 10.
+[19:53:04] — 'ZirhliKamyon-ID161' Net Hasar 11.
+[19:53:04] — 'MotorluCapulcu-ID162' Net Hasar 20.
+[19:53:04] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %48 → Engellenen 10; Net Hasar 10.
+[19:53:04] Kalan Can: 50/75.
+[19:53:04] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:53:04] Kalan Can: 165/225.
+[19:53:05] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:05] Kalan Can: 20/50.
+[19:53:05] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID155'.
+[19:53:05] — 'ZirhliKamyon-ID155' Net Hasar 12.
+[19:53:05] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %36 → Engellenen 8; Net Hasar 12.
+[19:53:05] Kalan Can: 153/225.
+[19:53:05] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID155' hedef aldı (öncelik: üss’e en yakın).
+[19:53:05] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID155' hedef aldı (öncelik: üss’e en yakın).
+[19:53:05] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID161' hedef aldı (öncelik: üss’e en yakın).
+[19:53:05] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:53:05] Kalan Can: 147/225.
+[19:53:05] 'ZirhliKamyon-ID155' yavaşlatıldı (%50, 3 sn).
+[19:53:05] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %36 → Engellenen 6; Net Hasar 9.
+[19:53:05] Kalan Can: 138/225.
+[19:53:06] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:53:06] Kalan Can: 59/75.
+[19:53:06] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID155' hedef aldı (öncelik: üss’e en yakın).
+[19:53:06] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID162' hedef aldı (öncelik: üss’e en yakın).
+[19:53:06] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID163' hedef aldı (öncelik: üss’e en yakın).
+[19:53:06] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:53:06] Kalan Can: 132/225.
+[19:53:06] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %42 → Engellenen 5; Net Hasar 5.
+[19:53:06] Kalan Can: 70/75.
+[19:53:07] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:07] Kalan Can: 10/50.
+[19:53:07] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID160' hedef aldı (öncelik: üss’e en yakın).
+[19:53:07] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID162' hedef aldı (öncelik: üss’e en yakın).
+[19:53:07] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID155' hedef aldı (öncelik: üss’e en yakın).
+[19:53:07] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID162' hedef aldı (öncelik: üss’e en yakın).
+[19:53:07] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID163' hedef aldı (öncelik: üss’e en yakın).
+[19:53:07] 'MotorluCapulcu-ID162' yavaşlatıldı (%50, 3 sn).
+[19:53:07] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:53:07] Kalan Can: -5/50.
+[19:53:07] 'MotorluCapulcu-ID162' öldü. Ödül +15. Toplam Para: 925.
+[19:53:07] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID160'.
+[19:53:07] — 'ZirhliKamyon-ID160' Net Hasar 10.
+[19:53:07] — 'ZirhliKamyon-ID161' Net Hasar 11.
+[19:53:07] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %48 → Engellenen 10; Net Hasar 10.
+[19:53:07] Kalan Can: 40/75.
+[19:53:07] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID155'.
+[19:53:07] — 'ZirhliKamyon-ID155' Net Hasar 12.
+[19:53:07] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %36 → Engellenen 8; Net Hasar 12.
+[19:53:07] Kalan Can: 120/225.
+[19:53:07] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %42 → Engellenen 5; Net Hasar 5.
+[19:53:07] Kalan Can: 65/75.
+[19:53:08] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID160' hedef aldı (öncelik: üss’e en yakın).
+[19:53:08] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID163' hedef aldı (öncelik: üss’e en yakın).
+[19:53:08] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:53:08] Kalan Can: 35/75.
+[19:53:09] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %42 → Engellenen 5; Net Hasar 5.
+[19:53:09] Kalan Can: 60/75.
+[19:53:09] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID160' hedef aldı (öncelik: üss’e en yakın).
+[19:53:09] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID160' hedef aldı (öncelik: üss’e en yakın).
+[19:53:09] 'ZirhliKamyon-ID160' yavaşlatıldı (%50, 3 sn).
+[19:53:09] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %48 → Engellenen 8; Net Hasar 7.
+[19:53:09] Kalan Can: 28/75.
+[19:53:10] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:53:10] Kalan Can: 23/75.
+[19:53:10] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID160' hedef aldı (öncelik: üss’e en yakın).
+[19:53:10] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID163' hedef aldı (öncelik: üss’e en yakın).
+[19:53:10] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:53:10] Kalan Can: 18/75.
+[19:53:10] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID155' hedef aldı (öncelik: üss’e en yakın).
+[19:53:10] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID160' hedef aldı (öncelik: üss’e en yakın).
+[19:53:10] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID163'.
+[19:53:10] — 'ZirhliKamyon-ID163' Net Hasar 11.
+[19:53:10] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %42 → Engellenen 9; Net Hasar 11.
+[19:53:10] Kalan Can: 49/75.
+[19:53:10] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID155'.
+[19:53:10] — 'ZirhliKamyon-ID155' Net Hasar 12.
+[19:53:10] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %36 → Engellenen 8; Net Hasar 12.
+[19:53:10] Kalan Can: 108/225.
+[19:53:11] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID160' hedef aldı (öncelik: üss’e en yakın).
+[19:53:11] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:53:11] Kalan Can: 13/75.
+[19:53:11] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:53:11] Kalan Can: 8/75.
+[19:53:11] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID160' hedef aldı (öncelik: üss’e en yakın).
+[19:53:11] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID161' hedef aldı (öncelik: üss’e en yakın).
+[19:53:11] 'ZirhliKamyon-ID160' yavaşlatıldı (%50, 3 sn).
+[19:53:11] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %48 → Engellenen 8; Net Hasar 7.
+[19:53:11] Kalan Can: 1/75.
+[19:53:12] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID160' hedef aldı (öncelik: üss’e en yakın).
+[19:53:12] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID155' hedef aldı (öncelik: üss’e en yakın).
+[19:53:12] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:53:12] Kalan Can: 43/75.
+[19:53:12] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:53:12] Kalan Can: -4/75.
+[19:53:12] 'ZirhliKamyon-ID160' öldü. Ödül +35. Toplam Para: 960.
+[19:53:12] Kule 'YagSizdirici-ID007' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID155'.
+[19:53:12] — 'ZirhliKamyon-ID155' Net Hasar 12.
+[19:53:12] YagSizdirici-ID007 atışı: Taban 20 → Zırhlı Engelleme %36 → Engellenen 8; Net Hasar 12.
+[19:53:12] Kalan Can: 96/225.
+[19:53:12] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID163' hedef aldı (öncelik: üss’e en yakın).
+[19:53:13] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %42 → Engellenen 5; Net Hasar 5.
+[19:53:13] Kalan Can: 44/75.
+[19:53:13] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID161' hedef aldı (öncelik: üss’e en yakın).
+[19:53:13] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:53:13] Kalan Can: 38/75.
+[19:53:13] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID161' hedef aldı (öncelik: üss’e en yakın).
+[19:53:13] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID161' hedef aldı (öncelik: üss’e en yakın).
+[19:53:13] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID163' hedef aldı (öncelik: üss’e en yakın).
+[19:53:13] 'ZirhliKamyon-ID161' yavaşlatıldı (%50, 3 sn).
+[19:53:13] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %44 → Engellenen 7; Net Hasar 8.
+[19:53:13] Kalan Can: 30/75.
+[19:53:14] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %42 → Engellenen 5; Net Hasar 5.
+[19:53:14] Kalan Can: 39/75.
+[19:53:14] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID161'.
+[19:53:14] — 'ZirhliKamyon-ID161' Net Hasar 11.
+[19:53:14] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %44 → Engellenen 9; Net Hasar 11.
+[19:53:14] Kalan Can: 19/75.
+[19:53:14] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID161' hedef aldı (öncelik: üss’e en yakın).
+[19:53:14] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:53:14] Kalan Can: 14/75.
+[19:53:14] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID163' hedef aldı (öncelik: üss’e en yakın).
+[19:53:15] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID163' hedef aldı (öncelik: üss’e en yakın).
+[19:53:15] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID155' hedef aldı (öncelik: üss’e en yakın).
+[19:53:15] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %42 → Engellenen 5; Net Hasar 5.
+[19:53:15] Kalan Can: 34/75.
+[19:53:15] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %42 → Engellenen 5; Net Hasar 5.
+[19:53:15] Kalan Can: 29/75.
+[19:53:15] Kule 'YagSizdirici-ID007' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID155'.
+[19:53:15] — 'ZirhliKamyon-ID155' Net Hasar 12.
+[19:53:15] YagSizdirici-ID007 atışı: Taban 20 → Zırhlı Engelleme %36 → Engellenen 8; Net Hasar 12.
+[19:53:15] Kalan Can: 84/225.
+[19:53:15] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID163' hedef aldı (öncelik: üss’e en yakın).
+[19:53:15] 'ZirhliKamyon-ID163' yavaşlatıldı (%50, 3 sn).
+[19:53:15] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %42 → Engellenen 7; Net Hasar 8.
+[19:53:15] Kalan Can: 21/75.
+[19:53:16] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID163' hedef aldı (öncelik: üss’e en yakın).
+[19:53:16] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %42 → Engellenen 5; Net Hasar 5.
+[19:53:16] Kalan Can: 16/75.
+[19:53:16] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID163' hedef aldı (öncelik: üss’e en yakın).
+[19:53:17] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID163'.
+[19:53:17] — 'ZirhliKamyon-ID161' Net Hasar 11.
+[19:53:17] — 'ZirhliKamyon-ID163' Net Hasar 11.
+[19:53:17] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %42 → Engellenen 9; Net Hasar 11.
+[19:53:17] Kalan Can: 5/75.
+[19:53:17] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID163' hedef aldı (öncelik: üss’e en yakın).
+[19:53:17] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %42 → Engellenen 5; Net Hasar 5.
+[19:53:17] Kalan Can: 0/75.
+[19:53:17] 'ZirhliKamyon-ID163' öldü. Ödül +35. Toplam Para: 995.
+[19:53:18] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID155' hedef aldı (öncelik: üss’e en yakın).
+[19:53:18] Kule 'YagSizdirici-ID007' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID155'.
+[19:53:18] — 'ZirhliKamyon-ID155' Net Hasar 12.
+[19:53:18] YagSizdirici-ID007 atışı: Taban 20 → Zırhlı Engelleme %36 → Engellenen 8; Net Hasar 12.
+[19:53:18] Kalan Can: 72/225.
+[19:53:19] 'ZirhliKamyon-ID155' üsse ulaştı. Oyuncu Canı: 30 (-20)
+[19:53:19] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID161' hedef aldı (öncelik: üss’e en yakın).
+[19:53:20] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID161'.
+[19:53:20] — 'ZirhliKamyon-ID161' Net Hasar 11.
+[19:53:20] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %44 → Engellenen 9; Net Hasar 11.
+[19:53:20] Kalan Can: -8/75.
+[19:53:20] 'ZirhliKamyon-ID161' öldü. Ödül +35. Toplam Para: 1030.
+[19:53:20] Dalga 10 Bitti.
+[19:53:24] Dalga 11 Başladı. (Tip: Dalga 11, Sayı: 0)
+[19:53:24] Düşman 'ZirhliKamyon-ID164' (Can: 75/75, Zırh: 64) haritaya girdi.
+[19:53:25] Düşman 'ZirhliKamyon-ID165' (Can: 75/75, Zırh: 61) haritaya girdi.
+[19:53:26] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID164' hedef aldı (öncelik: üss’e en yakın).
+[19:53:26] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID164' hedef aldı (öncelik: üss’e en yakın).
+[19:53:26] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %39 → Engellenen 4; Net Hasar 6.
+[19:53:26] Kalan Can: 69/75.
+[19:53:26] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID164'.
+[19:53:26] — 'ZirhliKamyon-ID164' Net Hasar 12.
+[19:53:26] — 'ZirhliKamyon-ID165' Net Hasar 12.
+[19:53:26] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %39 → Engellenen 8; Net Hasar 12.
+[19:53:26] Kalan Can: 57/75.
+[19:53:27] Düşman 'ZirhliKamyon-ID166' (Can: 75/75, Zırh: 89) haritaya girdi.
+[19:53:27] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID164' hedef aldı (öncelik: üss’e en yakın).
+[19:53:27] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %39 → Engellenen 4; Net Hasar 6.
+[19:53:27] Kalan Can: 51/75.
+[19:53:28] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID164' hedef aldı (öncelik: üss’e en yakın).
+[19:53:28] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %39 → Engellenen 4; Net Hasar 6.
+[19:53:28] Kalan Can: 45/75.
+[19:53:29] Düşman 'GozcuUcagi-ID167' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:53:29] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID164' hedef aldı (öncelik: üss’e en yakın).
+[19:53:29] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID165' hedef aldı (öncelik: üss’e en yakın).
+[19:53:29] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %37 → Engellenen 4; Net Hasar 6.
+[19:53:29] Kalan Can: 57/75.
+[19:53:29] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID164'.
+[19:53:29] — 'ZirhliKamyon-ID164' Net Hasar 12.
+[19:53:29] — 'ZirhliKamyon-ID165' Net Hasar 12.
+[19:53:29] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %39 → Engellenen 8; Net Hasar 12.
+[19:53:29] Kalan Can: 33/75.
+[19:53:29] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID164' hedef aldı (öncelik: üss’e en yakın).
+[19:53:30] Düşman 'ZirhliKamyon-ID168' (Can: 75/75, Zırh: 100) haritaya girdi.
+[19:53:30] 'ZirhliKamyon-ID164' yavaşlatıldı (%50, 3 sn).
+[19:53:30] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %39 → Engellenen 6; Net Hasar 9.
+[19:53:30] Kalan Can: 24/75.
+[19:53:30] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID165' hedef aldı (öncelik: üss’e en yakın).
+[19:53:30] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %37 → Engellenen 4; Net Hasar 6.
+[19:53:30] Kalan Can: 39/75.
+[19:53:31] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID166' hedef aldı (öncelik: üss’e en yakın).
+[19:53:31] Kule 'AnahtarMakinesi-ID005', 'GozcuUcagi-ID167' hedef aldı (öncelik: üss’e en yakın).
+[19:53:31] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %47 → Engellenen 5; Net Hasar 5.
+[19:53:31] Kalan Can: 70/75.
+[19:53:31] Düşman 'MotorluCapulcu-ID169' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:53:31] Kule 'CiviAgAtar-ID001', 'GozcuUcagi-ID167' hedef aldı (öncelik: üss’e en yakın).
+[19:53:32] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:32] Kalan Can: 40/50.
+[19:53:32] 'GozcuUcagi-ID167' yavaşlatıldı (%50, 3 sn).
+[19:53:32] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:53:32] Kalan Can: 25/50.
+[19:53:32] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID164' hedef aldı (öncelik: üss’e en yakın).
+[19:53:32] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID166' hedef aldı (öncelik: üss’e en yakın).
+[19:53:32] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID164'.
+[19:53:32] — 'ZirhliKamyon-ID164' Net Hasar 12.
+[19:53:32] — 'ZirhliKamyon-ID165' Net Hasar 12.
+[19:53:32] — 'ZirhliKamyon-ID166' Net Hasar 10.
+[19:53:32] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %39 → Engellenen 8; Net Hasar 12.
+[19:53:32] Kalan Can: 12/75.
+[19:53:32] Kule 'AnahtarMakinesi-ID005', 'GozcuUcagi-ID167' hedef aldı (öncelik: üss’e en yakın).
+[19:53:32] Kule 'AnahtarMakinesi-ID006', 'GozcuUcagi-ID167' hedef aldı (öncelik: üss’e en yakın).
+[19:53:32] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %47 → Engellenen 5; Net Hasar 5.
+[19:53:32] Kalan Can: 55/75.
+[19:53:33] Düşman 'MotorluCapulcu-ID170' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:53:33] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:33] Kalan Can: 15/50.
+[19:53:33] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:33] Kalan Can: 5/50.
+[19:53:33] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID169' hedef aldı (öncelik: üss’e en yakın).
+[19:53:33] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:33] Kalan Can: 40/50.
+[19:53:33] Kule 'AnahtarMakinesi-ID006', 'GozcuUcagi-ID167' hedef aldı (öncelik: üss’e en yakın).
+[19:53:33] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID164' hedef aldı (öncelik: üss’e en yakın).
+[19:53:33] Kule 'CiviAgAtar-ID001', 'GozcuUcagi-ID167' hedef aldı (öncelik: üss’e en yakın).
+[19:53:34] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:34] Kalan Can: -5/50.
+[19:53:34] 'GozcuUcagi-ID167' öldü. Ödül +25. Toplam Para: 1055.
+[19:53:34] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %39 → Engellenen 4; Net Hasar 6.
+[19:53:34] Kalan Can: 6/75.
+[19:53:34] Düşman 'MotorluCapulcu-ID171' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:53:34] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID168' hedef aldı (öncelik: üss’e en yakın).
+[19:53:34] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID164' hedef aldı (öncelik: üss’e en yakın).
+[19:53:34] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %50 → Engellenen 5; Net Hasar 5.
+[19:53:34] Kalan Can: 70/75.
+[19:53:35] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %39 → Engellenen 4; Net Hasar 6.
+[19:53:35] Kalan Can: 0/75.
+[19:53:35] 'ZirhliKamyon-ID164' öldü. Ödül +35. Toplam Para: 1090.
+[19:53:35] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID166' hedef aldı (öncelik: üss’e en yakın).
+[19:53:35] Düşman 'GozcuUcagi-ID172' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:53:35] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID170' hedef aldı (öncelik: üss’e en yakın).
+[19:53:35] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID165' hedef aldı (öncelik: üss’e en yakın).
+[19:53:35] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID166'.
+[19:53:35] — 'ZirhliKamyon-ID165' Net Hasar 12.
+[19:53:35] — 'ZirhliKamyon-ID166' Net Hasar 10.
+[19:53:35] — 'MotorluCapulcu-ID169' Net Hasar 20.
+[19:53:35] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %47 → Engellenen 10; Net Hasar 10.
+[19:53:35] Kalan Can: 45/75.
+[19:53:35] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID165' hedef aldı (öncelik: üss’e en yakın).
+[19:53:36] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:36] Kalan Can: 40/50.
+[19:53:36] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %37 → Engellenen 4; Net Hasar 6.
+[19:53:36] Kalan Can: 9/75.
+[19:53:36] 'ZirhliKamyon-ID165' yavaşlatıldı (%50, 3 sn).
+[19:53:36] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %37 → Engellenen 6; Net Hasar 9.
+[19:53:36] Kalan Can: 0/75.
+[19:53:36] 'ZirhliKamyon-ID165' öldü. Ödül +35. Toplam Para: 1125.
+[19:53:36] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID171' hedef aldı (öncelik: üss’e en yakın).
+[19:53:36] Düşman 'MotorluCapulcu-ID173' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:53:36] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID169' hedef aldı (öncelik: üss’e en yakın).
+[19:53:36] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:36] Kalan Can: 40/50.
+[19:53:37] Kule 'AnahtarMakinesi-ID006', 'MotorluCapulcu-ID169' hedef aldı (öncelik: üss’e en yakın).
+[19:53:37] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:37] Kalan Can: 10/50.
+[19:53:37] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:37] Kalan Can: 0/50.
+[19:53:37] 'MotorluCapulcu-ID169' öldü. Ödül +15. Toplam Para: 1140.
+[19:53:37] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID173' hedef aldı (öncelik: üss’e en yakın).
+[19:53:37] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID166' hedef aldı (öncelik: üss’e en yakın).
+[19:53:37] Düşman 'MotorluCapulcu-ID174' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:53:37] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID166' hedef aldı (öncelik: üss’e en yakın).
+[19:53:38] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID166' hedef aldı (öncelik: üss’e en yakın).
+[19:53:38] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:38] Kalan Can: 40/50.
+[19:53:38] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %47 → Engellenen 5; Net Hasar 5.
+[19:53:38] Kalan Can: 40/75.
+[19:53:38] 'ZirhliKamyon-ID166' yavaşlatıldı (%50, 3 sn).
+[19:53:38] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %47 → Engellenen 8; Net Hasar 7.
+[19:53:38] Kalan Can: 33/75.
+[19:53:38] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID171' hedef aldı (öncelik: üss’e en yakın).
+[19:53:38] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %47 → Engellenen 5; Net Hasar 5.
+[19:53:38] Kalan Can: 28/75.
+[19:53:38] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID173' hedef aldı (öncelik: üss’e en yakın).
+[19:53:38] Kule 'AnahtarMakinesi-ID005', 'GozcuUcagi-ID172' hedef aldı (öncelik: üss’e en yakın).
+[19:53:38] Kule 'YagSizdirici-ID004', 'MotorluCapulcu-ID170' hedef aldı (öncelik: üss’e en yakın).
+[19:53:39] Düşman 'ZirhliKamyon-ID175' (Can: 75/75, Zırh: 56) haritaya girdi.
+[19:53:39] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID166' hedef aldı (öncelik: üss’e en yakın).
+[19:53:39] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:39] Kalan Can: 30/50.
+[19:53:39] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID170'.
+[19:53:39] — 'ZirhliKamyon-ID166' Net Hasar 10.
+[19:53:39] — 'MotorluCapulcu-ID170' Net Hasar 20.
+[19:53:39] — 'MotorluCapulcu-ID171' Net Hasar 20.
+[19:53:39] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:53:39] Kalan Can: 20/50.
+[19:53:39] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID171'.
+[19:53:39] — 'ZirhliKamyon-ID166' Net Hasar 10.
+[19:53:39] — 'ZirhliKamyon-ID168' Net Hasar 10.
+[19:53:39] — 'MotorluCapulcu-ID170' Net Hasar 20.
+[19:53:39] — 'MotorluCapulcu-ID171' Net Hasar 20.
+[19:53:39] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:53:39] Kalan Can: 0/50.
+[19:53:39] 'MotorluCapulcu-ID171' öldü. Ödül +15. Toplam Para: 1155.
+[19:53:39] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %47 → Engellenen 5; Net Hasar 5.
+[19:53:39] Kalan Can: 3/75.
+[19:53:39] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:39] Kalan Can: 40/50.
+[19:53:39] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID174' hedef aldı (öncelik: üss’e en yakın).
+[19:53:39] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID168' hedef aldı (öncelik: üss’e en yakın).
+[19:53:39] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID166' hedef aldı (öncelik: üss’e en yakın).
+[19:53:40] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID166' hedef aldı (öncelik: üss’e en yakın).
+[19:53:40] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %50 → Engellenen 5; Net Hasar 5.
+[19:53:40] Kalan Can: 55/75.
+[19:53:40] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:40] Kalan Can: 40/50.
+[19:53:40] 'ZirhliKamyon-ID166' yavaşlatıldı (%50, 3 sn).
+[19:53:40] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %47 → Engellenen 8; Net Hasar 7.
+[19:53:40] Kalan Can: -4/75.
+[19:53:40] 'ZirhliKamyon-ID166' öldü. Ödül +35. Toplam Para: 1190.
+[19:53:40] Düşman 'MotorluCapulcu-ID176' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:53:40] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID168' hedef aldı (öncelik: üss’e en yakın).
+[19:53:41] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID168' hedef aldı (öncelik: üss’e en yakın).
+[19:53:41] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID175' hedef aldı (öncelik: üss’e en yakın).
+[19:53:41] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %50 → Engellenen 5; Net Hasar 5.
+[19:53:41] Kalan Can: 50/75.
+[19:53:41] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %50 → Engellenen 5; Net Hasar 5.
+[19:53:41] Kalan Can: 45/75.
+[19:53:41] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID174' hedef aldı (öncelik: üss’e en yakın).
+[19:53:41] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %35 → Engellenen 4; Net Hasar 6.
+[19:53:41] Kalan Can: 69/75.
+[19:53:41] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID173' hedef aldı (öncelik: üss’e en yakın).
+[19:53:41] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID174'.
+[19:53:41] — 'MotorluCapulcu-ID174' Net Hasar 20.
+[19:53:41] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:53:41] Kalan Can: 20/50.
+[19:53:41] Kule 'YagSizdirici-ID004', 'MotorluCapulcu-ID170' hedef aldı (öncelik: üss’e en yakın).
+[19:53:41] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID168' hedef aldı (öncelik: üss’e en yakın).
+[19:53:42] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID168' hedef aldı (öncelik: üss’e en yakın).
+[19:53:42] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID176' hedef aldı (öncelik: üss’e en yakın).
+[19:53:42] 'ZirhliKamyon-ID168' yavaşlatıldı (%50, 3 sn).
+[19:53:42] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %50 → Engellenen 8; Net Hasar 7.
+[19:53:42] Kalan Can: 38/75.
+[19:53:42] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:42] Kalan Can: 20/50.
+[19:53:42] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %50 → Engellenen 5; Net Hasar 5.
+[19:53:42] Kalan Can: 33/75.
+[19:53:42] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:42] Kalan Can: 40/50.
+[19:53:42] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID174' hedef aldı (öncelik: üss’e en yakın).
+[19:53:43] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID168' hedef aldı (öncelik: üss’e en yakın).
+[19:53:43] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:43] Kalan Can: 10/50.
+[19:53:43] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID175' hedef aldı (öncelik: üss’e en yakın).
+[19:53:43] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %50 → Engellenen 5; Net Hasar 5.
+[19:53:43] Kalan Can: 28/75.
+[19:53:43] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %35 → Engellenen 4; Net Hasar 6.
+[19:53:43] Kalan Can: 63/75.
+[19:53:43] 'GozcuUcagi-ID172' üsse ulaştı. Oyuncu Canı: 25 (-5)
+[19:53:43] Kule 'YagSizdirici-ID007', 'MotorluCapulcu-ID170' hedef aldı (öncelik: üss’e en yakın).
+[19:53:43] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID174' hedef aldı (öncelik: üss’e en yakın).
+[19:53:44] Kule 'AnahtarMakinesi-ID006', 'MotorluCapulcu-ID174' hedef aldı (öncelik: üss’e en yakın).
+[19:53:44] 'MotorluCapulcu-ID174' yavaşlatıldı (%50, 3 sn).
+[19:53:44] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:53:44] Kalan Can: -5/50.
+[19:53:44] 'MotorluCapulcu-ID174' öldü. Ödül +15. Toplam Para: 1205.
+[19:53:44] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID176' hedef aldı (öncelik: üss’e en yakın).
+[19:53:44] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID176' hedef aldı (öncelik: üss’e en yakın).
+[19:53:44] Kule 'YagSizdirici-ID004', 'MotorluCapulcu-ID173' hedef aldı (öncelik: üss’e en yakın).
+[19:53:44] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID176'.
+[19:53:44] — 'MotorluCapulcu-ID176' Net Hasar 20.
+[19:53:44] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:53:44] Kalan Can: 20/50.
+[19:53:45] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:45] Kalan Can: 10/50.
+[19:53:45] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID168' hedef aldı (öncelik: üss’e en yakın).
+[19:53:45] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID173'.
+[19:53:45] — 'MotorluCapulcu-ID173' Net Hasar 20.
+[19:53:45] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:53:45] Kalan Can: 0/50.
+[19:53:45] 'MotorluCapulcu-ID173' öldü. Ödül +15. Toplam Para: 1220.
+[19:53:45] 'MotorluCapulcu-ID170' üsse ulaştı. Oyuncu Canı: 20 (-5)
+[19:53:45] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %50 → Engellenen 5; Net Hasar 5.
+[19:53:45] Kalan Can: 23/75.
+[19:53:45] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID176' hedef aldı (öncelik: üss’e en yakın).
+[19:53:45] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID176' hedef aldı (öncelik: üss’e en yakın).
+[19:53:46] Kule 'AnahtarMakinesi-ID006', 'MotorluCapulcu-ID176' hedef aldı (öncelik: üss’e en yakın).
+[19:53:46] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:46] Kalan Can: 0/50.
+[19:53:46] 'MotorluCapulcu-ID176' öldü. Ödül +15. Toplam Para: 1235.
+[19:53:47] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID175' hedef aldı (öncelik: üss’e en yakın).
+[19:53:47] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID175' hedef aldı (öncelik: üss’e en yakın).
+[19:53:47] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %35 → Engellenen 4; Net Hasar 6.
+[19:53:47] Kalan Can: 57/75.
+[19:53:47] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID168' hedef aldı (öncelik: üss’e en yakın).
+[19:53:47] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID175' hedef aldı (öncelik: üss’e en yakın).
+[19:53:48] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID175'.
+[19:53:48] — 'ZirhliKamyon-ID175' Net Hasar 12.
+[19:53:48] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %35 → Engellenen 8; Net Hasar 12.
+[19:53:48] Kalan Can: 45/75.
+[19:53:48] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID175' hedef aldı (öncelik: üss’e en yakın).
+[19:53:48] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID168'.
+[19:53:48] — 'ZirhliKamyon-ID168' Net Hasar 10.
+[19:53:48] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %50 → Engellenen 10; Net Hasar 10.
+[19:53:48] Kalan Can: 13/75.
+[19:53:48] 'ZirhliKamyon-ID175' yavaşlatıldı (%50, 3 sn).
+[19:53:48] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %35 → Engellenen 6; Net Hasar 9.
+[19:53:48] Kalan Can: 36/75.
+[19:53:48] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %35 → Engellenen 4; Net Hasar 6.
+[19:53:48] Kalan Can: 30/75.
+[19:53:49] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID175' hedef aldı (öncelik: üss’e en yakın).
+[19:53:49] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID168' hedef aldı (öncelik: üss’e en yakın).
+[19:53:49] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %35 → Engellenen 4; Net Hasar 6.
+[19:53:49] Kalan Can: 24/75.
+[19:53:49] Kule 'YagSizdirici-ID007' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID168'.
+[19:53:49] — 'ZirhliKamyon-ID168' Net Hasar 10.
+[19:53:49] YagSizdirici-ID007 atışı: Taban 20 → Zırhlı Engelleme %50 → Engellenen 10; Net Hasar 10.
+[19:53:49] Kalan Can: 3/75.
+[19:53:49] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID175' hedef aldı (öncelik: üss’e en yakın).
+[19:53:50] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID175' hedef aldı (öncelik: üss’e en yakın).
+[19:53:50] 'ZirhliKamyon-ID175' yavaşlatıldı (%50, 3 sn).
+[19:53:50] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %35 → Engellenen 6; Net Hasar 9.
+[19:53:50] Kalan Can: 15/75.
+[19:53:50] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %35 → Engellenen 4; Net Hasar 6.
+[19:53:50] Kalan Can: 9/75.
+[19:53:50] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID175' hedef aldı (öncelik: üss’e en yakın).
+[19:53:51] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID175' hedef aldı (öncelik: üss’e en yakın).
+[19:53:51] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %35 → Engellenen 4; Net Hasar 6.
+[19:53:51] Kalan Can: 3/75.
+[19:53:51] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %35 → Engellenen 4; Net Hasar 6.
+[19:53:51] Kalan Can: -3/75.
+[19:53:51] 'ZirhliKamyon-ID175' öldü. Ödül +35. Toplam Para: 1270.
+[19:53:52] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID168' hedef aldı (öncelik: üss’e en yakın).
+[19:53:52] Kule 'YagSizdirici-ID007' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID168'.
+[19:53:52] — 'ZirhliKamyon-ID168' Net Hasar 10.
+[19:53:52] YagSizdirici-ID007 atışı: Taban 20 → Zırhlı Engelleme %50 → Engellenen 10; Net Hasar 10.
+[19:53:52] Kalan Can: -7/75.
+[19:53:52] 'ZirhliKamyon-ID168' öldü. Ödül +35. Toplam Para: 1305.
+[19:53:52] Dalga 11 Bitti.
+[19:53:54] Dalga 12 Başladı. (Tip: Dalga 12, Sayı: 0)
+[19:53:54] Düşman 'MotorluCapulcu-ID177' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:53:55] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID177' hedef aldı (öncelik: üss’e en yakın).
+[19:53:55] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID177' hedef aldı (öncelik: üss’e en yakın).
+[19:53:56] Düşman 'ZirhliKamyon-ID178' (Can: 75/75, Zırh: 79) haritaya girdi.
+[19:53:56] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:56] Kalan Can: 40/50.
+[19:53:56] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID177'.
+[19:53:56] — 'MotorluCapulcu-ID177' Net Hasar 20.
+[19:53:56] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:53:56] Kalan Can: 20/50.
+[19:53:56] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID177' hedef aldı (öncelik: üss’e en yakın).
+[19:53:57] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:53:57] Kalan Can: 10/50.
+[19:53:57] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID177' hedef aldı (öncelik: üss’e en yakın).
+[19:53:57] Düşman 'MotorluCapulcu-ID179' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:53:58] 'MotorluCapulcu-ID177' yavaşlatıldı (%50, 3 sn).
+[19:53:58] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:53:58] Kalan Can: -5/50.
+[19:53:58] 'MotorluCapulcu-ID177' öldü. Ödül +15. Toplam Para: 1320.
+[19:53:58] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID178' hedef aldı (öncelik: üss’e en yakın).
+[19:53:58] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID178' hedef aldı (öncelik: üss’e en yakın).
+[19:53:58] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:53:58] Kalan Can: 70/75.
+[19:53:58] Düşman 'MotorluCapulcu-ID180' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:53:59] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID178'.
+[19:53:59] — 'ZirhliKamyon-ID178' Net Hasar 11.
+[19:53:59] — 'MotorluCapulcu-ID179' Net Hasar 20.
+[19:53:59] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %44 → Engellenen 9; Net Hasar 11.
+[19:53:59] Kalan Can: 59/75.
+[19:53:59] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID178' hedef aldı (öncelik: üss’e en yakın).
+[19:53:59] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:53:59] Kalan Can: 54/75.
+[19:54:00] Düşman 'ZirhliKamyon-ID181' (Can: 75/75, Zırh: 81) haritaya girdi.
+[19:54:00] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID179' hedef aldı (öncelik: üss’e en yakın).
+[19:54:00] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:54:00] Kalan Can: 20/50.
+[19:54:01] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID179' hedef aldı (öncelik: üss’e en yakın).
+[19:54:01] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:54:01] Kalan Can: 10/50.
+[19:54:01] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID179' hedef aldı (öncelik: üss’e en yakın).
+[19:54:02] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID179'.
+[19:54:02] — 'ZirhliKamyon-ID178' Net Hasar 11.
+[19:54:02] — 'MotorluCapulcu-ID179' Net Hasar 20.
+[19:54:02] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:54:02] Kalan Can: -10/50.
+[19:54:02] 'MotorluCapulcu-ID179' öldü. Ödül +15. Toplam Para: 1335.
+[19:54:02] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID178' hedef aldı (öncelik: üss’e en yakın).
+[19:54:02] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:54:02] Kalan Can: 38/75.
+[19:54:03] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID178' hedef aldı (öncelik: üss’e en yakın).
+[19:54:03] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:54:03] Kalan Can: 33/75.
+[19:54:04] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID178' hedef aldı (öncelik: üss’e en yakın).
+[19:54:04] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:54:04] Kalan Can: 28/75.
+[19:54:04] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID178' hedef aldı (öncelik: üss’e en yakın).
+[19:54:05] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID178'.
+[19:54:05] — 'ZirhliKamyon-ID178' Net Hasar 11.
+[19:54:05] — 'MotorluCapulcu-ID180' Net Hasar 20.
+[19:54:05] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %44 → Engellenen 9; Net Hasar 11.
+[19:54:05] Kalan Can: 17/75.
+[19:54:05] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID178' hedef aldı (öncelik: üss’e en yakın).
+[19:54:05] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:54:05] Kalan Can: 12/75.
+[19:54:06] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID178' hedef aldı (öncelik: üss’e en yakın).
+[19:54:06] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:54:06] Kalan Can: 7/75.
+[19:54:07] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID178' hedef aldı (öncelik: üss’e en yakın).
+[19:54:07] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID178' hedef aldı (öncelik: üss’e en yakın).
+[19:54:07] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:54:07] Kalan Can: 2/75.
+[19:54:07] Düşman 'MotorluCapulcu-ID182' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:54:08] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID178'.
+[19:54:08] — 'ZirhliKamyon-ID178' Net Hasar 11.
+[19:54:08] — 'MotorluCapulcu-ID180' Net Hasar 20.
+[19:54:08] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %44 → Engellenen 9; Net Hasar 11.
+[19:54:08] Kalan Can: -9/75.
+[19:54:08] 'ZirhliKamyon-ID178' öldü. Ödül +35. Toplam Para: 1370.
+[19:54:08] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID180' hedef aldı (öncelik: üss’e en yakın).
+[19:54:08] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID181' hedef aldı (öncelik: üss’e en yakın).
+[19:54:09] 'MotorluCapulcu-ID180' yavaşlatıldı (%50, 3 sn).
+[19:54:09] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:54:09] Kalan Can: -5/50.
+[19:54:09] 'MotorluCapulcu-ID180' öldü. Ödül +15. Toplam Para: 1385.
+[19:54:09] Düşman 'ZirhliKamyon-ID183' (Can: 75/75, Zırh: 57) haritaya girdi.
+[19:54:09] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:54:09] Kalan Can: 70/75.
+[19:54:09] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID181' hedef aldı (öncelik: üss’e en yakın).
+[19:54:10] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:54:10] Kalan Can: 65/75.
+[19:54:10] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID182' hedef aldı (öncelik: üss’e en yakın).
+[19:54:10] Kule 'AnahtarMakinesi-ID002', 'MotorluCapulcu-ID182' hedef aldı (öncelik: üss’e en yakın).
+[19:54:11] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID182'.
+[19:54:11] — 'ZirhliKamyon-ID181' Net Hasar 11.
+[19:54:11] — 'MotorluCapulcu-ID182' Net Hasar 20.
+[19:54:11] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:54:11] Kalan Can: 30/50.
+[19:54:11] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:54:11] Kalan Can: 20/50.
+[19:54:11] Düşman 'GozcuUcagi-ID184' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:54:11] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID181' hedef aldı (öncelik: üss’e en yakın).
+[19:54:12] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:54:12] Kalan Can: 49/75.
+[19:54:12] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID182' hedef aldı (öncelik: üss’e en yakın).
+[19:54:12] 'MotorluCapulcu-ID182' yavaşlatıldı (%50, 3 sn).
+[19:54:12] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:54:12] Kalan Can: 5/50.
+[19:54:12] Düşman 'MotorluCapulcu-ID185' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:54:12] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID181' hedef aldı (öncelik: üss’e en yakın).
+[19:54:13] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %44 → Engellenen 5; Net Hasar 5.
+[19:54:13] Kalan Can: 44/75.
+[19:54:13] Kule 'YagSizdirici-ID003', 'MotorluCapulcu-ID182' hedef aldı (öncelik: üss’e en yakın).
+[19:54:13] Kule 'AnahtarMakinesi-ID002', 'GozcuUcagi-ID184' hedef aldı (öncelik: üss’e en yakın).
+[19:54:13] Düşman 'ZirhliKamyon-ID186' (Can: 75/75, Zırh: 68) haritaya girdi.
+[19:54:14] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'MotorluCapulcu-ID182'.
+[19:54:14] — 'ZirhliKamyon-ID181' Net Hasar 11.
+[19:54:14] — 'MotorluCapulcu-ID182' Net Hasar 20.
+[19:54:14] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 20.
+[19:54:14] Kalan Can: -15/50.
+[19:54:14] 'MotorluCapulcu-ID182' öldü. Ödül +15. Toplam Para: 1400.
+[19:54:14] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID181' hedef aldı (öncelik: üss’e en yakın).
+[19:54:14] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:54:14] Kalan Can: 40/50.
+[19:54:14] 'ZirhliKamyon-ID181' yavaşlatıldı (%50, 3 sn).
+[19:54:14] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %44 → Engellenen 7; Net Hasar 8.
+[19:54:14] Kalan Can: 25/75.
+[19:54:14] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID183' hedef aldı (öncelik: üss’e en yakın).
+[19:54:15] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:54:15] Kalan Can: 69/75.
+[19:54:15] Kule 'AnahtarMakinesi-ID005', 'GozcuUcagi-ID184' hedef aldı (öncelik: üss’e en yakın).
+[19:54:15] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID183' hedef aldı (öncelik: üss’e en yakın).
+[19:54:16] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:54:16] Kalan Can: 30/50.
+[19:54:16] Kule 'CiviAgAtar-ID001', 'GozcuUcagi-ID184' hedef aldı (öncelik: üss’e en yakın).
+[19:54:16] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:54:16] Kalan Can: 63/75.
+[19:54:16] Düşman 'ZirhliKamyon-ID187' (Can: 75/75, Zırh: 93) haritaya girdi.
+[19:54:16] 'GozcuUcagi-ID184' yavaşlatıldı (%50, 3 sn).
+[19:54:16] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:54:16] Kalan Can: 15/50.
+[19:54:16] Kule 'AnahtarMakinesi-ID005', 'GozcuUcagi-ID184' hedef aldı (öncelik: üss’e en yakın).
+[19:54:16] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID181' hedef aldı (öncelik: üss’e en yakın).
+[19:54:16] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID183' hedef aldı (öncelik: üss’e en yakın).
+[19:54:16] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:54:16] Kalan Can: 5/50.
+[19:54:17] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID181'.
+[19:54:17] — 'ZirhliKamyon-ID181' Net Hasar 11.
+[19:54:17] — 'ZirhliKamyon-ID183' Net Hasar 12.
+[19:54:17] — 'MotorluCapulcu-ID185' Net Hasar 20.
+[19:54:17] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %44 → Engellenen 9; Net Hasar 11.
+[19:54:17] Kalan Can: 14/75.
+[19:54:17] Kule 'AnahtarMakinesi-ID006', 'GozcuUcagi-ID184' hedef aldı (öncelik: üss’e en yakın).
+[19:54:17] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:54:17] Kalan Can: 45/75.
+[19:54:17] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:54:17] Kalan Can: -5/50.
+[19:54:17] 'GozcuUcagi-ID184' öldü. Ödül +25. Toplam Para: 1425.
+[19:54:17] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:18] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID181' hedef aldı (öncelik: üss’e en yakın).
+[19:54:18] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:54:18] Kalan Can: 70/75.
+[19:54:18] 'ZirhliKamyon-ID181' yavaşlatıldı (%50, 3 sn).
+[19:54:18] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %44 → Engellenen 7; Net Hasar 8.
+[19:54:18] Kalan Can: 6/75.
+[19:54:18] Düşman 'GozcuUcagi-ID188' (Can: 50/50, Zırh: 0) haritaya girdi.
+[19:54:18] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID185' hedef aldı (öncelik: üss’e en yakın).
+[19:54:18] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:19] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:54:19] Kalan Can: 65/75.
+[19:54:19] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:54:19] Kalan Can: 20/50.
+[19:54:19] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID181' hedef aldı (öncelik: üss’e en yakın).
+[19:54:19] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID185' hedef aldı (öncelik: üss’e en yakın).
+[19:54:19] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:19] Düşman 'ZirhliKamyon-ID189' (Can: 75/75, Zırh: 53) haritaya girdi.
+[19:54:20] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:54:20] Kalan Can: 10/50.
+[19:54:20] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:54:20] Kalan Can: 60/75.
+[19:54:20] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID185' hedef aldı (öncelik: üss’e en yakın).
+[19:54:20] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID181'.
+[19:54:20] — 'ZirhliKamyon-ID181' Net Hasar 11.
+[19:54:20] — 'ZirhliKamyon-ID183' Net Hasar 12.
+[19:54:20] — 'MotorluCapulcu-ID185' Net Hasar 20.
+[19:54:20] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %44 → Engellenen 9; Net Hasar 11.
+[19:54:20] Kalan Can: -5/75.
+[19:54:20] 'ZirhliKamyon-ID181' öldü. Ödül +35. Toplam Para: 1460.
+[19:54:20] Kule 'AnahtarMakinesi-ID006', 'MotorluCapulcu-ID185' hedef aldı (öncelik: üss’e en yakın).
+[19:54:20] Kule 'AnahtarMakinesi-ID005', 'MotorluCapulcu-ID185' hedef aldı (öncelik: üss’e en yakın).
+[19:54:20] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:21] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:54:21] Kalan Can: 55/75.
+[19:54:21] Kule 'YagSizdirici-ID004', 'MotorluCapulcu-ID185' hedef aldı (öncelik: üss’e en yakın).
+[19:54:21] Kule 'AnahtarMakinesi-ID006', 'MotorluCapulcu-ID185' hedef aldı (öncelik: üss’e en yakın).
+[19:54:21] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID183' hedef aldı (öncelik: üss’e en yakın).
+[19:54:21] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID187' hedef aldı (öncelik: üss’e en yakın).
+[19:54:22] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:54:22] Kalan Can: 27/75.
+[19:54:22] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:54:22] Kalan Can: 70/75.
+[19:54:22] Kule 'CiviAgAtar-ID001', 'MotorluCapulcu-ID185' hedef aldı (öncelik: üss’e en yakın).
+[19:54:22] Kule 'AnahtarMakinesi-ID006', 'MotorluCapulcu-ID185' hedef aldı (öncelik: üss’e en yakın).
+[19:54:22] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID183' hedef aldı (öncelik: üss’e en yakın).
+[19:54:22] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID187' hedef aldı (öncelik: üss’e en yakın).
+[19:54:23] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:54:23] Kalan Can: 21/75.
+[19:54:23] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:54:23] Kalan Can: 65/75.
+[19:54:23] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:23] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID186'.
+[19:54:23] — 'ZirhliKamyon-ID186' Net Hasar 11.
+[19:54:23] — 'ZirhliKamyon-ID187' Net Hasar 10.
+[19:54:23] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %40 → Engellenen 9; Net Hasar 11.
+[19:54:23] Kalan Can: 44/75.
+[19:54:23] Kule 'AnahtarMakinesi-ID005', 'GozcuUcagi-ID188' hedef aldı (öncelik: üss’e en yakın).
+[19:54:23] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID187' hedef aldı (öncelik: üss’e en yakın).
+[19:54:24] Kule 'AnahtarMakinesi-ID006', 'GozcuUcagi-ID188' hedef aldı (öncelik: üss’e en yakın).
+[19:54:24] Kule 'CiviAgAtar-ID001', 'GozcuUcagi-ID188' hedef aldı (öncelik: üss’e en yakın).
+[19:54:24] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:54:24] Kalan Can: 40/50.
+[19:54:24] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:54:24] Kalan Can: 30/50.
+[19:54:24] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:54:24] Kalan Can: 50/75.
+[19:54:24] Kule 'YagSizdirici-ID004', 'MotorluCapulcu-ID185' hedef aldı (öncelik: üss’e en yakın).
+[19:54:24] 'GozcuUcagi-ID188' yavaşlatıldı (%50, 3 sn).
+[19:54:24] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 15.
+[19:54:24] Kalan Can: 15/50.
+[19:54:24] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID183' hedef aldı (öncelik: üss’e en yakın).
+[19:54:24] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:25] Kule 'AnahtarMakinesi-ID006', 'GozcuUcagi-ID188' hedef aldı (öncelik: üss’e en yakın).
+[19:54:25] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %34 → Engellenen 4; Net Hasar 6.
+[19:54:25] Kalan Can: 69/75.
+[19:54:25] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:54:25] Kalan Can: 15/75.
+[19:54:25] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %0 → Engellenen 0; Net Hasar 10.
+[19:54:25] Kalan Can: 5/50.
+[19:54:25] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:26] Kule 'YagSizdirici-ID007', 'MotorluCapulcu-ID185' hedef aldı (öncelik: üss’e en yakın).
+[19:54:26] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID183' hedef aldı (öncelik: üss’e en yakın).
+[19:54:26] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:26] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %34 → Engellenen 4; Net Hasar 6.
+[19:54:26] Kalan Can: 63/75.
+[19:54:26] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID183' hedef aldı (öncelik: üss’e en yakın).
+[19:54:26] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:26] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %36 → Engellenen 4; Net Hasar 6.
+[19:54:26] Kalan Can: 9/75.
+[19:54:26] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:54:26] Kalan Can: 39/75.
+[19:54:26] 'ZirhliKamyon-ID183' yavaşlatıldı (%50, 3 sn).
+[19:54:26] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %36 → Engellenen 6; Net Hasar 9.
+[19:54:26] Kalan Can: 0/75.
+[19:54:26] 'ZirhliKamyon-ID183' öldü. Ödül +35. Toplam Para: 1495.
+[19:54:26] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID186'.
+[19:54:26] — 'ZirhliKamyon-ID186' Net Hasar 11.
+[19:54:26] — 'ZirhliKamyon-ID187' Net Hasar 10.
+[19:54:26] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %40 → Engellenen 9; Net Hasar 11.
+[19:54:26] Kalan Can: 28/75.
+[19:54:26] Kule 'AnahtarMakinesi-ID002', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:27] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:27] AnahtarMakinesi-ID002 atışı: Taban 10 → Zırhlı Engelleme %34 → Engellenen 4; Net Hasar 6.
+[19:54:27] Kalan Can: 57/75.
+[19:54:27] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:54:27] Kalan Can: 23/75.
+[19:54:28] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:28] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:28] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:54:28] Kalan Can: 18/75.
+[19:54:28] 'ZirhliKamyon-ID186' yavaşlatıldı (%50, 3 sn).
+[19:54:28] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %40 → Engellenen 7; Net Hasar 8.
+[19:54:28] Kalan Can: 10/75.
+[19:54:29] Kule 'YagSizdirici-ID007', 'MotorluCapulcu-ID185' hedef aldı (öncelik: üss’e en yakın).
+[19:54:29] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:29] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID187' hedef aldı (öncelik: üss’e en yakın).
+[19:54:29] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %40 → Engellenen 5; Net Hasar 5.
+[19:54:29] Kalan Can: 5/75.
+[19:54:29] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID187'.
+[19:54:29] — 'ZirhliKamyon-ID186' Net Hasar 11.
+[19:54:29] — 'ZirhliKamyon-ID187' Net Hasar 10.
+[19:54:29] — 'ZirhliKamyon-ID189' Net Hasar 13.
+[19:54:29] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %48 → Engellenen 10; Net Hasar 10.
+[19:54:29] Kalan Can: 30/75.
+[19:54:30] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:30] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:31] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:31] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:31] 'MotorluCapulcu-ID185' üsse ulaştı. Oyuncu Canı: 15 (-5)
+[19:54:32] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:32] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID187' hedef aldı (öncelik: üss’e en yakın).
+[19:54:32] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:32] Kule 'YagSizdirici-ID003', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:32] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:54:32] Kalan Can: 25/75.
+[19:54:32] 'GozcuUcagi-ID188' üsse ulaştı. Oyuncu Canı: 10 (-5)
+[19:54:32] Kule 'YagSizdirici-ID003' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID189'.
+[19:54:32] — 'ZirhliKamyon-ID189' Net Hasar 13.
+[19:54:32] YagSizdirici-ID003 atışı: Taban 20 → Zırhlı Engelleme %34 → Engellenen 7; Net Hasar 13.
+[19:54:32] Kalan Can: 31/75.
+[19:54:32] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:33] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:33] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:33] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %34 → Engellenen 4; Net Hasar 6.
+[19:54:33] Kalan Can: 25/75.
+[19:54:34] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID187' hedef aldı (öncelik: üss’e en yakın).
+[19:54:34] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:34] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID187' hedef aldı (öncelik: üss’e en yakın).
+[19:54:34] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:54:34] Kalan Can: 20/75.
+[19:54:34] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %34 → Engellenen 4; Net Hasar 6.
+[19:54:34] Kalan Can: 19/75.
+[19:54:34] 'ZirhliKamyon-ID187' yavaşlatıldı (%50, 3 sn).
+[19:54:34] CiviAgAtar-ID001 atışı: Taban 15 → Zırhlı Engelleme %48 → Engellenen 8; Net Hasar 7.
+[19:54:34] Kalan Can: 13/75.
+[19:54:35] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID187' hedef aldı (öncelik: üss’e en yakın).
+[19:54:35] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:35] AnahtarMakinesi-ID006 atışı: Taban 10 → Zırhlı Engelleme %48 → Engellenen 5; Net Hasar 5.
+[19:54:35] Kalan Can: 8/75.
+[19:54:35] AnahtarMakinesi-ID005 atışı: Taban 10 → Zırhlı Engelleme %34 → Engellenen 4; Net Hasar 6.
+[19:54:35] Kalan Can: 13/75.
+[19:54:35] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID187' hedef aldı (öncelik: üss’e en yakın).
+[19:54:36] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID187' hedef aldı (öncelik: üss’e en yakın).
+[19:54:36] Kule 'AnahtarMakinesi-ID005', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:36] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID187' hedef aldı (öncelik: üss’e en yakın).
+[19:54:36] Kule 'YagSizdirici-ID004' alan vuruşu yaptı: merkez hedef 'ZirhliKamyon-ID187'.
+[19:54:36] — 'ZirhliKamyon-ID186' Net Hasar 11.
+[19:54:36] — 'ZirhliKamyon-ID187' Net Hasar 10.
+[19:54:36] — 'ZirhliKamyon-ID189' Net Hasar 13.
+[19:54:36] YagSizdirici-ID004 atışı: Taban 20 → Zırhlı Engelleme %48 → Engellenen 10; Net Hasar 10.
+[19:54:36] Kalan Can: -2/75.
+[19:54:36] 'ZirhliKamyon-ID187' öldü. Ödül +35. Toplam Para: 1530.
+[19:54:37] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:38] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:38] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:38] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:39] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:40] Kule 'AnahtarMakinesi-ID006', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:40] Kule 'CiviAgAtar-ID001', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:41] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:41] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:44] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:44] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:47] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:47] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:50] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:50] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:53] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:53] Kule 'YagSizdirici-ID004', 'ZirhliKamyon-ID189' hedef aldı (öncelik: üss’e en yakın).
+[19:54:56] Kule 'YagSizdirici-ID007', 'ZirhliKamyon-ID186' hedef aldı (öncelik: üss’e en yakın).
+[19:54:57] 'ZirhliKamyon-ID186' üsse ulaştı. Oyuncu Canı: 0 (-10)

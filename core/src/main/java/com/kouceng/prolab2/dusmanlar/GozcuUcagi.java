@@ -6,7 +6,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 public class GozcuUcagi extends dusman {
 
     public GozcuUcagi() {
-        super(50, 75, 0, 15, true, 5);
+        super(50, 75, 0, 25, true, 5);
 
 
 
