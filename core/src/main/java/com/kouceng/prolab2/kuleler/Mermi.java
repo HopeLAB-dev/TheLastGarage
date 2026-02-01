@@ -55,12 +55,16 @@ public class Mermi {
         float tx = target.getX() + 15;
         float ty = target.getY() + 15;
 
-        Vector2 dir = new Vector2(tx - position.x, ty - position.y).nor();
-        position.mulAdd(dir, speed * delta);
+        float dist = position.dst(tx, ty);
+        float step = speed * delta;
 
-        if (position.dst(tx, ty) < 12) {
+        if (dist <= step || dist < 20) {
             hit = true;
             active = false;
+            position.set(tx, ty);
+        } else {
+            Vector2 dir = new Vector2(tx - position.x, ty - position.y).nor();
+            position.mulAdd(dir, step);
         }
     }
 

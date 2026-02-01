@@ -1,17 +1,78 @@
 # The Last Garage 🛡️🚛
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Java](https://img.shields.io/badge/Java-11%2B-orange.svg)
-![LibGDX](https://img.shields.io/badge/LibGDX-1.12.1-red.svg)
-![Status](https://img.shields.io/badge/Status-Completed-green.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Linux%20|%20MacOS-lightgrey.svg)
+![Status](https://img.shields.io/badge/Status-Playable-brightgreen.svg)
 
-> **"Protect the last haven of humanity, one gear at a time."**
-
-**The Last Garage** is a strategic Tower Defense game developed as part of the Programming Laboratory II course at Kocaeli University. The players must defend their garage—the last bastion of hope—against waves of relentless mechanical enemies using innovative defensive structures.
+[**English Documentation**](#-english-documentation) | [**Türkçe Dokümantasyon**](#-türkçe-dokümantasyon)
 
 ---
 
-## 👥 Developers
+## 🇬🇧 English Documentation
+
+> **"Protect the last haven of humanity. Tighten the bolts, start the engines, and begin the defense!"**
+
+**The Last Garage** is a strategic Tower Defense game set in a post-apocalyptic world. Players must use limited scrap resources to build defensive towers and protect the garage against relentless mechanical enemies.
+
+### 🚀 Download & Play (No Installation Required)
+
+Our game comes with a **Bundled JRE**, meaning you can play it even if you don't have Java installed on your computer!
+
+👉 **[⬇️ Download Latest Version (GitHub Releases)](https://github.com/emirberasoguk/The-Last-Garage/releases)**
+
+#### 🎮 How to Run?
+*   **Windows:** Extract `TheLastGarage-Windows.zip` and run **`Prolab2.exe`**.
+*   **Linux:** Extract `TheLastGarage-Linux.zip` and run **`Prolab2`**. (Use `chmod +x Prolab2` if needed).
+*   **MacOS:** Extract `TheLastGarage-MacOS.zip` and run **`Prolab2.app`**.
+
+### ✨ Key Features
+* **Nail Launcher:** High damage and slows down enemies.
+* **Wrench Thrower:** Balanced fire rate and range.
+* **Oil Spiller:** Deals Area of Effect (AoE) damage to ground units.
+* **Diverse Enemies:** Scouts (Flying), Raiders (Ground), and Heavy Armored Trucks.
+
+---
+
+## 🇹🇷 Türkçe Dokümantasyon
+
+> **"İnsanlığın son sığınağını koru. Vidaları sık, motorları çalıştır ve savunmaya başla!"**
+
+**The Last Garage**, kıyamet sonrası bir dünyada geçen, stratejik derinliğe sahip bir Kule Savunma (Tower Defense) oyunudur. Oyuncular, ellerindeki sınırlı hurda kaynaklarını kullanarak savunma kuleleri inşa etmeli ve garajı acımasız mekanik düşmanlara karşı korumalıdır.
+
+### 🚀 İndir ve Oyna (Kurulumsuz)
+
+Oyunumuz **kendi içinde Java motoruyla (Bundled JRE)** birlikte gelir. Yani bilgisayarınızda Java yüklü olmasa bile indirip hemen oynayabilirsiniz!
+
+👉 **[⬇️ Son Sürümü İndir (GitHub Releases)](https://github.com/emirberasoguk/The-Last-Garage/releases)**
+
+#### 🎮 Nasıl Çalıştırılır?
+*   **Windows:** `TheLastGarage-Windows.zip` dosyasını çıkartın ve **`Prolab2.exe`** dosyasını çalıştırın.
+*   **Linux:** `TheLastGarage-Linux.zip` dosyasını çıkartın ve **`Prolab2`** dosyasını çalıştırın.
+*   **MacOS:** `TheLastGarage-MacOS.zip` dosyasını çıkartın ve **`Prolab2.app`** uygulamasını başlatın.
+
+---
+
+## 🏰 Game Mechanics / Oyun Mekanikleri
+
+### 🛠️ Defensive Towers / Savunma Kuleleri
+
+| | Name / İsim | Feature / Özellik |
+| :---: | :--- | :--- |
+| 🔩 | **Wrench Thrower / Anahtar Makinesi** | Balanced Damage & Speed / Dengeli Hasar ve Hız |
+| 🕸️ | **Nail Launcher / Çivi Ağ Atar** | Slows down enemies / Düşmanları yavaşlatır |
+| 🛢️ | **Oil Spiller / Yağ Sızdırıcı** | Area Damage (AoE) / Alan Hasarı |
+
+### 🤖 Enemy Units / Düşman Birimleri
+
+| Enemy / Düşman | Type / Tip | Weakness / Zayıflık |
+| :--- | :--- | :--- |
+| **Motorized Raider** | Ground / Kara | Nail Launcher (Slows them down) |
+| **Armored Truck** | Tank | High Damage Towers / Yüksek Hasarlı Kuleler |
+| **Scout Drone** | Flying / Hava | Cannot be hit by Oil Spiller / Yağ Sızdırıcı vuramaz |
+
+---
+
+## 👨‍💻 Developers / Geliştiriciler
 
 | Name | Role | GitHub |
 |---|---|---|
@@ -19,96 +80,4 @@
 | **Emre Acar** | Lead Developer | [@emreacr](https://github.com/emreacr) |
 
 ---
-
-## 🇬🇧 English Documentation
-
-### 🎮 Game Overview
-
-In a post-apocalyptic world where resources are scarce, your garage is the only thing standing between survival and destruction. You must utilize scrap metal collected from fallen enemies to build and upgrade your defenses. Defend against Scouts, Armored Trucks, and Motorized Raiders!
-
-### ✨ Key Features
-
-* **Dynamic Wave System:** Survive increasingly difficult waves of enemies with varied attributes.
-* **Strategic Towers:**
-  * **Nail Launcher (Çivi Ağ Atar):** High single-target damage, slows down enemies.
-  * **Wrench Thrower (Anahtar Makinesi):** Balanced attack speed and range.
-  * **Oil Spiller (Yağ Sızdırıcı):** Area of Effect (AoE) damage and crowd control.
-* **Unique Enemy Types:**
-  * **Scout Drone:** Fast but fragile flying unit.
-  * **Motorized Raider:** Balanced ground unit.
-  * **Armored Truck:** Heavy tank unit with high durability.
-* **Economy System:** Manage your "Scrap" resources wisely to build the ultimate defense.
-* **Combat Log:** Real-time logging of battle events for strategic analysis.
-
-### 🛠️ Installation & How to Run
-
-1. **Clone the Repository:**
-
-    ```bash
-    git clone https://github.com/emirberasoguk/The-Last-Garage.git
-    cd The-Last-Garage
-    ```
-
-2. **Run the Game:**
-    * **Windows:** `gradlew desktop:run`
-    * **Linux/macOS:** `./gradlew desktop:run`
-
----
-
-## 🇹🇷 Türkçe Dokümantasyon
-
-### 🎮 Oyun Hakkında
-
-**The Last Garage**, kaynakların tükendiği post-apokaliptik bir dünyada geçen, strateji odaklı bir Kule Savunma oyunudur. Oyuncuların amacı, insanlığın son sığınağı olan garajı, gelen mekanik düşman dalgalarına karşı korumaktır. Düşmanlardan düşen hurdaları (Scrap) toplayarak savunma hattınızı güçlendirin ve garajı ne pahasına olursa olsun koruyun.
-
-### ✨ Temel Özellikler
-
-* **Dinamik Dalga Sistemi:** Her dalgada zorlaşan ve strateji değiştirmenizi gerektiren düşman akınları.
-* **Stratejik Savunma Kuleleri:**
-  * **Çivi Ağ Atar:** Yüksek hasar verir ve düşmanları yavaşlatır.
-  * **Anahtar Makinesi:** Dengeli atış hızı ve menzili ile güvenilir bir savunma birimidir.
-  * **Yağ Sızdırıcı:** Alan etkili (AoE) hasar vererek toplu düşman gruplarını eritir.
-* **Çeşitli Düşman Birimleri:**
-  * **Gözcü Uçağı:** Hızlı ve uçan birim (Hava savunması gerektirir).
-  * **Motorlu Çapulcu:** Dengeli hıza sahip kara birimi.
-  * **Zırhlı Kamyon:** Yüksek zırhı ve canı ile durdurulması zor bir tank birimi.
-* **Kaynak Yönetimi:** Kısıtlı hurda kaynağını verimli kullanarak en iyi savunma hattını kurun.
-* **Savaş Günlüğü:** Savaş sırasında gerçekleşen tüm hasar ve olayların detaylı kaydını tutan log sistemi.
-
-### 🛠️ Kurulum ve Çalıştırma
-
-1. **Projeyi Klonlayın:**
-
-    ```bash
-    git clone https://github.com/emirberasoguk/The-Last-Garage.git
-    cd The-Last-Garage
-    ```
-
-2. **Oyunu Başlatın:**
-    * **Windows:**
-
-        ```cmd
-        gradlew desktop:run
-        ```
-
-    * **Linux / macOS:**
-
-        ```bash
-        ./gradlew desktop:run
-        ```
-
-### 📂 Proje Yapısı
-
-Proje, **LibGDX** modüler yapısını takip eder:
-
-* `core/`: Oyunun mantığı ve tüm kaynak kodları.
-* `desktop/`: Masaüstü (PC) platformu başlatıcıları.
-* `assets/`: Oyun içi görseller, sesler ve fontlar.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Developed for **Kocaeli University - Programming Laboratory II**.
+*Developed for Kocaeli University - Programming Laboratory II Project.*

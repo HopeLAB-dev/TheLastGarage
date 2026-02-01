@@ -533,6 +533,21 @@ public class GameScreen implements Screen {
 
             e.move(delta);
 
+            // Zombi (HP<=0) temizligi
+            if (e.isDead()) {
+                scrap += e.getReward();
+                totalEnemiesKilled++;
+
+                CombatLog.death(
+                        e.getClass().getSimpleName() + "-" + e.getID(),
+                        e.getReward(),
+                        scrap
+                );
+
+                it.remove();
+                continue;
+            }
+
             if (e.hasReachedEnd()) {
 
                 garageHp -= e.getDamage();
