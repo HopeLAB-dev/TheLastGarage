@@ -21,7 +21,7 @@
 
 Our game comes with a **Bundled JRE**, meaning you can play it even if you don't have Java installed on your computer!
 
-👉 **[⬇️ Download Latest Version (GitHub Releases)](https://github.com/emirberasoguk/The-Last-Garage/releases)**
+👉 **[⬇️ Download Latest Version (GitHub Releases)](https://github.com/HopeLAB-dev/TheLastGarage/releases)**
 
 #### 🎮 How to Run?
 
@@ -36,6 +36,8 @@ Our game comes with a **Bundled JRE**, meaning you can play it even if you don't
 * **Oil Spiller:** Deals Area of Effect (AoE) damage to ground units.
 * **Diverse Enemies:** Scouts (Flying), Raiders (Ground), and Heavy Armored Trucks.
 
+> 📘 **Technical Details:** Curious about how it works? Check out our [Technical Architecture Document](docs/ARCHITECTURE.md).
+
 ---
 
 ## 🇹🇷 Türkçe Dokümantasyon
@@ -44,11 +46,13 @@ Our game comes with a **Bundled JRE**, meaning you can play it even if you don't
 
 **The Last Garage**, kıyamet sonrası bir dünyada geçen, stratejik derinliğe sahip bir Kule Savunma (Tower Defense) oyunudur. Oyuncular, ellerindeki sınırlı hurda kaynaklarını kullanarak savunma kuleleri inşa etmeli ve garajı acımasız mekanik düşmanlara karşı korumalıdır.
 
+> 📘 **Teknik Detaylar:** Projenin mimarisi ve çalışma mantığı için [Teknik Mimari Dokümanı](docs/ARCHITECTURE.md) sayfasını inceleyebilirsiniz.
+
 ### 🚀 İndir ve Oyna (Kurulumsuz)
 
 Oyunumuz **kendi içinde Java motoruyla (Bundled JRE)** birlikte gelir. Yani bilgisayarınızda Java yüklü olmasa bile indirip hemen oynayabilirsiniz!
 
-👉 **[⬇️ Son Sürümü İndir (GitHub Releases)](https://github.com/emirberasoguk/The-Last-Garage/releases)**
+👉 **[⬇️ Son Sürümü İndir (GitHub Releases)](https://github.com/HopeLAB-dev/TheLastGarage/releases)**
 
 #### 🎮 Nasıl Çalıştırılır?
 
