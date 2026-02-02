@@ -3,7 +3,7 @@
 [![Build LibGDX Project](https://github.com/HopeLAB-dev/TheLastGarage/actions/workflows/gradle.yml/badge.svg)](https://github.com/HopeLAB-dev/TheLastGarage/actions/workflows/gradle.yml)
 [![CodeQL](https://github.com/HopeLAB-dev/TheLastGarage/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/HopeLAB-dev/TheLastGarage/actions/workflows/github-code-scanning/codeql)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Linux%20|%20MacOS-lightgrey.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Linux%20|%20MacOS%20|%20Android-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Playable-brightgreen.svg)
 
 [**English Documentation**](#-english-documentation) | [**Türkçe Dokümantasyon**](#-türkçe-dokümantasyon)
@@ -19,20 +19,26 @@
 
 **The Last Garage** is a strategic Tower Defense game set in a post-apocalyptic world. Players must use limited scrap resources to build defensive towers and protect the garage against relentless mechanical enemies.
 
-### 🚀 Download & Play (No Installation Required)
+### 🚀 Download & Play
 
-Our game comes with a **Bundled JRE**, meaning you can play it even if you don't have Java installed on your computer!
+You can play the game on your computer or your Android device!
 
 👉 **[⬇️ Download Latest Version (GitHub Releases)](https://github.com/HopeLAB-dev/TheLastGarage/releases)**
 
 #### 🎮 How to Run?
 
+**Desktop (Bundled JRE - No Java Required):**
 * **Windows:** Extract `TheLastGarage-Windows.zip` and run **`Prolab2.exe`**.
 * **Linux:** Extract `TheLastGarage-Linux.zip` and run **`Prolab2`**. (Use `chmod +x Prolab2` if needed).
 * **MacOS:** Extract `TheLastGarage-MacOS.zip` and run **`Prolab2.app`**.
 
+**Mobile:**
+* **Android:** Download the `.apk` file and install it on your device. (You may need to enable "Install from unknown sources").
+
 ### ✨ Key Features
 
+* **Cross-Platform:** Play on Windows, Linux, MacOS, and Android!
+* **Touch Controls:** Optimized interface for mobile devices.
 * **Nail Launcher:** High damage and slows down enemies.
 * **Wrench Thrower:** Balanced fire rate and range.
 * **Oil Spiller:** Deals Area of Effect (AoE) damage to ground units.
@@ -50,17 +56,21 @@ Our game comes with a **Bundled JRE**, meaning you can play it even if you don't
 
 > 📘 **Teknik Detaylar:** Projenin mimarisi ve çalışma mantığı için [Teknik Mimari Dokümanı](docs/ARCHITECTURE.md) sayfasını inceleyebilirsiniz.
 
-### 🚀 İndir ve Oyna (Kurulumsuz)
+### 🚀 İndir ve Oyna
 
-Oyunumuz **kendi içinde Java motoruyla (Bundled JRE)** birlikte gelir. Yani bilgisayarınızda Java yüklü olmasa bile indirip hemen oynayabilirsiniz!
+Oyunumuzu bilgisayarınızda veya Android cihazınızda oynayabilirsiniz!
 
 👉 **[⬇️ Son Sürümü İndir (GitHub Releases)](https://github.com/HopeLAB-dev/TheLastGarage/releases)**
 
 #### 🎮 Nasıl Çalıştırılır?
 
+**Masaüstü (Kurulumsuz):**
 * **Windows:** `TheLastGarage-Windows.zip` dosyasını çıkartın ve **`Prolab2.exe`** dosyasını çalıştırın.
 * **Linux:** `TheLastGarage-Linux.zip` dosyasını çıkartın ve **`Prolab2`** dosyasını çalıştırın.
 * **MacOS:** `TheLastGarage-MacOS.zip` dosyasını çıkartın ve **`Prolab2.app`** uygulamasını başlatın.
+
+**Mobil:**
+* **Android:** `.apk` dosyasını indirin ve cihazınıza kurun. (Bilinmeyen kaynaklardan yüklemeye izin vermeniz gerekebilir).
 
 ---
 

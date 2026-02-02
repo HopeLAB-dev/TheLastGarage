@@ -1,36 +1,30 @@
 package com.kouceng.prolab2.gui;
 
 import com.badlogic.gdx.Gdx;
-import com.badlogic.gdx.Input;
 import com.badlogic.gdx.Screen;
 import com.badlogic.gdx.graphics.GL20;
-import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.Texture;
-import com.badlogic.gdx.math.Vector3;
+import com.badlogic.gdx.graphics.g2d.TextureRegion;
+import com.badlogic.gdx.scenes.scene2d.InputEvent;
+import com.badlogic.gdx.scenes.scene2d.Stage;
+import com.badlogic.gdx.scenes.scene2d.ui.ImageButton;
+import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
+import com.badlogic.gdx.scenes.scene2d.utils.TextureRegionDrawable;
+import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.kouceng.prolab2.Prolab2;
 
 public class MainMenuScreen implements Screen {
 
     final Prolab2 game;
-    OrthographicCamera camera;
+    private Stage stage;
 
     // Görseller
     private Texture background;
     private Texture logo;
-
-    private Texture btnPlay, btnPlayHover;
-    private Texture btnExit, btnExitHover;
     private Texture isim1, isim2;
 
-    // Buton konumları
-    private float btnWidth = 300;
-    private float btnHeight = 120;
-
-    private float playX;
-    private float playY = 330;
-
-    private float exitX;
-    private float exitY = 200;
+    private Texture btnPlayTex, btnPlayHoverTex;
+    private Texture btnExitTex, btnExitHoverTex;
 
     // Fade-in animasyonu
     private float fadeAlpha = 0f;
@@ -39,23 +33,66 @@ public class MainMenuScreen implements Screen {
     public MainMenuScreen(final Prolab2 game) {
         this.game = game;
 
-        camera = new OrthographicCamera();
-        camera.setToOrtho(false, 1280, 720);
+        // Stage ve Viewport kurulumu
+        stage = new Stage(new FitViewport(1280, 720));
+        Gdx.input.setInputProcessor(stage);
 
-        // Görseller
+        // Görselleri yükle
         background = new Texture("menu_bg.png");
         logo = new Texture("logo.png");
         isim1 = new Texture("isim1.png");
         isim2 = new Texture("isim2.png");
-        btnPlay = new Texture("baslat.png");
-        btnPlayHover = new Texture("baslat_hover.png");
 
-        btnExit = new Texture("cikis.png");
-        btnExitHover = new Texture("cikis_hover.png");
+        btnPlayTex = new Texture("baslat.png");
+        btnPlayHoverTex = new Texture("baslat_hover.png");
+        btnExitTex = new Texture("cikis.png");
+        btnExitHoverTex = new Texture("cikis_hover.png");
 
+        initButtons();
+    }
 
-        playX = (1280 - btnWidth) / 2;
-        exitX = (1280 - btnWidth) / 2;
+    private void initButtons() {
+        // Buton Stilleri
+        TextureRegionDrawable playDrawable = new TextureRegionDrawable(new TextureRegion(btnPlayTex));
+        TextureRegionDrawable playHoverDrawable = new TextureRegionDrawable(new TextureRegion(btnPlayHoverTex));
+        ImageButton.ImageButtonStyle playStyle = new ImageButton.ImageButtonStyle();
+        playStyle.up = playDrawable;
+        playStyle.over = playHoverDrawable;
+        playStyle.down = playHoverDrawable; // Mobilde basılı tutarken de hover efekti görünsün
+
+        ImageButton btnPlay = new ImageButton(playStyle);
+        btnPlay.setSize(300, 120);
+        // Konum hesaplama: (1280 - 300) / 2 = 490
+        btnPlay.setPosition(490, 330);
+
+        btnPlay.addListener(new ClickListener() {
+            @Override
+            public void clicked(InputEvent event, float x, float y) {
+                game.setScreen(new GameScreen(game));
+                dispose();
+            }
+        });
+
+        TextureRegionDrawable exitDrawable = new TextureRegionDrawable(new TextureRegion(btnExitTex));
+        TextureRegionDrawable exitHoverDrawable = new TextureRegionDrawable(new TextureRegion(btnExitHoverTex));
+        ImageButton.ImageButtonStyle exitStyle = new ImageButton.ImageButtonStyle();
+        exitStyle.up = exitDrawable;
+        exitStyle.over = exitHoverDrawable;
+        exitStyle.down = exitHoverDrawable;
+
+        ImageButton btnExit = new ImageButton(exitStyle);
+        btnExit.setSize(300, 120);
+        btnExit.setPosition(490, 200);
+
+        btnExit.addListener(new ClickListener() {
+            @Override
+            public void clicked(InputEvent event, float x, float y) {
+                Gdx.app.exit();
+            }
+        });
+
+        stage.addActor(btnPlay);
+        stage.addActor(btnExit);
     }
 
     @Override
@@ -66,14 +103,11 @@ public class MainMenuScreen implements Screen {
 
         Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
 
-        camera.update();
-        game.batch.setProjectionMatrix(camera.combined);
-
-        Vector3 mousePos = new Vector3(Gdx.input.getX(), Gdx.input.getY(), 0);
-        camera.unproject(mousePos);
-        float mx = mousePos.x;
-        float my = mousePos.y;
-
+        stage.getViewport().apply();
+        
+        // Background ve sabit görselleri çizmek için batch'i başlatıyoruz
+        // Stage kendi batch'ini kullanır ama biz arkaplanı stage'in arkasına çizmek istiyoruz
+        game.batch.setProjectionMatrix(stage.getViewport().getCamera().combined);
         game.batch.begin();
 
         //arka plan
@@ -103,69 +137,34 @@ public class MainMenuScreen implements Screen {
             game.batch.draw(isim2, isim2X, isim2Y, isim2W, isim2H);
         }
 
-        // butonlar
-
-        // OYUNU BAŞLAT
-        boolean hoverPlay = mx > playX && mx < playX + btnWidth &&
-            my > playY && my < playY + btnHeight;
-
-        float scalePlay = hoverPlay ? 1.05f : 1f;
-        float scaledWPlay = btnWidth * scalePlay;
-        float scaledHPlay = btnHeight * scalePlay;
-        float scaledXPlay = playX - (scaledWPlay - btnWidth) / 2;
-        float scaledYPlay = playY - (scaledHPlay - btnHeight) / 2;
-
-        game.batch.draw(
-            hoverPlay ? btnPlayHover : btnPlay,
-            scaledXPlay, scaledYPlay,
-            scaledWPlay, scaledHPlay
-        );
-
-        // ÇIKIŞ
-        boolean hoverExit = mx > exitX && mx < exitX + btnWidth &&
-            my > exitY && my < exitY + btnHeight;
-
-        float scaleExit = hoverExit ? 1.05f : 1f;
-        float scaledWExit = btnWidth * scaleExit;
-        float scaledHExit = btnHeight * scaleExit;
-        float scaledXExit = exitX - (scaledWExit - btnWidth) / 2;
-        float scaledYExit = exitY - (scaledHExit - btnHeight) / 2;
-
-        game.batch.draw(
-            hoverExit ? btnExitHover : btnExit,
-            scaledXExit, scaledYExit,
-            scaledWExit, scaledHExit
-        );
-
         game.batch.end();
 
-        if (Gdx.input.isButtonJustPressed(Input.Buttons.LEFT)) {
+        // Stage'i çiz (Butonlar burada)
+        stage.act(delta);
+        stage.draw();
+    }
 
-            if (hoverPlay) {
-                game.setScreen(new GameScreen(game));
-                dispose();
-            }
-
-            if (hoverExit) {
-                Gdx.app.exit();
-            }
-        }
+    @Override
+    public void resize(int width, int height) {
+        stage.getViewport().update(width, height, true);
     }
 
     @Override
     public void dispose() {
+        stage.dispose();
         background.dispose();
         if (logo != null) logo.dispose();
-        btnPlay.dispose();
-        btnPlayHover.dispose();
-        btnExit.dispose();
-        btnExitHover.dispose();
+        btnPlayTex.dispose();
+        btnPlayHoverTex.dispose();
+        btnExitTex.dispose();
+        btnExitHoverTex.dispose();
         isim1.dispose();
         isim2.dispose();
     }
 
-    @Override public void show() {}
-    @Override public void resize(int width, int height) {}
+    @Override public void show() {
+        Gdx.input.setInputProcessor(stage);
+    }
     @Override public void pause() {}
     @Override public void resume() {}
     @Override public void hide() {}

@@ -12,6 +12,8 @@ import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.math.Vector3;
 import com.badlogic.gdx.scenes.scene2d.Actor;
 import com.badlogic.gdx.utils.Array;
+import com.badlogic.gdx.utils.viewport.FitViewport;
+import com.badlogic.gdx.utils.viewport.Viewport;
 import com.kouceng.prolab2.Prolab2;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 import com.badlogic.gdx.scenes.scene2d.InputEvent;
@@ -41,6 +43,7 @@ public class GameScreen implements Screen {
     // oyun alanları ( degiskenleri )
     final Prolab2 game;
     private OrthographicCamera camera;
+    private Viewport gameViewport;
     private ShapeRenderer shapeRenderer;
 
     private Texture mapTexture;
@@ -66,7 +69,7 @@ public class GameScreen implements Screen {
     private boolean isGameOver = false;
     private boolean isPaused = false;
     private boolean isWaveActive = false;
-    private float gameSpeed = 2f;
+    private float gameSpeed = 1.5f;
 
     private Array<dusman> enemies;
     private Array<kule> towers;
@@ -108,7 +111,9 @@ public class GameScreen implements Screen {
         CombatLog.resetLog();
 
         camera = new OrthographicCamera();
-        camera.setToOrtho(false, 1280, 720);
+        gameViewport = new FitViewport(1280, 720, camera);
+        gameViewport.apply();
+        camera.position.set(camera.viewportWidth / 2, camera.viewportHeight / 2, 0);
 
         shapeRenderer = new ShapeRenderer();
 
@@ -138,7 +143,8 @@ public class GameScreen implements Screen {
         texKamyon = new Texture("zirhli_kamyon.png");
         texUcak = new Texture("gozcu_ucagi.png");
 
-        uiStage = new Stage(new ScreenViewport());
+        // UI Stage viewport'u da FitViewport yapıldı
+        uiStage = new Stage(new FitViewport(1280, 720));
         Gdx.input.setInputProcessor(uiStage);
 
         initButtons();
@@ -271,6 +277,7 @@ public class GameScreen implements Screen {
         if (isTutorialOpen) {
             Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
 
+            camera.update();
             // Arka plani cizmeye devam et ama update etme
             game.batch.setProjectionMatrix(camera.combined);
             game.batch.begin();
@@ -399,7 +406,7 @@ public class GameScreen implements Screen {
         // Tiklama Kontrolu
         if (Gdx.input.isButtonJustPressed(Input.Buttons.LEFT)) {
             Vector3 m = new Vector3(Gdx.input.getX(), Gdx.input.getY(), 0);
-            camera.unproject(m);
+            gameViewport.unproject(m); // unproject with viewport
 
             if (m.x > btnX && m.x < btnX + btnW && m.y > btnY && m.y < btnY + btnH) {
                 isTutorialOpen = false;
@@ -688,7 +695,7 @@ public class GameScreen implements Screen {
     private void drawGhost() {
 
         Vector3 m = new Vector3(Gdx.input.getX(), Gdx.input.getY(), 0);
-        camera.unproject(m);
+        gameViewport.unproject(m); // Use viewport unproject
 
         ghostSnap = getClosestSpot(m.x, m.y);
         if (ghostSnap == null)
@@ -757,7 +764,7 @@ public class GameScreen implements Screen {
 
         // mouse hover
         Vector3 mouse = new Vector3(Gdx.input.getX(), Gdx.input.getY(), 0);
-        camera.unproject(mouse);
+        gameViewport.unproject(mouse); // Use viewport unproject
         float mx = mouse.x;
         float my = mouse.y;
 
@@ -816,8 +823,11 @@ public class GameScreen implements Screen {
     }
 
     private void drawTooltip(com.badlogic.gdx.graphics.g2d.SpriteBatch batch, String text) {
-        float x = Gdx.input.getX() + 15;
-        float y = Gdx.graphics.getHeight() - Gdx.input.getY() - 15;
+        // Corrected logic for tooltip position using unproject
+        Vector3 m = new Vector3(Gdx.input.getX(), Gdx.input.getY(), 0);
+        gameViewport.unproject(m);
+        float x = m.x + 15;
+        float y = m.y - 15;
 
         // Basit siyah arka plan (fontun olcusunu almadan sabit yapiyoruz simdilik)
         // Daha karmasik yapi icin GlyphLayout gerekir ama bu is gorur
@@ -982,6 +992,8 @@ public class GameScreen implements Screen {
 
     @Override
     public void resize(int w, int h) {
+        gameViewport.update(w, h, true);
+        uiStage.getViewport().update(w, h, true);
     }
 
     @Override
