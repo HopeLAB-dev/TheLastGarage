@@ -6,9 +6,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 public class MotorluCapulcu extends dusman {
 
     public MotorluCapulcu() {
-        super(50, 50, 0, 15, false, 5);
-
-
+        super(60, 50, 0, 10, false, 15);
 
         setTexture(new Texture("motorlu_capulcu.png"));
 

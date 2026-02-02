@@ -7,15 +7,13 @@ import java.util.Random;
 public class ZirhliKamyon extends dusman {
 
     public ZirhliKamyon() {
-        super(75, 25, 0, 35, false, 10);
+        super(75, 35, 0, 25, false, 30);
 
         // Rastgele zırh
         Random rand = new Random();
         this.armor = 50 + rand.nextInt(51);
 
-
         setTexture(new Texture("zirhli_kamyon.png"));
-
 
         width = 80;
         height = 120;
